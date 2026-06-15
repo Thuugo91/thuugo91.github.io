@@ -4,6 +4,9 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Kezdőlap</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
   :root{
     --bg:#0e1116; --card:#171c24; --card2:#1f2632; --line:#2a3340;
@@ -15,20 +18,20 @@
   }
   [data-theme="light"] body{background-image:radial-gradient(900px 500px at 80% -10%,rgba(42,127,222,.08),transparent),radial-gradient(700px 400px at -10% 110%,rgba(214,132,31,.06),transparent);}
   *{box-sizing:border-box;margin:0;padding:0}
-  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  body{font-family:'Montserrat',-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
     background:var(--bg);color:var(--txt);min-height:100vh;padding:18px;
     background-image:radial-gradient(900px 500px at 80% -10%,rgba(74,168,255,.10),transparent),
                      radial-gradient(700px 400px at -10% 110%,rgba(255,180,84,.07),transparent);}
   .wrap{max-width:1180px;margin:0 auto}
-  .top{display:flex;flex-wrap:wrap;align-items:baseline;gap:10px 22px;justify-content:space-between;
-    background:var(--card);border:1px solid var(--line);border-radius:18px;padding:18px 24px;margin-bottom:16px}
-  .clock{font-size:54px;font-weight:700;letter-spacing:1px;line-height:1}
-  .clock .sec{font-size:26px;color:var(--dim)}
-  .datebox{text-align:right}
-  .datebox .d{font-size:19px;font-weight:600}
-  .datebox .w{font-size:14px;color:var(--dim);margin-top:3px}
-  .week-pill{display:inline-block;background:var(--card2);border:1px solid var(--line);
-    color:var(--accent);font-weight:700;border-radius:999px;padding:3px 12px;font-size:13px;margin-left:8px}
+  .top{display:flex;flex-wrap:wrap;align-items:center;gap:16px 30px;justify-content:space-between;
+    background:var(--card);border:1px solid var(--line);border-radius:18px;padding:20px 28px;margin-bottom:16px}
+  .clock{font-size:62px;font-weight:800;letter-spacing:1px;line-height:1}
+  .tdate{text-align:center;flex:1 1 auto}
+  .tdate .d{font-size:27px;font-weight:700;line-height:1.1}
+  .tdate .dn{font-size:18px;color:var(--dim);margin-top:4px;font-weight:500}
+  .tweek{text-align:center;background:var(--card2);border:1px solid var(--line);border-radius:16px;padding:9px 22px}
+  .tweek .wn{font-size:32px;font-weight:800;color:var(--accent);line-height:1}
+  .tweek .wl{font-size:12px;color:var(--dim);text-transform:uppercase;letter-spacing:.12em;margin-top:2px}
   .grid{display:grid;grid-template-columns:repeat(12,1fr);gap:16px}
   .card{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:18px}
   .card h2{font-size:13px;text-transform:uppercase;letter-spacing:.08em;color:var(--dim);
@@ -114,11 +117,12 @@
 <div class="wrap">
 
   <div class="top">
-    <div><div class="clock" id="clock">--:--<span class="sec">:--</span></div></div>
-    <div class="datebox">
-      <div class="d" id="date">betöltés…</div>
-      <div class="w" id="weekday">—</div>
+    <div class="clock" id="clock">--:--</div>
+    <div class="tdate">
+      <div class="d" id="date">—</div>
+      <div class="dn" id="weekday">—</div>
     </div>
+    <div class="tweek"><div class="wn" id="weeknum">—</div><div class="wl">hét</div></div>
   </div>
 
   <div class="grid">
@@ -157,18 +161,14 @@
       <table class="cal" id="calendar"></table>
     </div>
 
-    <div class="card col-8">
-      <h2><span class="ttl">📰 Hírek</span></h2>
-      <div class="news-soon">A hírek szekciót együtt rakjuk össze — hamarosan (forrás, témák, megjelenés egyeztetés alatt).</div>
+    <div class="card col-6">
+      <h2><span class="ttl">📰 Magyar hírek</span></h2>
+      <div class="news-soon">Hamarosan — a forrásokat és a megjelenést együtt állítjuk be.</div>
     </div>
 
-    <div class="card col-4">
-      <h2><span class="ttl">📊 Állapotjelzők</span></h2>
-      <div class="status" id="status">
-        <div class="chip"><span class="dot g"></span><span id="st-net">Online</span></div>
-        <div class="chip"><span class="dot a"></span><span id="st-day">—</span></div>
-        <div class="chip"><span class="dot g"></span><span id="st-week">— . hét</span></div>
-      </div>
+    <div class="card col-6">
+      <h2><span class="ttl">🌍 Idegennyelvű hírek</span></h2>
+      <div class="news-soon">Hamarosan — a forrásokat és a megjelenést együtt állítjuk be.</div>
     </div>
 
   </div>
@@ -194,12 +194,10 @@ function pad(n){return String(n).padStart(2,'0')}
 
 function tick(){
   const d=new Date();
-  document.getElementById('clock').innerHTML=`${pad(d.getHours())}:${pad(d.getMinutes())}<span class="sec">:${pad(d.getSeconds())}</span>`;
+  document.getElementById('clock').textContent=`${pad(d.getHours())}:${pad(d.getMinutes())}`;
   document.getElementById('date').textContent=`${d.getFullYear()}. ${HU_MONTHS[d.getMonth()]} ${d.getDate()}.`;
-  const wk=isoWeek(d);
-  document.getElementById('weekday').innerHTML=`${HU_DAYS[d.getDay()]} <span class="week-pill">${wk}. hét</span>`;
-  document.getElementById('st-day').textContent=HU_DAYS[d.getDay()];
-  document.getElementById('st-week').textContent=`${wk}. hét`;
+  document.getElementById('weekday').textContent=HU_DAYS[d.getDay()];
+  document.getElementById('weeknum').textContent=isoWeek(d);
 }
 setInterval(tick,1000); tick();
 
@@ -349,7 +347,7 @@ function applyTheme(t){document.documentElement.setAttribute('data-theme',t);
 let theme=localStorage.getItem(THEME_KEY)||'dark';applyTheme(theme);
 document.getElementById('theme-toggle').onclick=()=>{theme=(theme==='dark')?'light':'dark';localStorage.setItem(THEME_KEY,theme);applyTheme(theme);};
 
-document.getElementById('built').textContent='v3 · '+new Date().getFullYear();
+document.getElementById('built').textContent='v4 · '+new Date().getFullYear();
 </script>
 </body>
 </html>
