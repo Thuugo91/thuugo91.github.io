@@ -453,6 +453,17 @@ async function loadUsage(){
         '<div class="usage-bar"><i style="width:'+pct+'%;background:linear-gradient(90deg,var(--good),var(--accent))"></i></div>'+
         '<div class="usage-sub">Felhasznált eddig: $'+used.toFixed(2)+'</div></div>';
     }
+    const dl=c.daily||[];
+    if(dl.length){
+      h+='<div class="usage-row"><div class="usage-head">Heti napi bontás (Pro keretre vetítve)</div>';
+      dl.forEach(x=>{const pp=Math.min(100,x.pct_pro);
+        h+='<div style="display:flex;align-items:center;gap:8px;margin-bottom:5px">'+
+          '<span style="font-size:12px;width:74px;color:var(--dim)">'+esc2(x.date.slice(5))+' '+esc2(x.wd)+'</span>'+
+          '<div class="usage-bar" style="flex:1"><i style="width:'+pp+'%;background:var(--accent)"></i></div>'+
+          '<span style="font-size:12px;width:46px;text-align:right"><b>'+x.pct_pro+'%</b></span></div>';});
+      const totPro=dl.reduce((s,x)=>s+(x.pct_pro||0),0);
+      h+='<div class="usage-sub">Az egész hét eddig: '+totPro.toFixed(0)+'% a Pro heti keretéből (a többi szabad).</div></div>';
+    }
     document.getElementById('usage-body').innerHTML=h;
     document.getElementById('usage-upd').textContent='frissítve: '+timeAgo(u.updated);
   }catch(e){document.getElementById('usage-body').innerHTML='<div class="news-soon">Adat hamarosan (a frissítő feltölti).</div>';}
@@ -476,7 +487,7 @@ function applyTheme(t){document.documentElement.setAttribute('data-theme',t);
 let theme=localStorage.getItem(THEME_KEY)||'dark';applyTheme(theme);
 document.getElementById('theme-toggle').onclick=()=>{theme=(theme==='dark')?'light':'dark';localStorage.setItem(THEME_KEY,theme);applyTheme(theme);};
 
-document.getElementById('built').textContent='v11 · '+new Date().getFullYear();
+document.getElementById('built').textContent='v12 · '+new Date().getFullYear();
 </script>
 </body>
 </html>
