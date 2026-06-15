@@ -1,0 +1,370 @@
+{
+ "updated": "2026-06-15T12:16:25.608842+00:00",
+ "categories": [
+  {
+   "name": "🎮 Film, játék, tech (HU)",
+   "items": [
+    {
+     "t": "375 rétegű 3D NAND flash chipek gyártásába kezd az SK Hynix",
+     "l": "https://pcforum.hu/hirek/31143/sk-hynix-375-retegu-3d-nand-flash-memoriachip-gyartas",
+     "s": "PC Fórum",
+     "d": "2026-06-15T12:10:00+00:00",
+     "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/f/a5/a5b075a7f5bc9e343123c43fc1b80/3d-nand-chip-layers-by-chatgpt-1-extended--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>A dél-koreai SK Hynix még az év vége előtt megkezdi következő generációs, 375 rétegű 3D NAND flash memóriachipjeinek tömeggyártását -  szivárgott ki a cégtől. Ezeknek köszönhetően a korábbiaknál jóval nagyobb kapacitású SSD-k, illetve memóriakártyák jelenhetnek majd meg a piacon.",
+     "plain": "A dél-koreai SK Hynix még az év vége előtt megkezdi következő generációs, 375 rétegű 3D NAND flash memóriachipjeinek tömeggyártását - szivárgott ki a cégtől. Ezeknek köszönhetően a korábbiaknál jóval nagyobb kapacitású SSD-k, illetve memóri",
+     "img": "https://pcforum.hu/assets/pcforum.hashed/f/a5/a5b075a7f5bc9e343123c43fc1b80/3d-nand-chip-layers-by-chatgpt-1-extended--dyn--rss.jpeg"
+    },
+    {
+     "t": "Meglepő, meg nem is, hogy mi lett az idei Summer Game Fest legnézettebb bemutatója egy friss kimutatás szerint",
+     "l": "https://hu.ign.com/summer-game-fest-2026/112272/meglepo-meg-nem-is-hogy-mi-lett-az-idei-summer-game-fest-legnezettebb-bemutatoja-egy-friss-kimutatas",
+     "s": "IGN Hungary",
+     "d": "2026-06-15T12:07:34+00:00",
+     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/photo/default/summer-game-fest-2025-1749242853288_fae9.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nA Summer Game Fest több érdekes bemutatót is hozott, de egy simán lekörözte a többit nézettségben.",
+     "plain": "A Summer Game Fest több érdekes bemutatót is hozott, de egy simán lekörözte a többit nézettségben.",
+     "img": "https://sm.ign.com/ign_hu/photo/default/summer-game-fest-2025-1749242853288_fae9.jpg"
+    },
+    {
+     "t": "Akár már idén megszavazhatják a britek a közösségi média tiltását",
+     "l": "https://www.pcguru.hu/hirek/tech-akar-mar-iden-megszavazhatjak-a-britek-a-kozossegi-media-tiltasat-tbr/101685",
+     "s": "PC Guru",
+     "d": "2026-06-15T12:00:00+00:00",
+     "sum": "Döntött a brit kormány, áttolják a közösségi média betiltását a parlamenten.",
+     "plain": "Döntött a brit kormány, áttolják a közösségi média betiltását a parlamenten.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/akar_mar_iden_megszavazhatjak_a_britek_a_kozossegi_media_tiltasat_1781518434_2415e2b46edac7e18650.jpg"
+    },
+    {
+     "t": "Robusztus grafikai módokat ígér konzolokon az Onimusha: Way of the Sword, de itt a PC-s gépigény is",
+     "l": "https://www.gamekapocs.hu/hir/93772/robusztus_grafikai_modokat_iger_konzolokon_az_onimusha_way_of_the_sword_de_itt_a_pc_s_gepigeny_is",
+     "s": "Gamekapocs",
+     "d": "2026-06-15T12:00:00+00:00",
+     "sum": "Az ingyenes demót már egymillió játékos tette magáévá, így elég nagy rá az esély, hogy a Capcom szamurájos sorozata újra rivaldafénybe kerül idén ősszel. Lássuk, hogyan fut a Onimusha: Way of the Sword konzolokon és azt, milyen PC kell alá!",
+     "plain": "Az ingyenes demót már egymillió játékos tette magáévá, így elég nagy rá az esély, hogy a Capcom szamurájos sorozata újra rivaldafénybe kerül idén ősszel. Lássuk, hogyan fut a Onimusha: Way of the Sword konzolokon és azt, milyen PC kell alá!",
+     "img": ""
+    },
+    {
+     "t": "Családi bérlet kapható a Cinema City mozikban, amivel nemcsak nyáron, hanem azt követően is kedvezményes áron nézhetünk várva várt filmeket",
+     "l": "https://hu.ign.com/cinema-city/112273/csaladi-berlet-kaphato-a-cinema-city-mozikban-amivel-nemcsak-nyaron-hanem-azt-kovetoen-is-kedvezmeny",
+     "s": "IGN Hungary",
+     "d": "2026-06-15T11:49:02+00:00",
+     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/screenshot/default/blob_ku3a.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nA tíz jegyet tartalmazó csomaggal bizonyos filmeket lehet megtekinteni, melyek listája folyamatosan frissülni fog.",
+     "plain": "A tíz jegyet tartalmazó csomaggal bizonyos filmeket lehet megtekinteni, melyek listája folyamatosan frissülni fog.",
+     "img": "https://sm.ign.com/ign_hu/screenshot/default/blob_ku3a.jpg"
+    },
+    {
+     "t": "A Clayface-film nem egy különálló Batman-mellékág lesz",
+     "l": "https://www.gsplus.hu/masvilag/a-clayfacefilm-nem-egy-kulonallo-batmanmellekag-lesz-383697.html",
+     "s": "GameStar",
+     "d": "2026-06-15T11:32:21+00:00",
+     "sum": "James Gunn tisztázta, hol a helye az új DC-horrornak.",
+     "plain": "James Gunn tisztázta, hol a helye az új DC-horrornak.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2604/23/clayface_agyagpofa_102205_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Az AMD olcsóbb AI-minigéppel menne neki az Nvidiának",
+     "l": "https://www.pcwplus.hu/pcwlite/az-amd-olcsobb-aiminigeppel-menne-neki-az-nvidianak-383702.html",
+     "s": "GameStar",
+     "d": "2026-06-15T11:18:51+00:00",
+     "sum": "A Ryzen AI Halo fejlesztői gép Windowst és Linuxot is támogat.",
+     "plain": "A Ryzen AI Halo fejlesztői gép Windowst és Linuxot is támogat.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/15/amd_ryzen_ai_halo_092732_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Dead by Daylight grafikai átalakítás",
+     "l": "https://hu.ign.com/dead-by-daylight/112271/dead-by-daylight-grafikai-atalakitas",
+     "s": "IGN Hungary",
+     "d": "2026-06-15T11:08:38+00:00",
+     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/gallery/d/dead-by-da/dead-by-daylight-10th-anniversary-broadcast-visual-overhaul_dsq5.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />",
+     "plain": "",
+     "img": "https://sm.ign.com/ign_hu/gallery/d/dead-by-da/dead-by-daylight-10th-anniversary-broadcast-visual-overhaul_dsq5.jpg"
+    },
+    {
+     "t": "Bohócrém is megérkezik hamarosan az idén 10 éves Dead by Daylightba, amit több téren is megújítanak a készítők",
+     "l": "https://hu.ign.com/dead-by-daylight/112270/bohocrem-is-megerkezik-hamarosan-az-iden-10-eves-dead-by-daylightba-amit-tobb-teren-is-megujitanak-a",
+     "s": "IGN Hungary",
+     "d": "2026-06-15T11:08:38+00:00",
+     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/photo/default/dead-by-daylight-art-the-clown-terrifier-chapter-17814948037_xhj9.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nBővül és megszépül a Behaviour Interactive még mindig népszerű horrorjátéka.",
+     "plain": "Bővül és megszépül a Behaviour Interactive még mindig népszerű horrorjátéka.",
+     "img": "https://sm.ign.com/ign_hu/photo/default/dead-by-daylight-art-the-clown-terrifier-chapter-17814948037_xhj9.jpg"
+    },
+    {
+     "t": "Új romantikus kedvenc ugrott a Prime Video magyar toplistájának élére",
+     "l": "https://www.gsplus.hu/masvilag/uj-romantikus-kedvenc-ugrott-a-prime-video-magyar-toplistajanak-elere-383693.html",
+     "s": "GameStar",
+     "d": "2026-06-15T11:03:39+00:00",
+     "sum": "Az Every Year After letaszította az Off-Campust az első helyről.",
+     "plain": "Az Every Year After letaszította az Off-Campust az első helyről.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2407/09/prime_video_111713_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Még 4 DLC érkezhetett volna a Star Wars: Outlawshoz – Mindet elkaszálták",
+     "l": "https://www.pcguru.hu/hirek/meg-4-dlc-erkezhetett-volna-a-star-wars-outlawshoz-mindet-elkaszaltak-szlav/101686",
+     "s": "PC Guru",
+     "d": "2026-06-15T11:00:00+00:00",
+     "sum": "Ha pár fokkal jobban sikerül a rajt és nem vérzik el a Star Wars: Outlaws, akkor mára minden idők egyik legnagyobb Star Wars-kalandjaként ismernénk Kay Vess sztoriját.",
+     "plain": "Ha pár fokkal jobban sikerül a rajt és nem vérzik el a Star Wars: Outlaws, akkor mára minden idők egyik legnagyobb Star Wars-kalandjaként ismernénk Kay Vess sztoriját.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/meg_4_dlc_erkezhetett_volna_a_star_wars_outlawshoz__mindet_elkaszaltak_1781518645_a989b48beff10695dba4.jpg"
+    },
+    {
+     "t": "Jóval hosszabb és kiterjedtebb lesz a Senua, mint a korábbi Hellblade-címek",
+     "l": "https://www.gamekapocs.hu/hir/93771/joval_hosszabb_es_kiterjedtebb_lesz_a_senua_mint_a_korabbi_hellblade_cimek",
+     "s": "Gamekapocs",
+     "d": "2026-06-15T11:00:00+00:00",
+     "sum": "A Ninja Theory ezúttal nem akar kompromisszumukat hozni, hiszen egy teljes értékű akció-kalandot ígér, miközben az élményt szándékosan Senua sztorija köré építi. Még a harcokra is nagyobb hangsúly fektetnek a srácok.",
+     "plain": "A Ninja Theory ezúttal nem akar kompromisszumukat hozni, hiszen egy teljes értékű akció-kalandot ígér, miközben az élményt szándékosan Senua sztorija köré építi. Még a harcokra is nagyobb hangsúly fektetnek a srácok.",
+     "img": ""
+    },
+    {
+     "t": "A Tisza Párt elismerte, hogy hibázott, de azért fent hagyta a furcsán ismerős posztot a kormány hivatalos oldalán",
+     "l": "https://www.gsplus.hu/elet/magyarorszag-kormanya-tisza-part-kormanykommunikacio-facebook-a-tisza-part-elismerte-hogy-hibazott-de-azert-fent-hagyta-a-furcsan-ismeros-posztot-a-kormany-hivatalos-oldalan-383708.html",
+     "s": "GameStar",
+     "d": "2026-06-15T10:33:20+00:00",
+     "sum": "Továbbra is elérhető a sajnos túlzottan is ismerős poszt Magyarország Kormányának hivatalos Facebook-oldalán, pedig semmi keresnivalója sincs ott.",
+     "plain": "Továbbra is elérhető a sajnos túlzottan is ismerős poszt Magyarország Kormányának hivatalos Facebook-oldalán, pedig semmi keresnivalója sincs ott.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/15/kormany_095936_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Az LG új gamer monitora PC nélkül is futtat játékokat",
+     "l": "https://www.pcwplus.hu/pcwlite/az-lg-uj-gamer-monitora-pc-nelkul-is-futtat-jatekokat-383700.html",
+     "s": "GameStar",
+     "d": "2026-06-15T10:14:03+00:00",
+     "sum": "A 34 hüvelykes OLED kijelzőn webOS és felhős játék is van.",
+     "plain": "A 34 hüvelykes OLED kijelzőn webOS és felhős játék is van.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/15/lg_ultragear_34gx90sb_w_092505_2_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Szinte teljesen lecserélődött a HBO Max filmes toplistája",
+     "l": "https://www.gsplus.hu/masvilag/szinte-teljesen-lecserelodott-a-hbo-max-filmes-toplistaja-383692.html",
+     "s": "GameStar",
+     "d": "2026-06-15T10:02:31+00:00",
+     "sum": "A sorozatoknál stabil az élmezőny, a filmeknél nagy volt a mozgás.",
+     "plain": "A sorozatoknál stabil az élmezőny, a filmeknél nagy volt a mozgás.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2508/29/hbo_max_173247_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "És az megvan, hogy az Agymenők Kaley Cuocója egy olyan, Denzel Washington és Russell Crowe főszereplésével készült sci-fiben debütált, amit már rég elfeledett a",
+     "l": "https://hu.ign.com/kaley-cuoco/112269/es-az-megvan-hogy-az-agymenok-kaley-cuocoja-egy-olyan-denzel-washington-es-russell-crowe-foszereples",
+     "s": "IGN Hungary",
+     "d": "2026-06-15T10:00:04+00:00",
+     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/screenshot/default/blob_vbae.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nA film finoman szólva sem sült el jól, de a rendezője szerint az akkor még csak 9 éves színésznőnek köszönhették Washington „millió dolláros mosolyát.”",
+     "plain": "A film finoman szólva sem sült el jól, de a rendezője szerint az akkor még csak 9 éves színésznőnek köszönhették Washington „millió dolláros mosolyát.”",
+     "img": "https://sm.ign.com/ign_hu/screenshot/default/blob_vbae.jpg"
+    },
+    {
+     "t": "A Dark Arisen legjobb újdonsága, hogy felszámolja a Dragon's Dogma 2 aljas mikrotranzakcióit",
+     "l": "https://www.pcguru.hu/hirek/a-dark-arisen-legjobb-ujdonsaga-hogy-felszamolja-a-dragons-dogma-2-aljas-mikrotranzakcioit-szlav/101683",
+     "s": "PC Guru",
+     "d": "2026-06-15T10:00:00+00:00",
+     "sum": "A kiadó úgy döntött, hogy a közelgő frissítések és a Dark Arisen kiegészítő érkezése előtt kivezeti a játékból azokat a fizetős \"időspóroló\" opciókat, amelyek a játék rajtjakor nagy botrányt kavartak.",
+     "plain": "A kiadó úgy döntött, hogy a közelgő frissítések és a Dark Arisen kiegészítő érkezése előtt kivezeti a játékból azokat a fizetős \"időspóroló\" opciókat, amelyek a játék rajtjakor nagy botrányt kavartak.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/a_dark_arisen_legjobb_ujdonsaga_hogy_kiirtja_a_dragons_dogma_2_aljas_mikrotranzakcioit_1781515363_b7eaad878e7e138dd4f3.jpg"
+    },
+    {
+     "t": "Visszatérnek a különálló nehézségi beállítások a Tomb Raider: Legacy of Atlantisben",
+     "l": "https://www.gamekapocs.hu/hir/93770/visszaternek_a_kulonallo_nehezsegi_beallitasok_a_tomb_raider_legacy_of_atlantisben",
+     "s": "Gamekapocs",
+     "d": "2026-06-15T10:00:00+00:00",
+     "sum": "Noha a Tomb Raider: Legacy of Atlantis Lara Croft legelső, 1996-os kalandját dolgozza fel, egy ponton a Crystal Dynamics srácai a nyolc évvel ezelőtti Shadow of the Tomb Raiderből merítenek ihletet. A részletes nehézségválasztóról van szó.",
+     "plain": "Noha a Tomb Raider: Legacy of Atlantis Lara Croft legelső, 1996-os kalandját dolgozza fel, egy ponton a Crystal Dynamics srácai a nyolc évvel ezelőtti Shadow of the Tomb Raiderből merítenek ihletet. A részletes nehézségválasztóról van szó.",
+     "img": ""
+    },
+    {
+     "t": "Ausztrália után a britek is kitiltják a 16 év alatti gyerekeket a közösségi médiából, könnyen lehet, hogy új trend van kialakulóban",
+     "l": "https://hu.ign.com/egyesult-kiralysag/112268/ausztralia-utan-a-britek-is-kitiltjak-a-16-ev-alatti-gyerekeket-a-kozossegi-mediabol-konnyen-lehet-h",
+     "s": "IGN Hungary",
+     "d": "2026-06-15T09:54:23+00:00",
+     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/shot/r/ralph-brea/ralph-breaks-the-internet-december-11-br-br-video-game-bad-g_6gxp.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nA szigorítás következtében várhatóan alaposan megcsappan majd a legnépszerűbb platformok közössége.",
+     "plain": "A szigorítás következtében várhatóan alaposan megcsappan majd a legnépszerűbb platformok közössége.",
+     "img": "https://sm.ign.com/ign_hu/shot/r/ralph-brea/ralph-breaks-the-internet-december-11-br-br-video-game-bad-g_6gxp.jpg"
+    },
+    {
+     "t": "Ma még ingyen behúzható ez a hátborzongató Steam-játék",
+     "l": "https://www.gsplus.hu/ingyen-jatekok/ma-meg-ingyen-behuzhato-ez-a-hatborzongato-steamjatek-383714.html",
+     "s": "GameStar",
+     "d": "2026-06-15T09:42:36+00:00",
+     "sum": "A Happy&#39;s Humble Burger Farm örökre a könyvtárban marad.",
+     "plain": "A Happy&#39;s Humble Burger Farm örökre a könyvtárban marad.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/04/steam_ingyen_jatek_051208_4_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Jön a magyar fejlesztésű cyberpunk horror, ami a megboldogult Magyarországon játszódik",
+     "l": "https://www.pcguru.hu/hirek/jon-a-magyar-fejlesztesu-cyberpunk-horror-ami-a-megboldogult-magyarorszagon-jatszodik-tzeus/101684",
+     "s": "PC Guru",
+     "d": "2026-06-15T09:40:00+00:00",
+     "sum": "Magyarország eltűnt, és ami a helyén maradt, az még ijesztőbb, de épp oly izgalmas is.",
+     "plain": "Magyarország eltűnt, és ami a helyén maradt, az még ijesztőbb, de épp oly izgalmas is.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/jon_a_magyar_fejlesztesu_cyberpunk_horror_ami_a_megboldogult_magyarorszagon_jatszodik_1781515994_09b7a8fd22021e47e5eb.jpg"
+    },
+    {
+     "t": "Már most vitát indított a God of War új istennője",
+     "l": "https://www.gsplus.hu/hir/mar-most-vitat-inditott-a-god-of-war-uj-istennoje-383695.html",
+     "s": "GameStar",
+     "d": "2026-06-15T09:30:38+00:00",
+     "sum": "A Laufey egyik ellenfele eltérhet az egyiptomi mitológiától.",
+     "plain": "A Laufey egyik ellenfele eltérhet az egyiptomi mitológiától.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/15/god_of_war_laufey_085720_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Botfiókokkal turbózhatták fel magyar politikai szereplők eléréseit",
+     "l": "https://www.pcwplus.hu/pcwlite/botfiokokkal-turbozhattak-fel-magyar-politikai-szereplok-elereseit-383699.html",
+     "s": "GameStar",
+     "d": "2026-06-15T09:17:11+00:00",
+     "sum": "A 444 egy 18 éves botfarmos történetét írta meg.",
+     "plain": "A 444 egy 18 éves botfarmos történetét írta meg.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/15/botfarm_092118_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Toy Story-láz tarolta le a Disney+ magyar toplistáját",
+     "l": "https://www.gsplus.hu/masvilag/toy-storylaz-tarolta-le-a-disney-magyar-toplistajat-383691.html",
+     "s": "GameStar",
+     "d": "2026-06-15T09:04:22+00:00",
+     "sum": "Az Agyugrász maradt az első, de mögötte Pixar-uralom jött.",
+     "plain": "Az Agyugrász maradt az első, de mögötte Pixar-uralom jött.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2409/25/disney_disney_plus_203419_2_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Egy Netflix-sorozatról ismert rendező veszi kezébe a Dead by Daylight filmváltozatának rendezését, a forgatókönyvet pedig igazi horrorveteránok írják",
+     "l": "https://hu.ign.com/dead-by-daylight-1/112267/egy-netflix-sorozatrol-ismert-rendezo-veszi-kezebe-a-dead-by-daylight-filmvaltozatanak-rendezeset-a",
+     "s": "IGN Hungary",
+     "d": "2026-06-15T09:03:56+00:00",
+     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/photo/default/dead-by-daylight-jason-1779559537807_539r.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nA játék 10. évfordulója alkalmából elárultak egy fontos részletet a Blumhouse-nál készülő adaptációról.",
+     "plain": "A játék 10. évfordulója alkalmából elárultak egy fontos részletet a Blumhouse-nál készülő adaptációról.",
+     "img": "https://sm.ign.com/ign_hu/photo/default/dead-by-daylight-jason-1779559537807_539r.jpg"
+    },
+    {
+     "t": "Hasznos funkcióval bővül a Waze",
+     "l": "https://www.pcwplus.hu/pcwlite/hasznos-funkcioval-bovul-a-waze-383712.html",
+     "s": "GameStar",
+     "d": "2026-06-15T09:03:20+00:00",
+     "sum": "A lámpás kereszteződések is megjelenhetnek a térképen.",
+     "plain": "A lámpás kereszteződések is megjelenhetnek a térképen.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2212/06/waze_kozlekedes_133129_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Kis pénz, kis foci, ellenben rengeteg focis játék!",
+     "l": "https://www.pcguru.hu/hirek/focilaz-a-steamne-a-vb-nek-hala-most-fillerekert-viheted-a-legjobb-focis-jatekokat-szlav/101680",
+     "s": "PC Guru",
+     "d": "2026-06-15T09:00:00+00:00",
+     "sum": "Ez nem gombfoci, de mégis gombokért csaphatsz most le az elmúlt évek legjobb labdarúgós játékaira! Természetesen mindezt a foci-vb szellemében.",
+     "plain": "Ez nem gombfoci, de mégis gombokért csaphatsz most le az elmúlt évek legjobb labdarúgós játékaira! Természetesen mindezt a foci-vb szellemében.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/focilaz_a_steamen_a_vb-nek_hala_most_fillerekert_viheted_a_legjobb_focis_jatekokat_1781511980_c98784f383ff88c30399.jpg"
+    },
+    {
+     "t": "A Microsoft állítólag külső leányvállalattá alakítaná az XBOX-ot",
+     "l": "https://www.gamekapocs.hu/hir/93769/a_microsoft_allitolag_kulso_leanyvallalatta_alakitana_az_xbox_ot",
+     "s": "Gamekapocs",
+     "d": "2026-06-15T09:00:00+00:00",
+     "sum": "Egy új jelentés szerint a még az is elképzelhető, hogy a Microsoft egy önálló leányvállalattá választaná le magáról az XBOX-ot, miközben felgyorsítaná a fontosabb first party címek fejlesztését. Hamarabb jöhet a Fallout 5?",
+     "plain": "Egy új jelentés szerint a még az is elképzelhető, hogy a Microsoft egy önálló leányvállalattá választaná le magáról az XBOX-ot, miközben felgyorsítaná a fontosabb first party címek fejlesztését. Hamarabb jöhet a Fallout 5?",
+     "img": ""
+    },
+    {
+     "t": "1 milliárdot fizetett valaki a Super Mario Bros játék egy példányáért",
+     "l": "https://pcforum.hu/hirek/31142/super-mario-bros-nes-jatek-3-millio-dollar-arveres",
+     "s": "PC Fórum",
+     "d": "2026-06-15T09:00:00+00:00",
+     "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/5/b2/c21d0ad798bce5cbbb95b28e5fd7b/super-mario-bros-nes-console-by-chatgpt-1-cropped--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>A napokban szinte hihetetlen áron: közel 1 milliárd forintnak megfelelő dollárért cserélt gazdát a Super Mario Bros nevű, több mint négy évtizeddel ezelőtt kiadott videójáték egy példánya. Az elképesztő összeget azért fizette ki valaki a lényegében - legalábbis ebben az állapotában - játszhatatlan (amúgy a Nintendo Entertainment System-hez, tehát NES-hez való) catridge-ért, mivel az egy rendkívül ritka és bontatlan csomagolásban van.",
+     "plain": "A napokban szinte hihetetlen áron: közel 1 milliárd forintnak megfelelő dollárért cserélt gazdát a Super Mario Bros nevű, több mint négy évtizeddel ezelőtt kiadott videójáték egy példánya. Az elképesztő összeget azért fizette ki valaki a lé",
+     "img": "https://pcforum.hu/assets/pcforum.hashed/5/b2/c21d0ad798bce5cbbb95b28e5fd7b/super-mario-bros-nes-console-by-chatgpt-1-cropped--dyn--rss.jpeg"
+    },
+    {
+     "t": "Ingyenes, többjátékos The Witcher-játék szivárgott ki",
+     "l": "https://www.gsplus.hu/hir/ingyenes-tobbjatekos-the-witcherjatek-szivargott-ki-383694.html",
+     "s": "GameStar",
+     "d": "2026-06-15T08:32:10+00:00",
+     "sum": "A pletyka szerint PC-re és mobilokra készülhet az új mellékág.",
+     "plain": "A pletyka szerint PC-re és mobilokra készülhet az új mellékág.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2303/25/the_witcher_3_the_wild_hunt_064610_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Az Nvidia új processzorral térne vissza Kínába",
+     "l": "https://www.pcwplus.hu/pcwlite/az-nvidia-uj-processzorral-terne-vissza-kinaba-383698.html",
+     "s": "GameStar",
+     "d": "2026-06-15T08:15:48+00:00",
+     "sum": "A Vera CPU-val kerülné meg a GPU-k körüli exportfalat.",
+     "plain": "A Vera CPU-val kerülné meg a GPU-k körüli exportfalat.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2505/19/nvidia_jensen_huang_115054_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "A stúdió azt akarta, hogy mindenképp legyen szexjelenet a Gladiátorban, de Russell Crowe ellenállt, és jó oka volt rá",
+     "l": "https://hu.ign.com/gladiator/112266/a-studio-azt-akarta-hogy-mindenkepp-legyen-szexjelenet-a-gladiatorban-de-russell-crowe-ellenallt-es",
+     "s": "IGN Hungary",
+     "d": "2026-06-15T08:01:32+00:00",
+     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/screenshot/default/blob_sh6k.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nAz Oscar-díjas színész egy filmfesztiválon arról is beszélt, hogy szerinte a folytatás miért nem lett olyan sikeres.",
+     "plain": "Az Oscar-díjas színész egy filmfesztiválon arról is beszélt, hogy szerinte a folytatás miért nem lett olyan sikeres.",
+     "img": "https://sm.ign.com/ign_hu/screenshot/default/blob_sh6k.jpg"
+    },
+    {
+     "t": "Lengyel krimi ugrott a Netflix magyar filmes toplistájának élére",
+     "l": "https://www.gsplus.hu/masvilag/lengyel-krimi-ugrott-a-netflix-magyar-filmes-toplistajanak-elere-383690.html",
+     "s": "GameStar",
+     "d": "2026-06-15T08:01:29+00:00",
+     "sum": "A sorozatoknál maradt a dobogó, de mögötte nagyot fordult a lista.",
+     "plain": "A sorozatoknál maradt a dobogó, de mögötte nagyot fordult a lista.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2505/08/netflix_133725_3_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Nem bukhat a Gears of War: E-Day, ha ilyen brutális összegből készült",
+     "l": "https://www.pcguru.hu/hirek/nem-bukhat-a-gears-of-war-e-day-ha-ilyen-brutalis-osszegbol-keszult-szlav/101678",
+     "s": "PC Guru",
+     "d": "2026-06-15T08:00:00+00:00",
+     "sum": "A Microsoft egyszerűen nem engedheti meg magának, hogy sikertelen legyen a Gears of War: E-Day. Elképesztő összeget szántak az előzménysztori fejlesztésére.",
+     "plain": "A Microsoft egyszerűen nem engedheti meg magának, hogy sikertelen legyen a Gears of War: E-Day. Elképesztő összeget szántak az előzménysztori fejlesztésére.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/nem_bukhat_a_gears_of_war_e-day_ha_ilyen_brutalis_osszegbol_keszult_1781508163_8966a9eb1735e2d0bf3b.jpg"
+    },
+    {
+     "t": "Nem megy simán a következő Ghost Recon fejlesztése",
+     "l": "https://www.gamekapocs.hu/hir/93768/nem_megy_siman_a_kovetkezo_ghost_recon_fejlesztese",
+     "s": "Gamekapocs",
+     "d": "2026-06-15T08:00:00+00:00",
+     "sum": "A Ubisoft állítólag több vezetőt is bevont az elmúlt időben az Ovr kódnevű folytatás munkálataihoz, mivel állítólag a belső alfatesztek elég gyatrán sikerültek. Fejlesztési pokolban lehet az új Ghost Recon az új pletykák szerint.",
+     "plain": "A Ubisoft állítólag több vezetőt is bevont az elmúlt időben az Ovr kódnevű folytatás munkálataihoz, mivel állítólag a belső alfatesztek elég gyatrán sikerültek. Fejlesztési pokolban lehet az új Ghost Recon az új pletykák szerint.",
+     "img": ""
+    },
+    {
+     "t": "Sokkal hamarabb érkezhet a God of War Laufey, mint azt bárki gondolta volna",
+     "l": "https://www.pcguru.hu/hirek/god-of-war-laufey-megjelenes-sony-playstation-ps5-sony-deborah-ann-woll-kratos-santa-monica-studio-intergalactic-the-heretic-prophet-naughty-dog-leecobo/101679",
+     "s": "PC Guru",
+     "d": "2026-06-15T07:40:00+00:00",
+     "sum": "Egy ismert bennfentes szerint már 2027 első felében befuthat a franchise következő, Kratos nélküli felvonása, de akkor mi lesz a Sony őszi dobása?",
+     "plain": "Egy ismert bennfentes szerint már 2027 első felében befuthat a franchise következő, Kratos nélküli felvonása, de akkor mi lesz a Sony őszi dobása?",
+     "img": "https://www.pcguru.hu/images/news/2026-06/sokkal_hamarabb_erkezhet_a_god_of_war_laufey_mint_azt_barki_gondolta_volna_1781508833_b60011f7f550a12e54e2.jpg"
+    },
+    {
+     "t": "A Fehér Ház kertjében bukott el a UFC veretlen bajnoka",
+     "l": "https://www.gsplus.hu/elet/a-feher-haz-kertjeben-bukott-el-a-ufc-veretlen-bajnoka-383689.html",
+     "s": "GameStar",
+     "d": "2026-06-15T07:30:13+00:00",
+     "sum": "Justin Gaethje óriási meglepetésre legyőzte Ilia Topuriát.",
+     "plain": "Justin Gaethje óriási meglepetésre legyőzte Ilia Topuriát.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/15/ufc_082701_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Itt a Linux 7.1, ami sokkal jobban tud együttműködni a Windows-zal",
+     "l": "https://pcforum.hu/hirek/31141/linux-7-1-kiadas-uj-ntfs-meghajto-486-processzor-tamogatas-megszunes",
+     "s": "PC Fórum",
+     "d": "2026-06-15T07:30:00+00:00",
+     "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/f/87/b157f3357a20a3f48ebbeedcb6180/tux-linux-holding-hdd-and-cpu-by-chatgpt-1-extended-cropped--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>A hétvégén Linus Torvalds bejelentette az általa létrehozott nyílt forrású rendszermag két hónap óta készülő legújabb verziójának kiadását. A Linux 7.1 több tucat kisebb fejlesztést hoz, de ezek közül talán a legnagyobb horderejű a teljesen újraírt NTFS meghajtóprogram bevezetése.",
+     "plain": "A hétvégén Linus Torvalds bejelentette az általa létrehozott nyílt forrású rendszermag két hónap óta készülő legújabb verziójának kiadását. A Linux 7.1 több tucat kisebb fejlesztést hoz, de ezek közül talán a legnagyobb horderejű a teljesen",
+     "img": "https://pcforum.hu/assets/pcforum.hashed/f/87/b157f3357a20a3f48ebbeedcb6180/tux-linux-holding-hdd-and-cpu-by-chatgpt-1-extended-cropped--dyn--rss.jpeg"
+    },
+    {
+     "t": "Kína szerint már kémteknősök is figyelhetik a tengereket",
+     "l": "https://www.pcwplus.hu/pcwlite/kina-szerint-mar-kemteknosok-is-figyelhetik-a-tengereket-383677.html",
+     "s": "GameStar",
+     "d": "2026-06-15T07:16:19+00:00",
+     "sum": "A hatóságok gyanús bójákra, robothalakra és vízi drónokra vadásznak.",
+     "plain": "A hatóságok gyanús bójákra, robothalakra és vízi drónokra vadásznak.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/14/kemteknos_130032_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Harmincszorosára nőtt a magyar podcastpiac",
+     "l": "https://www.gsplus.hu/hir/harmincszorosara-nott-a-magyar-podcastpiac-383688.html",
+     "s": "GameStar",
+     "d": "2026-06-15T07:02:55+00:00",
+     "sum": "A Podiverzum szerint az AI már a második leggyakoribb téma.",
+     "plain": "A Podiverzum szerint az AI már a második leggyakoribb téma.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2605/10/podcast_093010_1_original_390x220_cover.jpg"
+    }
+   ]
+  }
+ ]
+}

@@ -112,6 +112,29 @@
   .dot{width:9px;height:9px;border-radius:50%}
   .dot.g{background:var(--good)}.dot.b{background:var(--bad)}.dot.a{background:var(--accent2)}
   .news-soon{color:var(--dim);font-size:14px;padding:10px 0}
+  /* news */
+  .news-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:16px}
+  .ncard .nhead{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:10px}
+  .ncard .nupd{font-size:11px;color:var(--dim)}
+  .nlist{display:flex;flex-direction:column;gap:2px;max-height:360px;overflow-y:auto}
+  .nitem{display:flex;gap:11px;padding:9px 8px;border-radius:10px;cursor:pointer;align-items:flex-start}
+  .nitem:hover{background:var(--card2)}
+  .nitem .nimg{width:54px;height:42px;border-radius:8px;object-fit:cover;flex:0 0 54px;background:var(--card2)}
+  .nitem .nt{font-size:13.5px;font-weight:600;line-height:1.25}
+  .nitem .nm{font-size:11px;color:var(--dim);margin-top:3px}
+  .reader{position:fixed;inset:0;background:rgba(0,0,0,.65);display:none;align-items:center;justify-content:center;z-index:60;padding:16px}
+  .reader.show{display:flex}
+  .reader .rbox{background:var(--card);border:1px solid var(--line);border-radius:16px;max-width:680px;width:100%;max-height:88vh;overflow-y:auto;padding:22px}
+  .reader .rclose{float:right;background:var(--card2);border:1px solid var(--line);color:var(--txt);border-radius:8px;width:32px;height:32px;cursor:pointer;font-size:16px}
+  .reader .rsrc{font-size:12px;color:var(--accent);font-weight:600}
+  .reader h3{font-size:22px;margin:6px 0 4px;line-height:1.25}
+  .reader .rtime{font-size:12px;color:var(--dim);margin-bottom:14px}
+  .reader .rimg{width:100%;border-radius:12px;margin-bottom:14px}
+  .reader .rbody{font-size:15px;line-height:1.6;color:var(--txt)}
+  .reader .rbody img{max-width:100%;border-radius:8px;height:auto}
+  .reader .rbody a{color:var(--accent)}
+  .reader .rorig{display:inline-block;margin-top:18px;background:var(--accent);color:#001;font-weight:700;
+    text-decoration:none;border-radius:10px;padding:10px 16px;font-size:14px}
   .foot{color:#3a4452;font-size:12px;text-align:center;margin-top:18px}
   .err{color:var(--bad);font-size:13px}
 </style>
@@ -164,14 +187,10 @@
       <table class="cal" id="calendar"></table>
     </div>
 
-    <div class="card col-6">
-      <h2><span class="ttl">📰 Magyar hírek</span></h2>
-      <div class="news-soon">Hamarosan — a forrásokat és a megjelenést együtt állítjuk be.</div>
-    </div>
-
-    <div class="card col-6">
-      <h2><span class="ttl">🌍 Idegennyelvű hírek</span></h2>
-      <div class="news-soon">Hamarosan — a forrásokat és a megjelenést együtt állítjuk be.</div>
+    <div class="col-12" id="news-host">
+      <div class="news-grid" id="news-grid">
+        <div class="card ncard"><div class="news-soon">Hírek betöltése…</div></div>
+      </div>
     </div>
 
   </div>
@@ -186,6 +205,17 @@
   <label>Link (URL)</label><input id="bm-f-url" placeholder="https://...">
   <label>Logó (opcionális: emoji, vagy kép-URL — üresen automata favikon)</label><input id="bm-f-logo" placeholder="📧  vagy  https://.../logo.png">
   <div class="row"><button class="btn" id="bm-f-cancel">Mégse</button><button class="btn acc" id="bm-f-save">Mentés</button></div>
+</div></div>
+
+<!-- news reader modal -->
+<div class="reader" id="news-modal"><div class="rbox">
+  <button class="rclose" id="news-close">✕</button>
+  <div class="rsrc" id="nm-src"></div>
+  <h3 id="nm-title"></h3>
+  <div class="rtime" id="nm-time"></div>
+  <img class="rimg" id="nm-img" style="display:none">
+  <div class="rbody" id="nm-body"></div>
+  <a class="rorig" id="nm-orig" target="_blank" rel="noopener">Megnyitás eredetiben ↗</a>
 </div></div>
 
 <script>
@@ -343,6 +373,42 @@ async function weather(elId,lat,lon){
 }
 weather('wx-sopron',47.6817,16.5845);
 weather('wx-zala',46.6406,17.1192);
+// --- News (news.json, in-page reader) ---
+let NEWS=[];
+function timeAgo(iso){if(!iso)return '';const s=(Date.now()-new Date(iso))/1000;
+  if(s<3600)return Math.max(1,Math.round(s/60))+' perce';
+  if(s<86400)return Math.round(s/3600)+' órája';return Math.round(s/86400)+' napja';}
+function esc2(s){return String(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
+async function loadNews(){
+  try{
+    const r=await fetch('news.json?t='+Date.now());const d=await r.json();
+    NEWS=[];const grid=document.getElementById('news-grid');let h='';
+    d.categories.forEach(cat=>{
+      h+=`<div class="card ncard"><div class="nhead"><h2 style="margin:0"><span class="ttl">${esc2(cat.name)}</span></h2>
+        <span class="nupd">frissítve: ${timeAgo(d.updated)}</span></div><div class="nlist">`;
+      cat.items.forEach(it=>{const idx=NEWS.push(it)-1;
+        h+=`<div class="nitem" data-i="${idx}">${it.img?`<img class="nimg" src="${esc2(it.img)}" onerror="this.style.display='none'">`:''}
+          <div><div class="nt">${esc2(it.t)}</div><div class="nm">${esc2(it.s)} · ${timeAgo(it.d)}</div></div></div>`;});
+      h+='</div></div>';
+    });
+    grid.innerHTML=h||'<div class="card"><div class="news-soon">Nincs hír.</div></div>';
+  }catch(e){document.getElementById('news-grid').innerHTML='<div class="card"><div class="news-soon">A hírek még töltődnek (a frissítő hamarosan feltölti).</div></div>';}
+}
+document.getElementById('news-grid').addEventListener('click',e=>{
+  const it=e.target.closest('.nitem');if(!it)return;const n=NEWS[+it.dataset.i];if(!n)return;
+  document.getElementById('nm-src').textContent=n.s;
+  document.getElementById('nm-title').textContent=n.t;
+  document.getElementById('nm-time').textContent=timeAgo(n.d);
+  const img=document.getElementById('nm-img');
+  if(n.img){img.src=n.img;img.style.display='block';}else img.style.display='none';
+  document.getElementById('nm-body').innerHTML=n.sum||('<p>'+esc2(n.plain||'')+'</p>');
+  document.getElementById('nm-orig').href=n.l;
+  document.getElementById('news-modal').classList.add('show');
+});
+document.getElementById('news-close').onclick=()=>document.getElementById('news-modal').classList.remove('show');
+document.getElementById('news-modal').addEventListener('click',e=>{if(e.target.id==='news-modal')e.target.classList.remove('show');});
+loadNews();setInterval(loadNews,20*60*1000);
+
 // --- Theme (dark/light, persisted) ---
 const THEME_KEY='kezdolap_theme';
 function applyTheme(t){document.documentElement.setAttribute('data-theme',t);
@@ -350,7 +416,7 @@ function applyTheme(t){document.documentElement.setAttribute('data-theme',t);
 let theme=localStorage.getItem(THEME_KEY)||'dark';applyTheme(theme);
 document.getElementById('theme-toggle').onclick=()=>{theme=(theme==='dark')?'light':'dark';localStorage.setItem(THEME_KEY,theme);applyTheme(theme);};
 
-document.getElementById('built').textContent='v4 · '+new Date().getFullYear();
+document.getElementById('built').textContent='v5 · '+new Date().getFullYear();
 </script>
 </body>
 </html>
