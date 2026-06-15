@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kezdőlap</title>
+<style>
+  :root{
+    --bg:#0e1116; --card:#171c24; --card2:#1f2632; --line:#2a3340;
+    --txt:#e6edf3; --dim:#8b97a7; --accent:#4aa8ff; --accent2:#ffb454; --good:#3fb950; --bad:#f85149;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    background:var(--bg);color:var(--txt);min-height:100vh;padding:18px;
+    background-image:radial-gradient(900px 500px at 80% -10%,rgba(74,168,255,.10),transparent),
+                     radial-gradient(700px 400px at -10% 110%,rgba(255,180,84,.07),transparent);}
+  .wrap{max-width:1180px;margin:0 auto}
+  /* top */
+  .top{display:flex;flex-wrap:wrap;align-items:baseline;gap:10px 22px;justify-content:space-between;
+    background:var(--card);border:1px solid var(--line);border-radius:18px;padding:18px 24px;margin-bottom:16px}
+  .clock{font-size:54px;font-weight:700;letter-spacing:1px;line-height:1}
+  .clock .sec{font-size:26px;color:var(--dim)}
+  .datebox{text-align:right}
+  .datebox .d{font-size:19px;font-weight:600}
+  .datebox .w{font-size:14px;color:var(--dim);margin-top:3px}
+  .week-pill{display:inline-block;background:var(--card2);border:1px solid var(--line);
+    color:var(--accent);font-weight:700;border-radius:999px;padding:3px 12px;font-size:13px;margin-left:8px}
+  /* grid */
+  .grid{display:grid;grid-template-columns:repeat(12,1fr);gap:16px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:18px}
+  .card h2{font-size:13px;text-transform:uppercase;letter-spacing:.08em;color:var(--dim);
+    margin-bottom:12px;font-weight:700;display:flex;align-items:center;gap:8px}
+  .col-6{grid-column:span 6}.col-4{grid-column:span 4}.col-8{grid-column:span 8}.col-12{grid-column:span 12}
+  @media(max-width:880px){.col-6,.col-4,.col-8{grid-column:span 12}}
+  /* weather */
+  .wx-now{display:flex;align-items:center;gap:16px;margin-bottom:14px}
+  .wx-ico{font-size:48px;line-height:1}
+  .wx-temp{font-size:40px;font-weight:700}
+  .wx-meta{color:var(--dim);font-size:14px}
+  .wx-week{display:grid;grid-template-columns:repeat(7,1fr);gap:6px}
+  .wx-day{background:var(--card2);border-radius:12px;padding:8px 4px;text-align:center}
+  .wx-day .dn{font-size:11px;color:var(--dim);text-transform:uppercase}
+  .wx-day .di{font-size:22px;margin:4px 0}
+  .wx-day .dt{font-size:12px}.wx-day .dt b{color:var(--txt)}.wx-day .dt span{color:var(--dim)}
+  /* calendar */
+  table.cal{width:100%;border-collapse:collapse}
+  table.cal th{color:var(--dim);font-size:11px;font-weight:600;padding:6px 0;text-transform:uppercase}
+  table.cal td{text-align:center;padding:7px 0;font-size:14px;border-radius:10px}
+  table.cal td.oth{color:#465061}
+  table.cal td.today{background:var(--accent);color:#001;font-weight:800}
+  table.cal td.we{color:var(--accent2)}
+  /* bookmarks */
+  .bm{display:grid;grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:10px}
+  .bm a{display:flex;align-items:center;gap:9px;background:var(--card2);border:1px solid var(--line);
+    border-radius:12px;padding:11px 12px;text-decoration:none;color:var(--txt);font-size:14px;transition:.15s}
+  .bm a:hover{border-color:var(--accent);transform:translateY(-1px)}
+  .bm .fav{width:18px;height:18px;border-radius:5px;flex:0 0 18px;background:#fff}
+  /* status */
+  .status{display:flex;flex-wrap:wrap;gap:10px}
+  .chip{display:flex;align-items:center;gap:8px;background:var(--card2);border:1px solid var(--line);
+    border-radius:999px;padding:8px 14px;font-size:13px}
+  .dot{width:9px;height:9px;border-radius:50%}
+  .dot.g{background:var(--good)}.dot.b{background:var(--bad)}.dot.a{background:var(--accent2)}
+  .news-soon{color:var(--dim);font-size:14px;padding:10px 0}
+  .foot{color:#3a4452;font-size:12px;text-align:center;margin-top:18px}
+  .err{color:var(--bad);font-size:13px}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="top">
+    <div>
+      <div class="clock" id="clock">--:--<span class="sec">:--</span></div>
+    </div>
+    <div class="datebox">
+      <div class="d" id="date">betöltés…</div>
+      <div class="w" id="weekday">— <span class="week-pill" id="weekpill">— . hét</span></div>
+    </div>
+  </div>
+
+  <div class="grid">
+
+    <div class="card col-6">
+      <h2>🌤️ Időjárás — Sopron</h2>
+      <div id="wx-sopron"><div class="wx-meta">betöltés…</div></div>
+    </div>
+
+    <div class="card col-6">
+      <h2>🌤️ Időjárás — Zalaapáti</h2>
+      <div id="wx-zala"><div class="wx-meta">betöltés…</div></div>
+    </div>
+
+    <div class="card col-8">
+      <h2>🔖 Könyvjelzők</h2>
+      <div class="bm" id="bookmarks"></div>
+    </div>
+
+    <div class="card col-4">
+      <h2>📅 <span id="cal-title">Naptár</span></h2>
+      <table class="cal" id="calendar"></table>
+    </div>
+
+    <div class="card col-8">
+      <h2>📰 Hírek</h2>
+      <div class="news-soon">A hírek szekciót együtt rakjuk össze — hamarosan (forrás, témák, megjelenés egyeztetés alatt).</div>
+    </div>
+
+    <div class="card col-4">
+      <h2>📊 Állapotjelzők</h2>
+      <div class="status" id="status">
+        <div class="chip"><span class="dot g"></span><span id="st-net">Online</span></div>
+        <div class="chip"><span class="dot a"></span><span id="st-day">—</span></div>
+        <div class="chip"><span class="dot g"></span><span id="st-week">— . hét</span></div>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="foot">Kezdőlap · Marveen · <span id="built"></span></div>
+</div>
+
+<script>
+const HU_DAYS=['Vasárnap','Hétfő','Kedd','Szerda','Csütörtök','Péntek','Szombat'];
+const HU_DAYS_SHORT=['V','H','K','Sze','Cs','P','Szo'];
+const HU_MONTHS=['január','február','március','április','május','június','július','augusztus','szeptember','október','november','december'];
+
+function isoWeek(d){
+  const t=new Date(Date.UTC(d.getFullYear(),d.getMonth(),d.getDate()));
+  const day=t.getUTCDay()||7; t.setUTCDate(t.getUTCDate()+4-day);
+  const ys=new Date(Date.UTC(t.getUTCFullYear(),0,1));
+  return Math.ceil((((t-ys)/86400000)+1)/7);
+}
+function pad(n){return String(n).padStart(2,'0')}
+
+function tick(){
+  const d=new Date();
+  document.getElementById('clock').innerHTML=`${pad(d.getHours())}:${pad(d.getMinutes())}<span class="sec">:${pad(d.getSeconds())}</span>`;
+  document.getElementById('date').textContent=`${d.getFullYear()}. ${HU_MONTHS[d.getMonth()]} ${d.getDate()}.`;
+  const wk=isoWeek(d);
+  document.getElementById('weekday').innerHTML=`${HU_DAYS[d.getDay()]} <span class="week-pill" id="weekpill">${wk}. hét</span>`;
+  document.getElementById('st-day').textContent=HU_DAYS[d.getDay()];
+  document.getElementById('st-week').textContent=`${wk}. hét`;
+}
+setInterval(tick,1000); tick();
+
+// --- Calendar (current month) ---
+function buildCal(){
+  const d=new Date(), y=d.getFullYear(), m=d.getMonth(), today=d.getDate();
+  document.getElementById('cal-title').textContent=`${y}. ${HU_MONTHS[m]}`;
+  const first=new Date(y,m,1), start=(first.getDay()+6)%7; // Monday-first
+  const days=new Date(y,m+1,0).getDate();
+  let html='<tr>'+['H','K','Sze','Cs','P','Szo','V'].map(x=>`<th>${x}</th>`).join('')+'</tr><tr>';
+  for(let i=0;i<start;i++)html+='<td class="oth"></td>';
+  for(let day=1,col=start;day<=days;day++,col++){
+    if(col>6){html+='</tr><tr>';col=0;}
+    const we=(col>=5)?'we':'';
+    const td=(day===today)?'today':we;
+    html+=`<td class="${td}">${day}</td>`;
+  }
+  html+='</tr>';
+  document.getElementById('calendar').innerHTML=html;
+}
+buildCal();
+
+// --- Bookmarks (testreszabható) ---
+const BOOKMARKS=[
+  {n:'Gmail',u:'https://mail.google.com'},
+  {n:'Naptár',u:'https://calendar.google.com'},
+  {n:'Drive',u:'https://drive.google.com'},
+  {n:'YouTube',u:'https://youtube.com'},
+  {n:'Notion',u:'https://notion.so'},
+  {n:'GitHub',u:'https://github.com'},
+  {n:'Dashboard',u:'http://100.107.145.70:3420'},
+  {n:'ChatGPT',u:'https://chat.openai.com'},
+  {n:'Telex',u:'https://telex.hu'},
+  {n:'Időkép',u:'https://www.idokep.hu'},
+];
+function host(u){try{return new URL(u).hostname}catch(e){return ''}}
+document.getElementById('bookmarks').innerHTML=BOOKMARKS.map(b=>
+  `<a href="${b.u}"><img class="fav" src="https://www.google.com/s2/favicons?domain=${host(b.u)}&sz=32" onerror="this.style.background='#4aa8ff'">${b.n}</a>`
+).join('');
+
+// --- Weather (Open-Meteo, ingyenes, kulcs nélkül) ---
+const WMO={0:'☀️',1:'🌤️',2:'⛅',3:'☁️',45:'🌫️',48:'🌫️',51:'🌦️',53:'🌦️',55:'🌧️',
+  61:'🌧️',63:'🌧️',65:'🌧️',66:'🌧️',67:'🌧️',71:'🌨️',73:'🌨️',75:'❄️',77:'❄️',
+  80:'🌦️',81:'🌧️',82:'⛈️',85:'🌨️',86:'❄️',95:'⛈️',96:'⛈️',99:'⛈️'};
+function ico(c){return WMO[c]||'🌡️'}
+async function weather(elId,lat,lon){
+  const el=document.getElementById(elId);
+  try{
+    const r=await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m,weather_code&daily=weather_code,temperature_2m_max,temperature_2m_min&timezone=Europe%2FBudapest&forecast_days=7`);
+    const j=await r.json();
+    const cur=j.current, dl=j.daily;
+    let week='<div class="wx-week">';
+    for(let i=0;i<dl.time.length;i++){
+      const dt=new Date(dl.time[i]+'T00:00');
+      week+=`<div class="wx-day"><div class="dn">${HU_DAYS_SHORT[dt.getDay()]}</div>
+        <div class="di">${ico(dl.weather_code[i])}</div>
+        <div class="dt"><b>${Math.round(dl.temperature_2m_max[i])}°</b> <span>${Math.round(dl.temperature_2m_min[i])}°</span></div></div>`;
+    }
+    week+='</div>';
+    el.innerHTML=`<div class="wx-now"><div class="wx-ico">${ico(cur.weather_code)}</div>
+      <div><div class="wx-temp">${Math.round(cur.temperature_2m)}°C</div>
+      <div class="wx-meta">most</div></div></div>${week}`;
+  }catch(e){ el.innerHTML='<div class="err">Időjárás nem elérhető (offline?)</div>'; }
+}
+weather('wx-sopron',47.6817,16.5845);
+weather('wx-zala',46.6406,17.1192);
+
+document.getElementById('built').textContent='v1 · '+new Date().getFullYear();
+</script>
+</body>
+</html>
