@@ -1,48 +1,88 @@
 {
- "updated": "2026-06-15T18:15:59.837568+00:00",
+ "updated": "2026-06-15T18:30:57.112512+00:00",
  "claude": {
   "plan": "Max",
   "window_5h": {
-   "turns": 163,
-   "tok": 147690759
+   "turns": 193,
+   "tok": 177005661
   },
   "week": {
-   "turns": 1773,
-   "tok": 1027798116
+   "turns": 1803,
+   "tok": 1057113018
   },
   "daily": [
    {
     "date": "2026-06-12",
     "wd": "P",
     "turns": 482,
-    "pct_max5": 2.5,
-    "pct_pro": 12.6
+    "pct": 2.4,
+    "cum_before": 0.0,
+    "cum": 2.4,
+    "future": false
    },
    {
     "date": "2026-06-13",
     "wd": "Szo",
     "turns": 611,
-    "pct_max5": 3.2,
-    "pct_pro": 15.9
+    "pct": 3.1,
+    "cum_before": 2.4,
+    "cum": 5.5,
+    "future": false
    },
    {
     "date": "2026-06-14",
     "wd": "V",
     "turns": 156,
-    "pct_max5": 0.8,
-    "pct_pro": 4.1
+    "pct": 0.8,
+    "cum_before": 5.5,
+    "cum": 6.3,
+    "future": false
    },
    {
     "date": "2026-06-15",
     "wd": "H",
-    "turns": 524,
-    "pct_max5": 2.7,
-    "pct_pro": 13.6
+    "turns": 554,
+    "pct": 2.8,
+    "cum_before": 6.3,
+    "cum": 9.1,
+    "future": false
+   },
+   {
+    "date": "2026-06-16",
+    "wd": "K",
+    "turns": 0,
+    "pct": 0.0,
+    "cum_before": 9.1,
+    "cum": 9.1,
+    "future": true
+   },
+   {
+    "date": "2026-06-17",
+    "wd": "Sze",
+    "turns": 0,
+    "pct": 0.0,
+    "cum_before": 9.1,
+    "cum": 9.1,
+    "future": true
+   },
+   {
+    "date": "2026-06-18",
+    "wd": "Cs",
+    "turns": 0,
+    "pct": 0.0,
+    "cum_before": 9.1,
+    "cum": 9.1,
+    "future": true
    }
   ],
-  "limit_5h_turns": 908,
-  "limit_week_turns": 19200,
-  "calib": "fotó-kalibrált (2026-06-15)"
+  "limit_5h_turns": 1119,
+  "limit_week_turns": 19900,
+  "official": {
+   "session": 16,
+   "weekly": 9,
+   "at": "06-15 20:21"
+  },
+  "calib": "fotó-kalibrált 2026-06-15 20:21"
  },
  "deepseek": {
   "topped_up": 9.98,

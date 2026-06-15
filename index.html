@@ -436,14 +436,20 @@ async function loadUsage(){
     const r=await fetch('usage.json?t='+Date.now());const u=await r.json();
     let h='';const c=u.claude||{};
     const w5=c.window_5h||{turns:0}, w7=c.week||{turns:0};
-    const l5=c.limit_5h_turns||908, lw=c.limit_week_turns||19200;
+    const l5=c.limit_5h_turns||1119, lw=c.limit_week_turns||19900;
     const p5=Math.min(100,Math.round((w5.turns||0)/l5*100)), pw=Math.min(100,Math.round((w7.turns||0)/lw*100));
-    const bar=p=>{const col=p<60?'var(--good)':p<85?'var(--accent2)':'var(--bad)';return '<div class="usage-bar"><i style="width:'+p+'%;background:'+col+'"></i></div>';};
-    h+='<div class="usage-row"><div class="usage-head">Claude — Max (becsült keret)</div>'+
-      '<div class="ul"><span>5 órás keret</span><b>'+p5+'%</b></div>'+bar(p5)+
-      '<div class="usage-sub">'+(w5.turns||0)+' üzenet az 5 órás ablakban</div>'+
-      '<div class="ul" style="margin-top:11px"><span>Heti keret</span><b>'+pw+'%</b></div>'+bar(pw)+
-      '<div class="usage-sub">'+(w7.turns||0)+' üzenet a héten · '+esc2(c.calib||'')+'</div></div>';
+    const bar=(p,col)=>'<div class="usage-bar"><i style="width:'+Math.min(100,p)+'%;background:'+(col||(p<60?'var(--good)':p<85?'var(--accent2)':'var(--bad)'))+'"></i></div>';
+    const of=c.official;
+    h+='<div class="usage-row"><div class="usage-head">Claude — '+esc2(c.plan||'Max')+'</div>';
+    if(of){
+      h+='<div class="ul"><span>5 órás keret</span><b>'+of.session+'%</b></div>'+bar(of.session)+
+        '<div class="ul" style="margin-top:9px"><span>Heti keret</span><b>'+of.weekly+'%</b></div>'+bar(of.weekly)+
+        '<div class="usage-sub">hivatalos (fotó: '+esc2(of.at)+') · becsült most: 5h '+p5+'%, heti '+pw+'%</div></div>';
+    } else {
+      h+='<div class="ul"><span>5 órás keret</span><b>'+p5+'%</b></div>'+bar(p5)+
+        '<div class="ul" style="margin-top:9px"><span>Heti keret</span><b>'+pw+'%</b></div>'+bar(pw)+
+        '<div class="usage-sub">becsült · '+esc2(c.calib||'')+'</div></div>';
+    }
     const d=u.deepseek;
     if(d){
       const used=Math.max(0,(d.topped_up||0)-(d.remaining||0));
@@ -455,14 +461,16 @@ async function loadUsage(){
     }
     const dl=c.daily||[];
     if(dl.length){
-      h+='<div class="usage-row"><div class="usage-head">Heti napi bontás (Pro keretre vetítve)</div>';
-      dl.forEach(x=>{const pp=Math.min(100,x.pct_pro);
-        h+='<div style="display:flex;align-items:center;gap:8px;margin-bottom:5px">'+
+      h+='<div class="usage-row"><div class="usage-head">Heti napi bontás — Max keret (kumulatív)</div>';
+      dl.forEach(x=>{const cumW=Math.min(100,x.cum||0), beW=Math.min(100,x.cum_before||0);
+        h+='<div style="display:flex;align-items:center;gap:8px;margin-bottom:5px;opacity:'+(x.future?0.35:1)+'">'+
           '<span style="font-size:12px;width:74px;color:var(--dim)">'+esc2(x.date.slice(5))+' '+esc2(x.wd)+'</span>'+
-          '<div class="usage-bar" style="flex:1"><i style="width:'+pp+'%;background:var(--accent)"></i></div>'+
-          '<span style="font-size:12px;width:46px;text-align:right"><b>'+x.pct_pro+'%</b></span></div>';});
-      const totPro=dl.reduce((s,x)=>s+(x.pct_pro||0),0);
-      h+='<div class="usage-sub">Az egész hét eddig: '+totPro.toFixed(0)+'% a Pro heti keretéből (a többi szabad).</div></div>';
+          '<div style="flex:1;height:9px;background:var(--card2);border-radius:6px;overflow:hidden;display:flex">'+
+            '<div style="width:'+beW+'%;background:#3a4658"></div>'+
+            '<div style="width:'+Math.max(0,cumW-beW)+'%;background:var(--accent)"></div></div>'+
+          '<span style="font-size:12px;width:44px;text-align:right">'+(x.future?'—':'<b>'+x.pct+'%</b>')+'</span></div>';});
+      const tot=dl.reduce((s,x)=>s+(x.pct||0),0);
+      h+='<div class="usage-sub">Hét eddig: <b>'+tot.toFixed(1)+'%</b> a Max heti keretéből · sötét = kumulált, kék = adott nap.</div></div>';
     }
     document.getElementById('usage-body').innerHTML=h;
     document.getElementById('usage-upd').textContent='frissítve: '+timeAgo(u.updated);
@@ -487,7 +495,7 @@ function applyTheme(t){document.documentElement.setAttribute('data-theme',t);
 let theme=localStorage.getItem(THEME_KEY)||'dark';applyTheme(theme);
 document.getElementById('theme-toggle').onclick=()=>{theme=(theme==='dark')?'light':'dark';localStorage.setItem(THEME_KEY,theme);applyTheme(theme);};
 
-document.getElementById('built').textContent='v12 · '+new Date().getFullYear();
+document.getElementById('built').textContent='v13 · '+new Date().getFullYear();
 </script>
 </body>
 </html>
