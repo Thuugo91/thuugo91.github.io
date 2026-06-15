@@ -435,10 +435,13 @@ async function loadUsage(){
   try{
     const r=await fetch('usage.json?t='+Date.now());const u=await r.json();
     let h='';const c=u.claude||{};
-    h+='<div class="usage-row"><div class="usage-head">Claude — '+esc2(c.plan||'Max')+'</div>'+
-      '<div class="ul"><span>Ma (API-érték)</span><b>'+((c.today&&c.today.huf||0)).toLocaleString('hu-HU')+' Ft</b></div>'+
-      '<div class="usage-sub">'+Math.round((c.today&&c.today.out||0)/1000)+'k kimenő token ma · héten '+((c.week&&c.week.huf||0)).toLocaleString('hu-HU')+' Ft</div>'+
-      '<div class="usage-sub">Átalánydíjas csomag — nincs fix token-plafon.</div></div>';
+    const w5=c.window_5h||{turns:0,tok:0}, w7=c.week||{turns:0,tok:0};
+    h+='<div class="usage-row"><div class="usage-head">Claude — '+esc2(c.plan||'Max')+' (gördülő keret)</div>'+
+      '<div class="ul"><span>Utolsó 5 óra</span><b>'+(w5.turns||0).toLocaleString('hu-HU')+' üzenet</b></div>'+
+      '<div class="usage-sub">'+((w5.tok||0)/1e6).toFixed(1)+'M token az 5 órás ablakban</div>'+
+      '<div class="ul" style="margin-top:9px"><span>Héten</span><b>'+(w7.turns||0).toLocaleString('hu-HU')+' üzenet</b></div>'+
+      '<div class="usage-sub">'+((w7.tok||0)/1e6).toFixed(1)+'M token a héten</div>'+
+      '<div class="usage-sub">A hivatalos plafon %-a nem lekérdezhető — ez a tényleges fogyasztás.</div></div>';
     const d=u.deepseek;
     if(d){
       const used=Math.max(0,(d.topped_up||0)-(d.remaining||0));
@@ -471,7 +474,7 @@ function applyTheme(t){document.documentElement.setAttribute('data-theme',t);
 let theme=localStorage.getItem(THEME_KEY)||'dark';applyTheme(theme);
 document.getElementById('theme-toggle').onclick=()=>{theme=(theme==='dark')?'light':'dark';localStorage.setItem(THEME_KEY,theme);applyTheme(theme);};
 
-document.getElementById('built').textContent='v9 · '+new Date().getFullYear();
+document.getElementById('built').textContent='v10 · '+new Date().getFullYear();
 </script>
 </body>
 </html>
