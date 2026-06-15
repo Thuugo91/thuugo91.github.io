@@ -15,7 +15,6 @@
     background-image:radial-gradient(900px 500px at 80% -10%,rgba(74,168,255,.10),transparent),
                      radial-gradient(700px 400px at -10% 110%,rgba(255,180,84,.07),transparent);}
   .wrap{max-width:1180px;margin:0 auto}
-  /* top */
   .top{display:flex;flex-wrap:wrap;align-items:baseline;gap:10px 22px;justify-content:space-between;
     background:var(--card);border:1px solid var(--line);border-radius:18px;padding:18px 24px;margin-bottom:16px}
   .clock{font-size:54px;font-weight:700;letter-spacing:1px;line-height:1}
@@ -25,24 +24,36 @@
   .datebox .w{font-size:14px;color:var(--dim);margin-top:3px}
   .week-pill{display:inline-block;background:var(--card2);border:1px solid var(--line);
     color:var(--accent);font-weight:700;border-radius:999px;padding:3px 12px;font-size:13px;margin-left:8px}
-  /* grid */
   .grid{display:grid;grid-template-columns:repeat(12,1fr);gap:16px}
   .card{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:18px}
   .card h2{font-size:13px;text-transform:uppercase;letter-spacing:.08em;color:var(--dim);
-    margin-bottom:12px;font-weight:700;display:flex;align-items:center;gap:8px}
+    margin-bottom:12px;font-weight:700;display:flex;align-items:center;gap:8px;justify-content:space-between}
+  .card h2 .ttl{display:flex;align-items:center;gap:8px}
   .col-6{grid-column:span 6}.col-4{grid-column:span 4}.col-8{grid-column:span 8}.col-12{grid-column:span 12}
   @media(max-width:880px){.col-6,.col-4,.col-8{grid-column:span 12}}
   /* weather */
-  .wx-now{display:flex;align-items:center;gap:16px;margin-bottom:14px}
-  .wx-ico{font-size:48px;line-height:1}
-  .wx-temp{font-size:40px;font-weight:700}
-  .wx-meta{color:var(--dim);font-size:14px}
+  .wx-now{display:flex;align-items:center;gap:16px;margin-bottom:12px}
+  .wx-ico{font-size:46px;line-height:1}
+  .wx-temp{font-size:38px;font-weight:700}
+  .wx-meta{color:var(--dim);font-size:13px}
+  .wx-hourly{background:var(--card2);border-radius:12px;padding:12px;margin-bottom:12px}
+  .wx-hourly .hh{display:flex;align-items:center;justify-content:space-between;margin-bottom:6px}
+  .wx-hourly .hsel{font-size:15px;font-weight:600}
+  .wx-hourly .hsel .hi{font-size:20px;margin:0 6px}
+  .wx-hourly input[type=range]{width:100%;accent-color:var(--accent)}
+  .wx-hlabel{display:flex;justify-content:space-between;color:var(--dim);font-size:11px;margin-top:2px}
   .wx-week{display:grid;grid-template-columns:repeat(7,1fr);gap:6px}
   .wx-day{background:var(--card2);border-radius:12px;padding:8px 4px;text-align:center}
   .wx-day .dn{font-size:11px;color:var(--dim);text-transform:uppercase}
   .wx-day .di{font-size:22px;margin:4px 0}
   .wx-day .dt{font-size:12px}.wx-day .dt b{color:var(--txt)}.wx-day .dt span{color:var(--dim)}
   /* calendar */
+  .cal-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:8px}
+  .cal-head .nav{background:var(--card2);border:1px solid var(--line);color:var(--txt);border-radius:8px;
+    width:30px;height:30px;cursor:pointer;font-size:16px}
+  .cal-head .nav:hover{border-color:var(--accent)}
+  .cal-head .mt{font-weight:700;font-size:15px}
+  .cal-today-btn{font-size:11px;color:var(--accent);cursor:pointer;background:none;border:none;margin-left:6px}
   table.cal{width:100%;border-collapse:collapse}
   table.cal th{color:var(--dim);font-size:11px;font-weight:600;padding:6px 0;text-transform:uppercase}
   table.cal td{text-align:center;padding:7px 0;font-size:14px;border-radius:10px}
@@ -51,10 +62,34 @@
   table.cal td.we{color:var(--accent2)}
   /* bookmarks */
   .bm{display:grid;grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:10px}
+  .bm .item{position:relative}
   .bm a{display:flex;align-items:center;gap:9px;background:var(--card2);border:1px solid var(--line);
-    border-radius:12px;padding:11px 12px;text-decoration:none;color:var(--txt);font-size:14px;transition:.15s}
+    border-radius:12px;padding:11px 12px;text-decoration:none;color:var(--txt);font-size:14px;transition:.15s;overflow:hidden}
   .bm a:hover{border-color:var(--accent);transform:translateY(-1px)}
-  .bm .fav{width:18px;height:18px;border-radius:5px;flex:0 0 18px;background:#fff}
+  .bm .fav{width:18px;height:18px;border-radius:5px;flex:0 0 18px;background:#222;object-fit:cover}
+  .bm .emoji{width:18px;text-align:center;flex:0 0 18px;font-size:16px}
+  .bm .nm{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .bm .ctrls{position:absolute;top:-7px;right:-7px;display:none;gap:3px}
+  .editing .bm .ctrls{display:flex}
+  .editing .bm a{pointer-events:none}
+  .bm .ctrls button{width:22px;height:22px;border-radius:50%;border:1px solid var(--line);
+    background:var(--card);color:var(--txt);cursor:pointer;font-size:11px;line-height:1;padding:0}
+  .bm .ctrls button:hover{border-color:var(--accent)}
+  .bm-tools{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+  .btn{background:var(--card2);border:1px solid var(--line);color:var(--txt);border-radius:10px;
+    padding:8px 12px;cursor:pointer;font-size:13px}
+  .btn:hover{border-color:var(--accent)}
+  .btn.acc{border-color:var(--accent);color:var(--accent)}
+  .hint{color:var(--dim);font-size:12px;margin-top:8px}
+  /* modal */
+  .modal{position:fixed;inset:0;background:rgba(0,0,0,.6);display:none;align-items:center;justify-content:center;z-index:50;padding:16px}
+  .modal.show{display:flex}
+  .modal .box{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:20px;width:min(420px,100%)}
+  .modal h3{margin-bottom:14px;font-size:16px}
+  .modal label{display:block;font-size:12px;color:var(--dim);margin:10px 0 4px}
+  .modal input{width:100%;background:var(--card2);border:1px solid var(--line);color:var(--txt);
+    border-radius:10px;padding:9px 11px;font-size:14px}
+  .modal .row{display:flex;gap:8px;justify-content:flex-end;margin-top:16px}
   /* status */
   .status{display:flex;flex-wrap:wrap;gap:10px}
   .chip{display:flex;align-items:center;gap:8px;background:var(--card2);border:1px solid var(--line);
@@ -70,44 +105,56 @@
 <div class="wrap">
 
   <div class="top">
-    <div>
-      <div class="clock" id="clock">--:--<span class="sec">:--</span></div>
-    </div>
+    <div><div class="clock" id="clock">--:--<span class="sec">:--</span></div></div>
     <div class="datebox">
       <div class="d" id="date">betöltés…</div>
-      <div class="w" id="weekday">— <span class="week-pill" id="weekpill">— . hét</span></div>
+      <div class="w" id="weekday">—</div>
     </div>
   </div>
 
   <div class="grid">
 
     <div class="card col-6">
-      <h2>🌤️ Időjárás — Sopron</h2>
+      <h2><span class="ttl">🌤️ Időjárás — Sopron</span></h2>
       <div id="wx-sopron"><div class="wx-meta">betöltés…</div></div>
     </div>
 
     <div class="card col-6">
-      <h2>🌤️ Időjárás — Zalaapáti</h2>
+      <h2><span class="ttl">🌤️ Időjárás — Zalaapáti</span></h2>
       <div id="wx-zala"><div class="wx-meta">betöltés…</div></div>
     </div>
 
-    <div class="card col-8">
-      <h2>🔖 Könyvjelzők</h2>
+    <div class="card col-8" id="bm-card">
+      <h2><span class="ttl">🔖 Könyvjelzők</span>
+        <button class="btn" id="bm-edit-toggle" style="padding:4px 10px">✏️ Szerkesztés</button></h2>
       <div class="bm" id="bookmarks"></div>
+      <div class="bm-tools" id="bm-tools" style="display:none">
+        <button class="btn acc" id="bm-add">+ Új könyvjelző</button>
+        <label class="btn" style="cursor:pointer">📥 Böngésző-könyvjelzők importálása
+          <input type="file" id="bm-import" accept=".html,.htm" style="display:none"></label>
+        <button class="btn" id="bm-reset">↺ Alaphelyzet</button>
+        <button class="btn" id="bm-done">✓ Kész</button>
+      </div>
+      <div class="hint" id="bm-hint" style="display:none">Szerkesztés módban: ↑↓ sorrend, ✏️ módosítás (név/link/logó), 🗑️ törlés. A könyvjelzőid ebben a böngészőben tárolódnak.</div>
     </div>
 
     <div class="card col-4">
-      <h2>📅 <span id="cal-title">Naptár</span></h2>
+      <h2><span class="ttl">📅 Naptár</span></h2>
+      <div class="cal-head">
+        <button class="nav" id="cal-prev">‹</button>
+        <div><span class="mt" id="cal-title">—</span><button class="cal-today-btn" id="cal-today">ma</button></div>
+        <button class="nav" id="cal-next">›</button>
+      </div>
       <table class="cal" id="calendar"></table>
     </div>
 
     <div class="card col-8">
-      <h2>📰 Hírek</h2>
+      <h2><span class="ttl">📰 Hírek</span></h2>
       <div class="news-soon">A hírek szekciót együtt rakjuk össze — hamarosan (forrás, témák, megjelenés egyeztetés alatt).</div>
     </div>
 
     <div class="card col-4">
-      <h2>📊 Állapotjelzők</h2>
+      <h2><span class="ttl">📊 Állapotjelzők</span></h2>
       <div class="status" id="status">
         <div class="chip"><span class="dot g"></span><span id="st-net">Online</span></div>
         <div class="chip"><span class="dot a"></span><span id="st-day">—</span></div>
@@ -116,21 +163,23 @@
     </div>
 
   </div>
-
   <div class="foot">Kezdőlap · Marveen · <span id="built"></span></div>
 </div>
+
+<!-- bookmark edit modal -->
+<div class="modal" id="bm-modal"><div class="box">
+  <h3 id="bm-modal-title">Könyvjelző</h3>
+  <label>Név</label><input id="bm-f-name" placeholder="pl. Gmail">
+  <label>Link (URL)</label><input id="bm-f-url" placeholder="https://...">
+  <label>Logó (opcionális: emoji, vagy kép-URL — üresen automata favikon)</label><input id="bm-f-logo" placeholder="📧  vagy  https://.../logo.png">
+  <div class="row"><button class="btn" id="bm-f-cancel">Mégse</button><button class="btn acc" id="bm-f-save">Mentés</button></div>
+</div></div>
 
 <script>
 const HU_DAYS=['Vasárnap','Hétfő','Kedd','Szerda','Csütörtök','Péntek','Szombat'];
 const HU_DAYS_SHORT=['V','H','K','Sze','Cs','P','Szo'];
 const HU_MONTHS=['január','február','március','április','május','június','július','augusztus','szeptember','október','november','december'];
-
-function isoWeek(d){
-  const t=new Date(Date.UTC(d.getFullYear(),d.getMonth(),d.getDate()));
-  const day=t.getUTCDay()||7; t.setUTCDate(t.getUTCDate()+4-day);
-  const ys=new Date(Date.UTC(t.getUTCFullYear(),0,1));
-  return Math.ceil((((t-ys)/86400000)+1)/7);
-}
+function isoWeek(d){const t=new Date(Date.UTC(d.getFullYear(),d.getMonth(),d.getDate()));const day=t.getUTCDay()||7;t.setUTCDate(t.getUTCDate()+4-day);const ys=new Date(Date.UTC(t.getUTCFullYear(),0,1));return Math.ceil((((t-ys)/86400000)+1)/7);}
 function pad(n){return String(n).padStart(2,'0')}
 
 function tick(){
@@ -138,77 +187,147 @@ function tick(){
   document.getElementById('clock').innerHTML=`${pad(d.getHours())}:${pad(d.getMinutes())}<span class="sec">:${pad(d.getSeconds())}</span>`;
   document.getElementById('date').textContent=`${d.getFullYear()}. ${HU_MONTHS[d.getMonth()]} ${d.getDate()}.`;
   const wk=isoWeek(d);
-  document.getElementById('weekday').innerHTML=`${HU_DAYS[d.getDay()]} <span class="week-pill" id="weekpill">${wk}. hét</span>`;
+  document.getElementById('weekday').innerHTML=`${HU_DAYS[d.getDay()]} <span class="week-pill">${wk}. hét</span>`;
   document.getElementById('st-day').textContent=HU_DAYS[d.getDay()];
   document.getElementById('st-week').textContent=`${wk}. hét`;
 }
 setInterval(tick,1000); tick();
 
-// --- Calendar (current month) ---
+// --- Calendar with month navigation ---
+let calY=new Date().getFullYear(), calM=new Date().getMonth();
 function buildCal(){
-  const d=new Date(), y=d.getFullYear(), m=d.getMonth(), today=d.getDate();
+  const now=new Date(), y=calY, m=calM;
+  const isCur=(y===now.getFullYear()&&m===now.getMonth());
   document.getElementById('cal-title').textContent=`${y}. ${HU_MONTHS[m]}`;
-  const first=new Date(y,m,1), start=(first.getDay()+6)%7; // Monday-first
+  const first=new Date(y,m,1), start=(first.getDay()+6)%7;
   const days=new Date(y,m+1,0).getDate();
   let html='<tr>'+['H','K','Sze','Cs','P','Szo','V'].map(x=>`<th>${x}</th>`).join('')+'</tr><tr>';
   for(let i=0;i<start;i++)html+='<td class="oth"></td>';
   for(let day=1,col=start;day<=days;day++,col++){
     if(col>6){html+='</tr><tr>';col=0;}
     const we=(col>=5)?'we':'';
-    const td=(day===today)?'today':we;
+    const td=(isCur&&day===now.getDate())?'today':we;
     html+=`<td class="${td}">${day}</td>`;
   }
   html+='</tr>';
   document.getElementById('calendar').innerHTML=html;
 }
+document.getElementById('cal-prev').onclick=()=>{calM--;if(calM<0){calM=11;calY--;}buildCal();};
+document.getElementById('cal-next').onclick=()=>{calM++;if(calM>11){calM=0;calY++;}buildCal();};
+document.getElementById('cal-today').onclick=()=>{calY=new Date().getFullYear();calM=new Date().getMonth();buildCal();};
 buildCal();
 
-// --- Bookmarks (testreszabható) ---
-const BOOKMARKS=[
-  {n:'Gmail',u:'https://mail.google.com'},
-  {n:'Naptár',u:'https://calendar.google.com'},
-  {n:'Drive',u:'https://drive.google.com'},
-  {n:'YouTube',u:'https://youtube.com'},
-  {n:'Notion',u:'https://notion.so'},
-  {n:'GitHub',u:'https://github.com'},
-  {n:'Dashboard',u:'http://100.107.145.70:3420'},
-  {n:'ChatGPT',u:'https://chat.openai.com'},
-  {n:'Telex',u:'https://telex.hu'},
-  {n:'Időkép',u:'https://www.idokep.hu'},
+// --- Bookmarks (localStorage + graphical editor + import) ---
+const BM_KEY='kezdolap_bookmarks_v1';
+const DEFAULT_BM=[
+  {n:'Gmail',u:'https://mail.google.com',logo:''},{n:'Naptár',u:'https://calendar.google.com',logo:''},
+  {n:'Drive',u:'https://drive.google.com',logo:''},{n:'YouTube',u:'https://youtube.com',logo:''},
+  {n:'Notion',u:'https://notion.so',logo:''},{n:'GitHub',u:'https://github.com',logo:''},
+  {n:'Dashboard',u:'http://100.107.145.70:3420',logo:'🖥️'},{n:'ChatGPT',u:'https://chat.openai.com',logo:''},
+  {n:'Telex',u:'https://telex.hu',logo:''},{n:'Időkép',u:'https://www.idokep.hu',logo:''},
 ];
+let bms=load(); let editing=false; let editIdx=null;
+function load(){try{const s=localStorage.getItem(BM_KEY);return s?JSON.parse(s):DEFAULT_BM.slice();}catch(e){return DEFAULT_BM.slice();}}
+function save(){localStorage.setItem(BM_KEY,JSON.stringify(bms));}
 function host(u){try{return new URL(u).hostname}catch(e){return ''}}
-document.getElementById('bookmarks').innerHTML=BOOKMARKS.map(b=>
-  `<a href="${b.u}"><img class="fav" src="https://www.google.com/s2/favicons?domain=${host(b.u)}&sz=32" onerror="this.style.background='#4aa8ff'">${b.n}</a>`
-).join('');
+function logoHtml(b){
+  if(b.logo&&/^https?:\/\//.test(b.logo))return `<img class="fav" src="${b.logo}">`;
+  if(b.logo)return `<span class="emoji">${b.logo}</span>`;
+  return `<img class="fav" src="https://www.google.com/s2/favicons?domain=${host(b.u)}&sz=32">`;
+}
+function renderBM(){
+  const el=document.getElementById('bookmarks');
+  el.innerHTML=bms.map((b,i)=>`<div class="item">
+    <a href="${b.u}">${logoHtml(b)}<span class="nm">${esc(b.n)}</span></a>
+    <div class="ctrls">
+      <button data-a="up" data-i="${i}" title="fel">↑</button>
+      <button data-a="edit" data-i="${i}" title="módosít">✏️</button>
+      <button data-a="del" data-i="${i}" title="töröl">🗑️</button>
+      <button data-a="down" data-i="${i}" title="le">↓</button>
+    </div></div>`).join('');
+}
+function esc(s){return String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
+renderBM();
+document.getElementById('bookmarks').addEventListener('click',e=>{
+  const btn=e.target.closest('button[data-a]'); if(!btn)return;
+  const i=+btn.dataset.i, a=btn.dataset.a;
+  if(a==='up'&&i>0){[bms[i-1],bms[i]]=[bms[i],bms[i-1]];}
+  else if(a==='down'&&i<bms.length-1){[bms[i+1],bms[i]]=[bms[i],bms[i+1]];}
+  else if(a==='del'){if(confirm('Törlöd: '+bms[i].n+'?'))bms.splice(i,1);}
+  else if(a==='edit'){openModal(i);return;}
+  save();renderBM();
+});
+function setEdit(on){editing=on;document.getElementById('bm-card').classList.toggle('editing',on);
+  document.getElementById('bm-tools').style.display=on?'flex':'none';
+  document.getElementById('bm-hint').style.display=on?'block':'none';
+  document.getElementById('bm-edit-toggle').textContent=on?'✓ Kész':'✏️ Szerkesztés';}
+document.getElementById('bm-edit-toggle').onclick=()=>setEdit(!editing);
+document.getElementById('bm-done').onclick=()=>setEdit(false);
+document.getElementById('bm-reset').onclick=()=>{if(confirm('Visszaállítod az alap könyvjelzőket?')){bms=DEFAULT_BM.slice();save();renderBM();}};
+document.getElementById('bm-add').onclick=()=>openModal(null);
+// modal
+function openModal(i){editIdx=i;const b=i==null?{n:'',u:'',logo:''}:bms[i];
+  document.getElementById('bm-modal-title').textContent=i==null?'Új könyvjelző':'Könyvjelző módosítása';
+  document.getElementById('bm-f-name').value=b.n;document.getElementById('bm-f-url').value=b.u;document.getElementById('bm-f-logo').value=b.logo||'';
+  document.getElementById('bm-modal').classList.add('show');}
+function closeModal(){document.getElementById('bm-modal').classList.remove('show');}
+document.getElementById('bm-f-cancel').onclick=closeModal;
+document.getElementById('bm-f-save').onclick=()=>{
+  let u=document.getElementById('bm-f-url').value.trim();const n=document.getElementById('bm-f-name').value.trim();
+  if(!n||!u)return;if(!/^https?:\/\//.test(u))u='https://'+u;
+  const b={n,u,logo:document.getElementById('bm-f-logo').value.trim()};
+  if(editIdx==null)bms.push(b);else bms[editIdx]=b;
+  save();renderBM();closeModal();};
+// import browser bookmarks (Netscape HTML export)
+document.getElementById('bm-import').addEventListener('change',e=>{
+  const f=e.target.files[0];if(!f)return;const r=new FileReader();
+  r.onload=()=>{const doc=new DOMParser().parseFromString(r.result,'text/html');
+    const links=[...doc.querySelectorAll('a[href]')];
+    const have=new Set(bms.map(b=>b.u));let added=0;
+    links.forEach(a=>{const u=a.getAttribute('href');const n=(a.textContent||'').trim();
+      if(u&&/^https?:\/\//.test(u)&&n&&!have.has(u)){bms.push({n:n.slice(0,40),u,logo:''});have.add(u);added++;}});
+    save();renderBM();alert(added+' könyvjelző importálva. Szerkesztés módban rendezheted/törölheted.');};
+  r.readAsText(f);e.target.value='';
+});
 
-// --- Weather (Open-Meteo, ingyenes, kulcs nélkül) ---
-const WMO={0:'☀️',1:'🌤️',2:'⛅',3:'☁️',45:'🌫️',48:'🌫️',51:'🌦️',53:'🌦️',55:'🌧️',
-  61:'🌧️',63:'🌧️',65:'🌧️',66:'🌧️',67:'🌧️',71:'🌨️',73:'🌨️',75:'❄️',77:'❄️',
-  80:'🌦️',81:'🌧️',82:'⛈️',85:'🌨️',86:'❄️',95:'⛈️',96:'⛈️',99:'⛈️'};
+// --- Weather (Open-Meteo: current + 24h hourly slider + 7-day) ---
+const WMO={0:'☀️',1:'🌤️',2:'⛅',3:'☁️',45:'🌫️',48:'🌫️',51:'🌦️',53:'🌦️',55:'🌧️',61:'🌧️',63:'🌧️',65:'🌧️',66:'🌧️',67:'🌧️',71:'🌨️',73:'🌨️',75:'❄️',77:'❄️',80:'🌦️',81:'🌧️',82:'⛈️',85:'🌨️',86:'❄️',95:'⛈️',96:'⛈️',99:'⛈️'};
 function ico(c){return WMO[c]||'🌡️'}
 async function weather(elId,lat,lon){
   const el=document.getElementById(elId);
   try{
-    const r=await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m,weather_code&daily=weather_code,temperature_2m_max,temperature_2m_min&timezone=Europe%2FBudapest&forecast_days=7`);
-    const j=await r.json();
-    const cur=j.current, dl=j.daily;
-    let week='<div class="wx-week">';
-    for(let i=0;i<dl.time.length;i++){
-      const dt=new Date(dl.time[i]+'T00:00');
-      week+=`<div class="wx-day"><div class="dn">${HU_DAYS_SHORT[dt.getDay()]}</div>
-        <div class="di">${ico(dl.weather_code[i])}</div>
-        <div class="dt"><b>${Math.round(dl.temperature_2m_max[i])}°</b> <span>${Math.round(dl.temperature_2m_min[i])}°</span></div></div>`;
-    }
-    week+='</div>';
-    el.innerHTML=`<div class="wx-now"><div class="wx-ico">${ico(cur.weather_code)}</div>
-      <div><div class="wx-temp">${Math.round(cur.temperature_2m)}°C</div>
-      <div class="wx-meta">most</div></div></div>${week}`;
-  }catch(e){ el.innerHTML='<div class="err">Időjárás nem elérhető (offline?)</div>'; }
+    const r=await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m,weather_code&hourly=temperature_2m,weather_code&daily=weather_code,temperature_2m_max,temperature_2m_min&timezone=Europe%2FBudapest&forecast_days=7`);
+    const j=await r.json();const cur=j.current,dl=j.daily,hr=j.hourly;
+    // find current hour index
+    const nowISO=new Date();const nowKey=`${nowISO.getFullYear()}-${pad(nowISO.getMonth()+1)}-${pad(nowISO.getDate())}T${pad(nowISO.getHours())}:00`;
+    let h0=hr.time.indexOf(nowKey); if(h0<0)h0=0;
+    const H=Math.min(24,hr.time.length-h0-1);
+    // ROW 1: now
+    let html=`<div class="wx-now"><div class="wx-ico">${ico(cur.weather_code)}</div>
+      <div><div class="wx-temp">${Math.round(cur.temperature_2m)}°C</div><div class="wx-meta">most</div></div></div>`;
+    // ROW 2: hourly slider (next 24h)
+    html+=`<div class="wx-hourly">
+      <div class="hh"><div class="wx-meta">óránként (24h előre)</div>
+        <div class="hsel" id="${elId}-hsel">—</div></div>
+      <input type="range" min="0" max="${H}" value="0" id="${elId}-slider">
+      <div class="wx-hlabel"><span>most</span><span>+${H}ó</span></div></div>`;
+    // ROW 3: 7-day
+    html+='<div class="wx-week">';
+    for(let i=0;i<dl.time.length;i++){const dt=new Date(dl.time[i]+'T00:00');
+      html+=`<div class="wx-day"><div class="dn">${HU_DAYS_SHORT[dt.getDay()]}</div><div class="di">${ico(dl.weather_code[i])}</div>
+        <div class="dt"><b>${Math.round(dl.temperature_2m_max[i])}°</b> <span>${Math.round(dl.temperature_2m_min[i])}°</span></div></div>`;}
+    html+='</div>';
+    el.innerHTML=html;
+    const slider=document.getElementById(elId+'-slider'),hsel=document.getElementById(elId+'-hsel');
+    function upd(){const i=h0+(+slider.value);const t=new Date(hr.time[i]);
+      const lbl=(+slider.value===0)?'most':`${pad(t.getHours())}:00`;
+      hsel.innerHTML=`${lbl} <span class="hi">${ico(hr.weather_code[i])}</span> <b>${Math.round(hr.temperature_2m[i])}°C</b>`;}
+    slider.addEventListener('input',upd);upd();
+  }catch(e){el.innerHTML='<div class="err">Időjárás nem elérhető (offline?)</div>';}
 }
 weather('wx-sopron',47.6817,16.5845);
 weather('wx-zala',46.6406,17.1192);
-
-document.getElementById('built').textContent='v1 · '+new Date().getFullYear();
+document.getElementById('built').textContent='v2 · '+new Date().getFullYear();
 </script>
 </body>
 </html>
