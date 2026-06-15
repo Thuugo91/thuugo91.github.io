@@ -143,6 +143,13 @@
   .reader .rbody a{color:var(--accent)}
   .reader .rorig{display:inline-block;margin-top:18px;background:var(--accent);color:#001;font-weight:700;
     text-decoration:none;border-radius:10px;padding:10px 16px;font-size:14px}
+  /* token usage */
+  .usage-row{margin-bottom:16px}
+  .usage-head{font-size:12px;color:var(--dim);text-transform:uppercase;letter-spacing:.06em;font-weight:700;margin-bottom:7px}
+  .usage-row .ul{display:flex;justify-content:space-between;font-size:13.5px;margin-bottom:6px}
+  .usage-bar{height:9px;background:var(--card2);border-radius:6px;overflow:hidden}
+  .usage-bar i{display:block;height:100%;border-radius:6px}
+  .usage-sub{font-size:11.5px;color:var(--dim);margin-top:5px}
   .foot{color:#3a4452;font-size:12px;text-align:center;margin-top:18px}
   .err{color:var(--bad);font-size:13px}
 </style>
@@ -196,10 +203,15 @@
       <table class="cal" id="calendar"></table>
     </div>
 
-    <div class="col-12" id="news-host">
+    <div class="col-8" id="news-host">
       <div class="news-grid" id="news-grid">
         <div class="card ncard"><div class="news-soon">Hírek betöltése…</div></div>
       </div>
+    </div>
+
+    <div class="card col-4" id="usage-card">
+      <h2><span class="ttl">📊 Token / keret</span><span class="nupd" id="usage-upd"></span></h2>
+      <div id="usage-body"><div class="news-soon">betöltés…</div></div>
     </div>
 
   </div>
@@ -418,6 +430,30 @@ document.getElementById('news-close').onclick=()=>document.getElementById('news-
 document.getElementById('news-modal').addEventListener('click',e=>{if(e.target.id==='news-modal')e.target.classList.remove('show');});
 loadNews();setInterval(loadNews,20*60*1000);
 
+// --- Token / keret usage ---
+async function loadUsage(){
+  try{
+    const r=await fetch('usage.json?t='+Date.now());const u=await r.json();
+    let h='';const c=u.claude||{};
+    h+='<div class="usage-row"><div class="usage-head">Claude — '+esc2(c.plan||'Max')+'</div>'+
+      '<div class="ul"><span>Ma (API-érték)</span><b>'+((c.today&&c.today.huf||0)).toLocaleString('hu-HU')+' Ft</b></div>'+
+      '<div class="usage-sub">'+Math.round((c.today&&c.today.out||0)/1000)+'k kimenő token ma · héten '+((c.week&&c.week.huf||0)).toLocaleString('hu-HU')+' Ft</div>'+
+      '<div class="usage-sub">Átalánydíjas csomag — nincs fix token-plafon.</div></div>';
+    const d=u.deepseek;
+    if(d){
+      const used=Math.max(0,(d.topped_up||0)-(d.remaining||0));
+      const pct=d.topped_up?Math.min(100,Math.round(d.remaining/d.topped_up*100)):0;
+      h+='<div class="usage-row"><div class="usage-head">DeepSeek — egyenleg (ágensek)</div>'+
+        '<div class="ul"><span>Maradék</span><b>$'+(d.remaining||0).toFixed(2)+' / $'+(d.topped_up||0).toFixed(2)+'</b></div>'+
+        '<div class="usage-bar"><i style="width:'+pct+'%;background:linear-gradient(90deg,var(--good),var(--accent))"></i></div>'+
+        '<div class="usage-sub">Felhasznált eddig: $'+used.toFixed(2)+'</div></div>';
+    }
+    document.getElementById('usage-body').innerHTML=h;
+    document.getElementById('usage-upd').textContent='frissítve: '+timeAgo(u.updated);
+  }catch(e){document.getElementById('usage-body').innerHTML='<div class="news-soon">Adat hamarosan (a frissítő feltölti).</div>';}
+}
+loadUsage();setInterval(loadUsage,30*60*1000);
+
 // --- Background (rotating landscapes) ---
 const BGS=['photo-1506905925346-21bda4d32df4','photo-1470071459604-3b5ec3a7fe05','photo-1483728642387-6c3bdd6c93e5','photo-1441974231531-c6227db76b6e','photo-1454496522488-7a8e488e8606','photo-1418065460487-3e41a6c84dc5','photo-1501785888041-af3ef285b470','photo-1472214103451-9374bd1c798e','photo-1500534623283-312aade485b7','photo-1542273917363-3b1817f69a2d','photo-1426604966848-d7adac402bff','photo-1469474968028-56623f02e42e','photo-1447752875215-b2761acb3c5d','photo-1433086966358-54859d0ed716','photo-1439853949127-fa647821eba0'];
 function bgUrl(id){return 'https://images.unsplash.com/'+id+'?auto=format&fit=crop&w=1920&q=80';}
@@ -435,7 +471,7 @@ function applyTheme(t){document.documentElement.setAttribute('data-theme',t);
 let theme=localStorage.getItem(THEME_KEY)||'dark';applyTheme(theme);
 document.getElementById('theme-toggle').onclick=()=>{theme=(theme==='dark')?'light':'dark';localStorage.setItem(THEME_KEY,theme);applyTheme(theme);};
 
-document.getElementById('built').textContent='v8 · '+new Date().getFullYear();
+document.getElementById('built').textContent='v9 · '+new Date().getFullYear();
 </script>
 </body>
 </html>

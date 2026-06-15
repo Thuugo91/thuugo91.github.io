@@ -1,0 +1,19 @@
+{
+ "updated": "2026-06-15T17:36:46.658139+00:00",
+ "claude": {
+  "plan": "Max (átalány)",
+  "today": {
+   "out": 606463,
+   "huf": 264464
+  },
+  "week": {
+   "out": 606463,
+   "huf": 264464
+  }
+ },
+ "deepseek": {
+  "topped_up": 9.99,
+  "granted": 0.0,
+  "remaining": 9.99
+ }
+}
