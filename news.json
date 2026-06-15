@@ -1,9 +1,36 @@
 {
- "updated": "2026-06-15T12:20:53.083876+00:00",
+ "updated": "2026-06-15T13:00:01.343362+00:00",
  "categories": [
   {
    "name": "🎮 Film, játék, tech (HU)",
    "items": [
+    {
+     "t": "1440p vagy 4K? Az ASUS Radeon RX 9000 szériában minden gamer megtalálja a számítását (x)",
+     "l": "https://www.pcguru.hu/hirek/1440p-vagy-4k-az-asus-radeon-rx-9000-szeriaban-minden-gamer-megtalalja-a-szamitasat-szlav/101682",
+     "s": "PC Guru",
+     "d": "2026-06-15T13:00:00+00:00",
+     "sum": "A videokártyák világa ma már nem csak arról szól, hogy ki tud több képkockát kipréselni egy játékból. A Radeon RX 9000 szériája a ray tracing és a képfelskálázás korára készült.",
+     "plain": "A videokártyák világa ma már nem csak arról szól, hogy ki tud több képkockát kipréselni egy játékból. A Radeon RX 9000 szériája a ray tracing és a képfelskálázás korára készült.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/1440p_vagy_4k_az_asus_radeon_rx_9000_szeriaban_minden_gamer_megtalalja_a_szamitasat_(x)_1781514749_dbbebb32603be2d14d98.jpg"
+    },
+    {
+     "t": "Már legalább öt éve készül az Until Dawn 2",
+     "l": "https://www.gamekapocs.hu/hir/93773/mar_legalabb_ot_eve_keszul_az_until_dawn_2",
+     "s": "Gamekapocs",
+     "d": "2026-06-15T13:00:00+00:00",
+     "sum": "A videojáték-fejlesztés költségei egyre magasabbra rúgnak mostanság, és nem ritka, hogy egy-egy projekt jó hosszú fejlesztési ciklussal rendelkezik. Az Until Dawn 2 egyik színésze, Dacre Montgomery már 2022-ben csatlakozott a munkálatokhoz.",
+     "plain": "A videojáték-fejlesztés költségei egyre magasabbra rúgnak mostanság, és nem ritka, hogy egy-egy projekt jó hosszú fejlesztési ciklussal rendelkezik. Az Until Dawn 2 egyik színésze, Dacre Montgomery már 2022-ben csatlakozott a munkálatokhoz.",
+     "img": ""
+    },
+    {
+     "t": "A Microsoft 20 millió dollárt fizetett a Windows nevéért",
+     "l": "https://www.pcwplus.hu/pcwlite/a-microsoft-20-millio-dollart-fizetett-a-windows-neveert-383703.html",
+     "s": "GameStar",
+     "d": "2026-06-15T12:15:38+00:00",
+     "sum": "A Lindows miatt majdnem veszélybe került a cég egyik legfontosabb védjegye.",
+     "plain": "A Lindows miatt majdnem veszélybe került a cég egyik legfontosabb védjegye.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2505/06/windows_microsoft_operacios_rendszer_os_pc_szamitogep_velemeny_toplista_095121_5_original_390x220_cover.jpg"
+    },
     {
      "t": "375 rétegű 3D NAND flash chipek gyártásába kezd az SK Hynix",
      "l": "https://pcforum.hu/hirek/31143/sk-hynix-375-retegu-3d-nand-flash-memoriachip-gyartas",
@@ -21,6 +48,15 @@
      "sum": "<img src=\"https://sm.ign.com/t/ign_hu/photo/default/summer-game-fest-2025-1749242853288_fae9.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nA Summer Game Fest több érdekes bemutatót is hozott, de egy simán lekörözte a többit nézettségben.",
      "plain": "A Summer Game Fest több érdekes bemutatót is hozott, de egy simán lekörözte a többit nézettségben.",
      "img": "https://sm.ign.com/ign_hu/photo/default/summer-game-fest-2025-1749242853288_fae9.jpg"
+    },
+    {
+     "t": "James Gunn nem akart második Supermant csinálni a Supergirlből",
+     "l": "https://www.gsplus.hu/masvilag/james-gunn-nem-akart-masodik-supermant-csinalni-a-supergirlbol-383696.html",
+     "s": "GameStar",
+     "d": "2026-06-15T12:03:11+00:00",
+     "sum": "A DC új filmje saját hangot és látványvilágot kap.",
+     "plain": "A DC új filmje saját hangot és látványvilágot kap.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/04/supergirl_milly_alcock_055828_1_original_390x220_cover.jpg"
     },
     {
      "t": "Akár már idén megszavazhatják a britek a közösségi média tiltását",
@@ -108,8 +144,8 @@
      "l": "https://www.gamekapocs.hu/hir/93771/joval_hosszabb_es_kiterjedtebb_lesz_a_senua_mint_a_korabbi_hellblade_cimek",
      "s": "Gamekapocs",
      "d": "2026-06-15T11:00:00+00:00",
-     "sum": "A Ninja Theory ezúttal nem akar kompromisszumukat hozni, hiszen egy teljes értékű akció-kalandot ígér, miközben az élményt szándékosan Senua sztorija köré építi. Még a harcokra is nagyobb hangsúly fektetnek a srácok.",
-     "plain": "A Ninja Theory ezúttal nem akar kompromisszumukat hozni, hiszen egy teljes értékű akció-kalandot ígér, miközben az élményt szándékosan Senua sztorija köré építi. Még a harcokra is nagyobb hangsúly fektetnek a srácok.",
+     "sum": "A Ninja Theory ezúttal nem akar kompromisszumokat hozni, hiszen egy teljes értékű akció-kalandot ígér, miközben az élményt szándékosan Senua sztorija köré építi. Még a harcokra is nagyobb hangsúlyt fektetnek a srácok.",
+     "plain": "A Ninja Theory ezúttal nem akar kompromisszumokat hozni, hiszen egy teljes értékű akció-kalandot ígér, miközben az élményt szándékosan Senua sztorija köré építi. Még a harcokra is nagyobb hangsúlyt fektetnek a srácok.",
      "img": ""
     },
     {
@@ -252,8 +288,8 @@
      "l": "https://www.gamekapocs.hu/hir/93769/a_microsoft_allitolag_kulso_leanyvallalatta_alakitana_az_xbox_ot",
      "s": "Gamekapocs",
      "d": "2026-06-15T09:00:00+00:00",
-     "sum": "Egy új jelentés szerint a még az is elképzelhető, hogy a Microsoft egy önálló leányvállalattá választaná le magáról az XBOX-ot, miközben felgyorsítaná a fontosabb first party címek fejlesztését. Hamarabb jöhet a Fallout 5?",
-     "plain": "Egy új jelentés szerint a még az is elképzelhető, hogy a Microsoft egy önálló leányvállalattá választaná le magáról az XBOX-ot, miközben felgyorsítaná a fontosabb first party címek fejlesztését. Hamarabb jöhet a Fallout 5?",
+     "sum": "Egy új jelentés szerint még az is elképzelhető, hogy a Microsoft egy önálló leányvállalattá választaná le magáról az XBOX-ot, miközben felgyorsítaná a fontosabb first party címek fejlesztését. Hamarabb jöhet a Fallout 5?",
+     "plain": "Egy új jelentés szerint még az is elképzelhető, hogy a Microsoft egy önálló leányvállalattá választaná le magáról az XBOX-ot, miközben felgyorsítaná a fontosabb first party címek fejlesztését. Hamarabb jöhet a Fallout 5?",
      "img": ""
     },
     {
@@ -327,42 +363,6 @@
      "sum": "Egy ismert bennfentes szerint már 2027 első felében befuthat a franchise következő, Kratos nélküli felvonása, de akkor mi lesz a Sony őszi dobása?",
      "plain": "Egy ismert bennfentes szerint már 2027 első felében befuthat a franchise következő, Kratos nélküli felvonása, de akkor mi lesz a Sony őszi dobása?",
      "img": "https://www.pcguru.hu/images/news/2026-06/sokkal_hamarabb_erkezhet_a_god_of_war_laufey_mint_azt_barki_gondolta_volna_1781508833_b60011f7f550a12e54e2.jpg"
-    },
-    {
-     "t": "A Fehér Ház kertjében bukott el a UFC veretlen bajnoka",
-     "l": "https://www.gsplus.hu/elet/a-feher-haz-kertjeben-bukott-el-a-ufc-veretlen-bajnoka-383689.html",
-     "s": "GameStar",
-     "d": "2026-06-15T07:30:13+00:00",
-     "sum": "Justin Gaethje óriási meglepetésre legyőzte Ilia Topuriát.",
-     "plain": "Justin Gaethje óriási meglepetésre legyőzte Ilia Topuriát.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/15/ufc_082701_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Itt a Linux 7.1, ami sokkal jobban tud együttműködni a Windows-zal",
-     "l": "https://pcforum.hu/hirek/31141/linux-7-1-kiadas-uj-ntfs-meghajto-486-processzor-tamogatas-megszunes",
-     "s": "PC Fórum",
-     "d": "2026-06-15T07:30:00+00:00",
-     "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/f/87/b157f3357a20a3f48ebbeedcb6180/tux-linux-holding-hdd-and-cpu-by-chatgpt-1-extended-cropped--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>A hétvégén Linus Torvalds bejelentette az általa létrehozott nyílt forrású rendszermag két hónap óta készülő legújabb verziójának kiadását. A Linux 7.1 több tucat kisebb fejlesztést hoz, de ezek közül talán a legnagyobb horderejű a teljesen újraírt NTFS meghajtóprogram bevezetése.",
-     "plain": "A hétvégén Linus Torvalds bejelentette az általa létrehozott nyílt forrású rendszermag két hónap óta készülő legújabb verziójának kiadását. A Linux 7.1 több tucat kisebb fejlesztést hoz, de ezek közül talán a legnagyobb horderejű a teljesen",
-     "img": "https://pcforum.hu/assets/pcforum.hashed/f/87/b157f3357a20a3f48ebbeedcb6180/tux-linux-holding-hdd-and-cpu-by-chatgpt-1-extended-cropped--dyn--rss.jpeg"
-    },
-    {
-     "t": "Kína szerint már kémteknősök is figyelhetik a tengereket",
-     "l": "https://www.pcwplus.hu/pcwlite/kina-szerint-mar-kemteknosok-is-figyelhetik-a-tengereket-383677.html",
-     "s": "GameStar",
-     "d": "2026-06-15T07:16:19+00:00",
-     "sum": "A hatóságok gyanús bójákra, robothalakra és vízi drónokra vadásznak.",
-     "plain": "A hatóságok gyanús bójákra, robothalakra és vízi drónokra vadásznak.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/14/kemteknos_130032_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Harmincszorosára nőtt a magyar podcastpiac",
-     "l": "https://www.gsplus.hu/hir/harmincszorosara-nott-a-magyar-podcastpiac-383688.html",
-     "s": "GameStar",
-     "d": "2026-06-15T07:02:55+00:00",
-     "sum": "A Podiverzum szerint az AI már a második leggyakoribb téma.",
-     "plain": "A Podiverzum szerint az AI már a második leggyakoribb téma.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2605/10/podcast_093010_1_original_390x220_cover.jpg"
     }
    ]
   }

@@ -6,6 +6,7 @@
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
+<meta name="robots" content="noindex, nofollow">
 <title>Kezdőlap</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -272,7 +273,7 @@ const DEFAULT_BM=[
   {n:'Gmail',u:'https://mail.google.com',logo:''},{n:'Naptár',u:'https://calendar.google.com',logo:''},
   {n:'Drive',u:'https://drive.google.com',logo:''},{n:'YouTube',u:'https://youtube.com',logo:''},
   {n:'Notion',u:'https://notion.so',logo:''},{n:'GitHub',u:'https://github.com',logo:''},
-  {n:'Dashboard',u:'http://100.107.145.70:3420',logo:'🖥️'},{n:'ChatGPT',u:'https://chat.openai.com',logo:''},
+  {n:'ChatGPT',u:'https://chat.openai.com',logo:''},
   {n:'Telex',u:'https://telex.hu',logo:''},{n:'Időkép',u:'https://www.idokep.hu',logo:''},
 ];
 let bms=load(); let editing=false; let editIdx=null;
@@ -434,7 +435,7 @@ function applyTheme(t){document.documentElement.setAttribute('data-theme',t);
 let theme=localStorage.getItem(THEME_KEY)||'dark';applyTheme(theme);
 document.getElementById('theme-toggle').onclick=()=>{theme=(theme==='dark')?'light':'dark';localStorage.setItem(THEME_KEY,theme);applyTheme(theme);};
 
-document.getElementById('built').textContent='v7 · '+new Date().getFullYear();
+document.getElementById('built').textContent='v8 · '+new Date().getFullYear();
 </script>
 </body>
 </html>
