@@ -157,6 +157,13 @@
   .usage-bar{height:9px;background:var(--card2);border-radius:6px;overflow:hidden}
   .usage-bar i{display:block;height:100%;border-radius:6px}
   .usage-sub{font-size:11.5px;color:var(--dim);margin-top:5px}
+  .usage-i{display:inline-flex;align-items:center;justify-content:center;width:15px;height:15px;border-radius:50%;
+    border:1px solid var(--dim);color:var(--dim);font-size:10px;font-weight:700;font-style:italic;cursor:help;position:relative;margin-left:7px}
+  .usage-i:hover{border-color:var(--accent);color:var(--accent)}
+  .usage-i:hover .usage-tip{display:block}
+  .usage-tip{display:none;position:absolute;bottom:135%;right:-4px;width:210px;background:var(--card);
+    border:1px solid var(--line);border-radius:9px;padding:9px 11px;font-size:11.5px;color:var(--txt);font-style:normal;
+    font-weight:400;z-index:30;box-shadow:0 8px 24px rgba(0,0,0,.45);text-align:left;line-height:1.45}
   .foot{color:#3a4452;font-size:12px;text-align:center;margin-top:18px}
   .err{color:var(--bad);font-size:13px}
 </style>
@@ -483,8 +490,9 @@ async function loadUsage(){
     h+='<div class="usage-row"><div class="usage-head">Claude — '+esc2(c.plan||'Max')+'</div>';
     if(of){
       h+='<div class="ul"><span>5 órás keret</span><b>'+of.session+'%</b></div>'+bar(of.session)+
-        '<div class="ul" style="margin-top:9px"><span>Heti keret</span><b>'+of.weekly+'%</b></div>'+bar(of.weekly)+
-        '<div class="usage-sub">hivatalos (fotó: '+esc2(of.at)+') · becsült most: 5h '+p5+'%, heti '+pw+'%</div></div>';
+        '<div class="ul" style="margin-top:9px"><span>Heti keret'+
+          '<span class="usage-i">i<span class="usage-tip">Hivatalos adat (fotó: '+esc2(of.at)+'). Saját becslésem most: 5 órás '+p5+'%, heti '+pw+'%.</span></span>'+
+        '</span><b>'+of.weekly+'%</b></div>'+bar(of.weekly)+'</div>';
     } else {
       h+='<div class="ul"><span>5 órás keret</span><b>'+p5+'%</b></div>'+bar(p5)+
         '<div class="ul" style="margin-top:9px"><span>Heti keret</span><b>'+pw+'%</b></div>'+bar(pw)+
@@ -535,7 +543,7 @@ function applyTheme(t){document.documentElement.setAttribute('data-theme',t);
 let theme=localStorage.getItem(THEME_KEY)||'dark';applyTheme(theme);
 document.getElementById('theme-toggle').onclick=()=>{theme=(theme==='dark')?'light':'dark';localStorage.setItem(THEME_KEY,theme);applyTheme(theme);};
 
-document.getElementById('built').textContent='v14 · '+new Date().getFullYear();
+document.getElementById('built').textContent='v15 · '+new Date().getFullYear();
 </script>
 </body>
 </html>

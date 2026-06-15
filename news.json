@@ -1,9 +1,63 @@
 {
- "updated": "2026-06-15T18:00:02.956097+00:00",
+ "updated": "2026-06-15T19:00:01.399933+00:00",
  "categories": [
   {
    "name": "🎮 Film, játék, tech (HU)",
    "items": [
+    {
+     "t": "Sok hűhó semmiért – Aprópénzzel mehet haza a Nintendo a nagy Palworld-per után",
+     "l": "https://www.pcguru.hu/hirek/sok-huho-semmiert-apropenzzel-mehet-haza-a-nintendo-a-nagy-palworld-per-utan-szlav/101691",
+     "s": "PC Guru",
+     "d": "2026-06-15T19:00:00+00:00",
+     "sum": "A Pocketpair nem futamodott meg, amikor a Nintendo rájuk borította a teljes tokiói kerületi bíróságot, ma pedig már csak nevetnek az óriáscég korábbi követelésein.",
+     "plain": "A Pocketpair nem futamodott meg, amikor a Nintendo rájuk borította a teljes tokiói kerületi bíróságot, ma pedig már csak nevetnek az óriáscég korábbi követelésein.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/sok_huho_semmiert__apropenzzel_mehet_haza_a_nintendo_a_nagy_palworld-per_utan_1781524554_cfc1637974d7d7d9c453.jpg"
+    },
+    {
+     "t": "A nyár folyamán jön a The Relic: First Guardian, új előzetest is kapott a soulslike akció-RPG",
+     "l": "https://www.gamekapocs.hu/hir/93779/a_nyar_folyaman_jon_a_the_relic_first_guardian_uj_elozetest_is_kapott_a_soulslike_akcio_rpg",
+     "s": "Gamekapocs",
+     "d": "2026-06-15T19:00:00+00:00",
+     "sum": "A dél-koreai Project Cloud Games dark fantasy akció-szerepjátéka július 31-én jelenik meg PlayStation 5-re és PC-re, az Xbox Series X/S és Nintendo Switch 2 verziók pedig néhány héttel később, még a nyári időszakban jönnek.",
+     "plain": "A dél-koreai Project Cloud Games dark fantasy akció-szerepjátéka július 31-én jelenik meg PlayStation 5-re és PC-re, az Xbox Series X/S és Nintendo Switch 2 verziók pedig néhány héttel később, még a nyári időszakban jönnek.",
+     "img": ""
+    },
+    {
+     "t": "Bezárhat az Xbox stúdiója, amelynek az egyik legkülönlegesebb játékukat is köszönhetjük",
+     "l": "https://hu.ign.com/xbox-game-studios/112290/bezarhat-az-xbox-studioja-amelynek-az-egyik-legkulonlegesebb-jatekukat-is-koszonhetjuk",
+     "s": "IGN Hungary",
+     "d": "2026-06-15T18:44:11+00:00",
+     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/screenshot/default/clancy-brown-1_uhw5.640.png\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nAz Xbox Game Studiosnál átalakulások zajlanak, és ennek egyik negatív hozománya lehet egy belsős stúdiója bezárása.",
+     "plain": "Az Xbox Game Studiosnál átalakulások zajlanak, és ennek egyik negatív hozománya lehet egy belsős stúdiója bezárása.",
+     "img": "https://sm.ign.com/ign_hu/screenshot/default/clancy-brown-1_uhw5.png"
+    },
+    {
+     "t": "Vezetőváltás történt az Xbox Game Studios élén is, távozik Craig Duncan és Louise O’Connor",
+     "l": "https://www.gamekapocs.hu/hir/93780/vezetovaltas_tortent_az_xbox_game_studios_elen_is_tavozik_craig_duncan_es_louise_o_connor",
+     "s": "Gamekapocs",
+     "d": "2026-06-15T18:30:00+00:00",
+     "sum": "A Microsoft Gaming két rendkívül fontos pozíciót betöltő embere, Craig Duncan, a stúdiócsoport vezetője, illetve Louise O’Connor, a chief of staff is távozik pozíciójából az Xbox Game Studios éléről.",
+     "plain": "A Microsoft Gaming két rendkívül fontos pozíciót betöltő embere, Craig Duncan, a stúdiócsoport vezetője, illetve Louise O’Connor, a chief of staff is távozik pozíciójából az Xbox Game Studios éléről.",
+     "img": ""
+    },
+    {
+     "t": "Nagy-Britannia kitiltaná a 16 év alattiakat a közösségi médiából",
+     "l": "https://www.pcwplus.hu/pcwlite/nagybritannia-kitiltana-a-16-ev-alattiakat-a-kozossegi-mediabol-383721.html",
+     "s": "GameStar",
+     "d": "2026-06-15T18:27:33+00:00",
+     "sum": "A kormány 2027 tavaszára vezetné be a szigorítást.",
+     "plain": "A kormány 2027 tavaszára vezetné be a szigorítást.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2512/21/kozossegi_media_141341_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Napokon belül otthon is nézhető az Avatar szerintem legrosszabb része",
+     "l": "https://www.gsplus.hu/masvilag/napokon-belul-otthon-is-nezheto-az-avatar-szerintem-legrosszabb-resze-383732.html",
+     "s": "GameStar",
+     "d": "2026-06-15T18:17:49+00:00",
+     "sum": "Az Avatar: Tűz és hamu mindjárt megérkezik a Disney+-ra, és akinek erre van szüksége, nézheti is.",
+     "plain": "Az Avatar: Tűz és hamu mindjárt megérkezik a Disney+-ra, és akinek erre van szüksége, nézheti is.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2512/15/avatar_fire_and_ash_avatar_tuz_es_hamu_kritika_211011_3_original_390x220_cover.jpg"
+    },
     {
      "t": "Nehéz lesz nemet mondani: ilyen extrákat kaphatnak a GTA 6 előrendelői",
      "l": "https://www.pcguru.hu/hirek/nehez-lesz-nemet-mondani-ilyen-extrakat-kaphatnak-a-gta-6-elorendeloi-tzeus/101697",
@@ -30,6 +84,15 @@
      "sum": "<img src=\"https://sm.ign.com/t/ign_hu/screenshot/default/k-pop-1_g471.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nA LEGO meglovagolja a K-pop démonvadászok sikerét, mert piacra dob egy szettet, benne Derpyvel és Sussie-val.",
      "plain": "A LEGO meglovagolja a K-pop démonvadászok sikerét, mert piacra dob egy szettet, benne Derpyvel és Sussie-val.",
      "img": "https://sm.ign.com/ign_hu/screenshot/default/k-pop-1_g471.jpg"
+    },
+    {
+     "t": "Szavazz: a Summer Game Fest játékai közül melyik hozott a leginkább lázba?",
+     "l": "https://www.gsplus.hu/summergamefest/szavazas-summer-game-fest-383723.html",
+     "s": "GameStar",
+     "d": "2026-06-15T17:45:55+00:00",
+     "sum": "Egyetlen hét alatt irgalmatlanul sok játék került a közönség elé.",
+     "plain": "Egyetlen hét alatt irgalmatlanul sok játék került a közönség elé.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/01/summer_game_fest_2026_124556_2_original_390x220_cover.jpg"
     },
     {
      "t": "Az egyik leghangulatosabb játék lett az övék, az Xbox mégis bezárhatja a stúdiót",
@@ -300,69 +363,6 @@
      "sum": "Egy sydney-i támadás után lazíthatnak a repülési szabályokon.",
      "plain": "Egy sydney-i támadás után lazíthatnak a repülési szabályokon.",
      "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/15/capatamadas_093733_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Előzetest kapott a Netflixre érkező Az utolsó ház, amiben egy család nagyon-nagyon sokáig nem tud kijönni a saját otthonából",
-     "l": "https://hu.ign.com/az-utolso-haz/112279/elozetest-kapott-a-netflixre-erkezo-az-utolso-haz-amiben-egy-csalad-nagyon-nagyon-sokaig-nem-tud-kij",
-     "s": "IGN Hungary",
-     "d": "2026-06-15T14:06:37+00:00",
-     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/screenshot/default/blob_bxf6.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nRoppant érdekesnek ígérkezik a Wagner Moura és Greta Lee főszereplésével készülő sci-fi thriller, amiben elsősorban nem fizikailag fognak szenvedni a ház rabjai.",
-     "plain": "Roppant érdekesnek ígérkezik a Wagner Moura és Greta Lee főszereplésével készülő sci-fi thriller, amiben elsősorban nem fizikailag fognak szenvedni a ház rabjai.",
-     "img": "https://sm.ign.com/ign_hu/screenshot/default/blob_bxf6.jpg"
-    },
-    {
-     "t": "A Blizzard egy újabb WoW szervernek ment utána, folytatódik a jogi takarítás",
-     "l": "https://www.gsplus.hu/hir/world-of-warcraft-ascension-privat-szerver-mmorpg-blizzard-383701.html",
-     "s": "GameStar",
-     "d": "2026-06-15T14:02:03+00:00",
-     "sum": "Kezdődhet a búcsúzkodás, mert valószínűleg az Ascension sem húzza már sokáig, ahogy a fejlesztő szisztematikusan takarítja el a nagyokat.",
-     "plain": "Kezdődhet a búcsúzkodás, mert valószínűleg az Ascension sem húzza már sokáig, ahogy a fejlesztő szisztematikusan takarítja el a nagyokat.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2604/13/world_of_warcraft_turtlewow_125448_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Xboxra költözik a legszexisebb hősnő, de meg kell oldani, hogy ne durranjon el tőle a Series S",
-     "l": "https://www.pcguru.hu/hirek/xboxra-koltozik-a-legszexisebb-hosno-de-meg-kell-oldani-hogy-ne-durranjon-el-tole-a-series-s-tzeus/101688",
-     "s": "PC Guru",
-     "d": "2026-06-15T14:00:00+00:00",
-     "sum": "A legdögösebb cyber-harcos az Xboxot is meghódítja, ha a Series S is úgy akarja.",
-     "plain": "A legdögösebb cyber-harcos az Xboxot is meghódítja, ha a Series S is úgy akarja.",
-     "img": "https://www.pcguru.hu/images/news/2026-06/xboxra_koltozik_a_legszexisebb_hosno_de_meg_kell_oldani_hogy_ne_durranjon_el_tole_a_series_s_1781520359_09482695bb6e9a3e6145.jpg"
-    },
-    {
-     "t": "Nem a játékok történetét meséli el újra a Death Stranding-film",
-     "l": "https://www.gamekapocs.hu/hir/93774/nem_a_jatekok_tortenetet_meseli_el_ujra_a_death_stranding_film",
-     "s": "Gamekapocs",
-     "d": "2026-06-15T14:00:00+00:00",
-     "sum": "Noha a Death Stranding-filmet már 2022-ben bejelentették, eddig nem nagyon volt mozgolódás a megvalósítás felé. Sőt, a projekt még mindig korai szakaszban van, és az első részleteket csak most hozta nyilvánosságra a rendező.",
-     "plain": "Noha a Death Stranding-filmet már 2022-ben bejelentették, eddig nem nagyon volt mozgolódás a megvalósítás felé. Sőt, a projekt még mindig korai szakaszban van, és az első részleteket csak most hozta nyilvánosságra a rendező.",
-     "img": ""
-    },
-    {
-     "t": "Yoshi and the Mysterious Book teszt",
-     "l": "https://www.gamekapocs.hu/cikk/5178/yoshi_and_the_mysterious_book_teszt",
-     "s": "Gamekapocs",
-     "d": "2026-06-15T13:50:23+00:00",
-     "sum": "Yoshi legújabb kalandja egy mesekönyv lapjaira repít el bennünket, ahol minden egyes oldal egy külön felfedezésre váró kis világot rejt. A kreativitást és a hangulatot nem érheti panasz, ám a chillezéssel néhol picit túllőttek a kiotóiak.",
-     "plain": "Yoshi legújabb kalandja egy mesekönyv lapjaira repít el bennünket, ahol minden egyes oldal egy külön felfedezésre váró kis világot rejt. A kreativitást és a hangulatot nem érheti panasz, ám a chillezéssel néhol picit túllőttek a kiotóiak.",
-     "img": ""
-    },
-    {
-     "t": "Tegyél magadnak egy szívességet és nézd meg ezt a nagyon furcsa sorozatot",
-     "l": "https://www.gsplus.hu/masvilag/widows-bay-apple-tv-streaming-tegyel-magadnak-egy-szivesseget-es-nezd-meg-ezt-a-nagyon-furcsa-sorozatot-383715.html",
-     "s": "GameStar",
-     "d": "2026-06-15T13:31:46+00:00",
-     "sum": "A Widow&#39;s Bay egy csodálatos sorozat, amiről sosem fogod tudni eldönteni, hogy mit is nézel pontosan.",
-     "plain": "A Widow&#39;s Bay egy csodálatos sorozat, amiről sosem fogod tudni eldönteni, hogy mit is nézel pontosan.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/15/widow_s_bay_124451_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "\"B*sszák meg a szuperhősök\" - A The Boys-sorozat készítője megmutatta, hogyan képzelte el eredetileg az adaptációt több mint tíz évvel ezelőtt, amikor még csak ",
-     "l": "https://hu.ign.com/the-boys/112275/bsszak-meg-a-szuperhosok-a-the-boys-sorozat-keszitoje-megmutatta-hogyan-kepzelte-el-eredetileg-az-ad",
-     "s": "IGN Hungary",
-     "d": "2026-06-15T13:19:51+00:00",
-     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/screenshot/default/ezgif-2b1cb262ed4344f3_w9kx.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nEric Kripke eredeti elképzelése nagyjából megvalósult, még ha a vége nem is lett az igazi.",
-     "plain": "Eric Kripke eredeti elképzelése nagyjából megvalósult, még ha a vége nem is lett az igazi.",
-     "img": "https://sm.ign.com/ign_hu/screenshot/default/ezgif-2b1cb262ed4344f3_w9kx.jpg"
     }
    ]
   }
