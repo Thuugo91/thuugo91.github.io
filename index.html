@@ -67,6 +67,13 @@
   .wx-day .dn{font-size:11px;color:var(--dim);text-transform:uppercase}
   .wx-day .di{font-size:22px;margin:4px 0}
   .wx-day .dt{font-size:12px}.wx-day .dt b{color:var(--txt)}.wx-day .dt span{color:var(--dim)}
+  /* country weather map */
+  .wxmap-tabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
+  .wxmap-tabs .btn{padding:6px 13px}
+  .wxmap-tabs .btn.on{border-color:var(--accent);color:var(--accent);background:rgba(74,168,255,.14)}
+  .wxmap{position:relative;border-radius:14px;overflow:hidden;background:var(--card2);border:1px solid var(--line)}
+  .wxmap iframe{display:block;width:100%;height:460px;border:0}
+  .wxmap .hint{margin:8px 2px 0}
   /* calendar */
   .cal-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:8px}
   .cal-head .nav{background:var(--card2);border:1px solid var(--line);color:var(--txt);border-radius:8px;
@@ -168,6 +175,21 @@
   </div>
 
   <div class="grid">
+
+    <div class="card col-12" id="wxmap-card">
+      <h2><span class="ttl">🗺️ Országos időjárás-térkép</span>
+        <span class="nupd" style="font-weight:500">húzd a csúszkát a térkép alján az előrejelzéshez</span></h2>
+      <div class="wxmap-tabs" id="wxmap-tabs">
+        <button class="btn on" data-ov="temp">🌡️ Hőmérséklet</button>
+        <button class="btn" data-ov="rain">🌧️ Csapadék</button>
+        <button class="btn" data-ov="wind">💨 Szél</button>
+        <button class="btn" data-ov="clouds">☁️ Felhőzet</button>
+        <button class="btn" data-ov="radar">📡 Radar</button>
+      </div>
+      <div class="wxmap"><iframe id="wxmap-frame" title="Időjárás-térkép" loading="lazy"
+        referrerpolicy="no-referrer" allow="fullscreen"></iframe></div>
+      <div class="hint">Forrás: Windy.com · a térkép alján lévő idővonalat húzva napokra előre megnézheted az ország hő- és csapadékképét.</div>
+    </div>
 
     <div class="card col-6">
       <h2><span class="ttl">🌤️ Időjárás — Sopron</span></h2>
@@ -394,6 +416,24 @@ async function weather(elId,lat,lon){
 }
 weather('wx-sopron',47.6817,16.5845);
 weather('wx-zala',46.6406,17.1192);
+
+// --- Country weather map (Windy embed: heat/rain/wind map + built-in time slider) ---
+function windyUrl(ov){
+  // centered on Hungary, zoom 6 shows the whole country; built-in timeline slider at bottom
+  const radar=(ov==='radar');
+  return 'https://embed.windy.com/embed2.html?'+
+    'lat=47.16&lon=19.50&detailLat=47.50&detailLon=16.58&zoom=6'+
+    '&overlay='+(radar?'radar':ov)+'&product='+(radar?'radar':'ecmwf')+
+    '&level=surface&type=map&location=coordinates&metricTemp=%C2%B0C&metricWind=km%2Fh'+
+    '&menu=&message=&marker=&calendar=now&pressure=&detail=&radarRange=-1';
+}
+const wxmapFrame=document.getElementById('wxmap-frame');
+wxmapFrame.src=windyUrl('temp');
+document.getElementById('wxmap-tabs').addEventListener('click',e=>{
+  const b=e.target.closest('button[data-ov]');if(!b)return;
+  document.querySelectorAll('#wxmap-tabs .btn').forEach(x=>x.classList.toggle('on',x===b));
+  wxmapFrame.src=windyUrl(b.dataset.ov);
+});
 // --- News (news.json, in-page reader) ---
 let NEWS=[];
 function timeAgo(iso){if(!iso)return '';const s=(Date.now()-new Date(iso))/1000;
@@ -495,7 +535,7 @@ function applyTheme(t){document.documentElement.setAttribute('data-theme',t);
 let theme=localStorage.getItem(THEME_KEY)||'dark';applyTheme(theme);
 document.getElementById('theme-toggle').onclick=()=>{theme=(theme==='dark')?'light':'dark';localStorage.setItem(THEME_KEY,theme);applyTheme(theme);};
 
-document.getElementById('built').textContent='v13 · '+new Date().getFullYear();
+document.getElementById('built').textContent='v14 · '+new Date().getFullYear();
 </script>
 </body>
 </html>
