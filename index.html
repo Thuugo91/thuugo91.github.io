@@ -435,13 +435,15 @@ async function loadUsage(){
   try{
     const r=await fetch('usage.json?t='+Date.now());const u=await r.json();
     let h='';const c=u.claude||{};
-    const w5=c.window_5h||{turns:0,tok:0}, w7=c.week||{turns:0,tok:0};
-    h+='<div class="usage-row"><div class="usage-head">Claude — '+esc2(c.plan||'Max')+' (gördülő keret)</div>'+
-      '<div class="ul"><span>Utolsó 5 óra</span><b>'+(w5.turns||0).toLocaleString('hu-HU')+' üzenet</b></div>'+
-      '<div class="usage-sub">'+((w5.tok||0)/1e6).toFixed(1)+'M token az 5 órás ablakban</div>'+
-      '<div class="ul" style="margin-top:9px"><span>Héten</span><b>'+(w7.turns||0).toLocaleString('hu-HU')+' üzenet</b></div>'+
-      '<div class="usage-sub">'+((w7.tok||0)/1e6).toFixed(1)+'M token a héten</div>'+
-      '<div class="usage-sub">A hivatalos plafon %-a nem lekérdezhető — ez a tényleges fogyasztás.</div></div>';
+    const w5=c.window_5h||{turns:0}, w7=c.week||{turns:0};
+    const l5=c.limit_5h_turns||908, lw=c.limit_week_turns||19200;
+    const p5=Math.min(100,Math.round((w5.turns||0)/l5*100)), pw=Math.min(100,Math.round((w7.turns||0)/lw*100));
+    const bar=p=>{const col=p<60?'var(--good)':p<85?'var(--accent2)':'var(--bad)';return '<div class="usage-bar"><i style="width:'+p+'%;background:'+col+'"></i></div>';};
+    h+='<div class="usage-row"><div class="usage-head">Claude — Max (becsült keret)</div>'+
+      '<div class="ul"><span>5 órás keret</span><b>'+p5+'%</b></div>'+bar(p5)+
+      '<div class="usage-sub">'+(w5.turns||0)+' üzenet az 5 órás ablakban</div>'+
+      '<div class="ul" style="margin-top:11px"><span>Heti keret</span><b>'+pw+'%</b></div>'+bar(pw)+
+      '<div class="usage-sub">'+(w7.turns||0)+' üzenet a héten · '+esc2(c.calib||'')+'</div></div>';
     const d=u.deepseek;
     if(d){
       const used=Math.max(0,(d.topped_up||0)-(d.remaining||0));
@@ -474,7 +476,7 @@ function applyTheme(t){document.documentElement.setAttribute('data-theme',t);
 let theme=localStorage.getItem(THEME_KEY)||'dark';applyTheme(theme);
 document.getElementById('theme-toggle').onclick=()=>{theme=(theme==='dark')?'light':'dark';localStorage.setItem(THEME_KEY,theme);applyTheme(theme);};
 
-document.getElementById('built').textContent='v10 · '+new Date().getFullYear();
+document.getElementById('built').textContent='v11 · '+new Date().getFullYear();
 </script>
 </body>
 </html>
