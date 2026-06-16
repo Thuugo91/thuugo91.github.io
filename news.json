@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-16T17:37:39.464106+00:00",
+ "updated": "2026-06-16T18:00:01.759038+00:00",
  "categories": [
   {
    "name": "🎮 Film, játék, tech (HU)",
@@ -248,15 +248,6 @@
      "img": "https://sm.ign.com/ign_hu/photo/default/summer-game-fest-2025-1749242853288_fae9.jpg"
     },
     {
-     "t": "Robusztus grafikai módokat ígér konzolokon az Onimusha: Way of the Sword, de itt a PC-s gépigény is",
-     "l": "https://www.gamekapocs.hu/hir/93772/robusztus_grafikai_modokat_iger_konzolokon_az_onimusha_way_of_the_sword_de_itt_a_pc_s_gepigeny_is",
-     "s": "Gamekapocs",
-     "d": "2026-06-15T12:00:00+00:00",
-     "sum": "Az ingyenes demót már egymillió játékos tette magáévá, így elég nagy rá az esély, hogy a Capcom szamurájos sorozata újra rivaldafénybe kerül idén ősszel. Lássuk, hogyan fut az Onimusha: Way of the Sword konzolokon, és azt, milyen PC kell alá!",
-     "plain": "Az ingyenes demót már egymillió játékos tette magáévá, így elég nagy rá az esély, hogy a Capcom szamurájos sorozata újra rivaldafénybe kerül idén ősszel. Lássuk, hogyan fut az Onimusha: Way of the Sword konzolokon, és azt, milyen PC kell al",
-     "img": ""
-    },
-    {
      "t": "Családi bérlet kapható a Cinema City mozikban, amivel nemcsak nyáron, hanem azt követően is kedvezményes áron nézhetünk várva várt filmeket",
      "l": "https://hu.ign.com/cinema-city/112273/csaladi-berlet-kaphato-a-cinema-city-mozikban-amivel-nemcsak-nyaron-hanem-azt-kovetoen-is-kedvezmeny",
      "s": "IGN Hungary",
@@ -363,6 +354,15 @@
      "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/c/6e/b7828f036cf7d1a937301147a7cc5/youtube-wp2--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>A Google a héten egy olyan új funkció bevezetését kezdte meg a YouTube-on, ami - legalábbis bizonyos helyzetekben - egyszerűbbé teszi az azon talált érdekes videók megosztását egymással. Ehhez ugyanis eddig valamilyen más kommunikációs csatornát: emailt, üzenőprogramot, esetleg közösségi alkalmazást kellett igénybe venni - mostantól ez azonban magában a YouTube app-ban is lehetséges lesz.",
      "plain": "A Google a héten egy olyan új funkció bevezetését kezdte meg a YouTube-on, ami - legalábbis bizonyos helyzetekben - egyszerűbbé teszi az azon talált érdekes videók megosztását egymással. Ehhez ugyanis eddig valamilyen más kommunikációs csat",
      "img": "https://pcforum.hu/assets/pcforum.hashed/c/6e/b7828f036cf7d1a937301147a7cc5/youtube-wp2--dyn--rss.jpeg"
+    },
+    {
+     "t": "Megint feltörték a Windows-ok beépített lemeztitkosítását, a BitLocker-t",
+     "l": "https://pcforum.hu/hirek/31132/greatxml-windows-bitlocker-sebezhetpseg-nightmare-eclipse",
+     "s": "PC Fórum",
+     "d": "2026-06-12T06:00:00+00:00",
+     "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/d/d2/46f2d41cbf5939c19f19639e6ce23/greatxml-bitlocker-crack-by-chatgpt-1-cropped--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>A Microsofttal korábban összetűzésbe kerülő, magát Nightmare Eclipse-nek nevező biztonsági szakértő a héten ismét borsot tört a vállalat orra alá. Az illető ugyanis leleplezett egy újabb módszert, aminek révén pillanatok alatt hozzáférhetővé válhat illetéktelenek számára is a Windows-ok beépített lemeztitkosításával, a BitLocker-rel kódolt lemezkötetek tartalma.",
+     "plain": "A Microsofttal korábban összetűzésbe kerülő, magát Nightmare Eclipse-nek nevező biztonsági szakértő a héten ismét borsot tört a vállalat orra alá. Az illető ugyanis leleplezett egy újabb módszert, aminek révén pillanatok alatt hozzáférhetőv",
+     "img": "https://pcforum.hu/assets/pcforum.hashed/d/d2/46f2d41cbf5939c19f19639e6ce23/greatxml-bitlocker-crack-by-chatgpt-1-cropped--dyn--rss.jpeg"
     }
    ]
   }
