@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-16T15:00:01.550353+00:00",
+ "updated": "2026-06-16T16:00:01.825575+00:00",
  "categories": [
   {
    "name": "🎮 Film, játék, tech (HU)",
@@ -12,24 +12,6 @@
      "sum": "Tartsatok velünk 2026-ban az élő, magyar nyelvű PGL közvetítésekért, szurkoljunk együtt a világ legjobbjainak az év második Majorén is együtt!",
      "plain": "Tartsatok velünk 2026-ban az élő, magyar nyelvű PGL közvetítésekért, szurkoljunk együtt a világ legjobbjainak az év második Majorén is együtt!",
      "img": "https://www.pcguru.hu/images/news/2026-06/az_egyik_legnagyobb_esport_piacra_is_betor_a_cs2-vel_a_pgl_1781540363_5e2d6c0372c49637bebf.jpg"
-    },
-    {
-     "t": "Vajon túléli a PC-d a Locustok rohamát? Kiderült a Gears of War: E-Day gépigénye",
-     "l": "https://www.pcguru.hu/hirek/vajon-tureli-a-pc-d-a-locustok-rohamat-kiderult-a-gears-of-war-e-day-gepigenye-tzeus/101698",
-     "s": "PC Guru",
-     "d": "2026-06-15T20:30:00+00:00",
-     "sum": "Ennyi helyet kér a Gears of War: E-Day, és ez még nem minden.",
-     "plain": "Ennyi helyet kér a Gears of War: E-Day, és ez még nem minden.",
-     "img": "https://www.pcguru.hu/images/news/2026-06/vajon_tuleli_a_pc-d_a_locustok_rohamat_kiderult_a_gears_of_war_e-day_gepigenye_1781533918_9812c39bcea07644768b.jpg"
-    },
-    {
-     "t": "Előrébb hozzák a világvégét? A vártnál sokkal hamarabb futhat be a Fallout 5",
-     "l": "https://www.pcguru.hu/hirek/elorebb-hozzak-a-vilagveget-a-vartnal-sokkal-hamarabb-futhat-be-a-fallout-5-tzeus/101693",
-     "s": "PC Guru",
-     "d": "2026-06-15T20:00:00+00:00",
-     "sum": "Egy jelentés szerint közelebb lehet a Fallout 5, mint valaha.",
-     "plain": "Egy jelentés szerint közelebb lehet a Fallout 5, mint valaha.",
-     "img": "https://www.pcguru.hu/images/news/2026-06/elorebb_hozzak_a_vilagveget_a_vartnal_sokkal_hamarabb_futhat_be_a_fallout_5_1781525825_57b1677dd8ae5e667e8e.jpg"
     },
     {
      "t": "Anya Taylor-Joy csatlakozott az új A Gyűrűk Ura-filmhez: Az első hivatalos kép kíséretében az is kiderült, kit fog eljátszani",
@@ -293,15 +275,6 @@
      "img": "https://sm.ign.com/ign_hu/screenshot/default/blob_ku3a.jpg"
     },
     {
-     "t": "Bohócrém is megérkezik hamarosan az idén 10 éves Dead by Daylightba, amit több téren is megújítanak a készítők",
-     "l": "https://hu.ign.com/dead-by-daylight/112270/bohocrem-is-megerkezik-hamarosan-az-iden-10-eves-dead-by-daylightba-amit-tobb-teren-is-megujitanak-a",
-     "s": "IGN Hungary",
-     "d": "2026-06-15T11:08:38+00:00",
-     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/photo/default/dead-by-daylight-art-the-clown-terrifier-chapter-17814948037_xhj9.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nBővül és megszépül a Behaviour Interactive még mindig népszerű horrorjátéka.",
-     "plain": "Bővül és megszépül a Behaviour Interactive még mindig népszerű horrorjátéka.",
-     "img": "https://sm.ign.com/ign_hu/photo/default/dead-by-daylight-art-the-clown-terrifier-chapter-17814948037_xhj9.jpg"
-    },
-    {
      "t": "Dead by Daylight grafikai átalakítás",
      "l": "https://hu.ign.com/dead-by-daylight/112271/dead-by-daylight-grafikai-atalakitas",
      "s": "IGN Hungary",
@@ -309,6 +282,15 @@
      "sum": "<img src=\"https://sm.ign.com/t/ign_hu/gallery/d/dead-by-da/dead-by-daylight-10th-anniversary-broadcast-visual-overhaul_dsq5.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />",
      "plain": "",
      "img": "https://sm.ign.com/ign_hu/gallery/d/dead-by-da/dead-by-daylight-10th-anniversary-broadcast-visual-overhaul_dsq5.jpg"
+    },
+    {
+     "t": "Bohócrém is megérkezik hamarosan az idén 10 éves Dead by Daylightba, amit több téren is megújítanak a készítők",
+     "l": "https://hu.ign.com/dead-by-daylight/112270/bohocrem-is-megerkezik-hamarosan-az-iden-10-eves-dead-by-daylightba-amit-tobb-teren-is-megujitanak-a",
+     "s": "IGN Hungary",
+     "d": "2026-06-15T11:08:38+00:00",
+     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/photo/default/dead-by-daylight-art-the-clown-terrifier-chapter-17814948037_xhj9.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nBővül és megszépül a Behaviour Interactive még mindig népszerű horrorjátéka.",
+     "plain": "Bővül és megszépül a Behaviour Interactive még mindig népszerű horrorjátéka.",
+     "img": "https://sm.ign.com/ign_hu/photo/default/dead-by-daylight-art-the-clown-terrifier-chapter-17814948037_xhj9.jpg"
     },
     {
      "t": "Jóval hosszabb és kiterjedtebb lesz a Senua, mint a korábbi Hellblade-címek",
@@ -329,15 +311,6 @@
      "img": "https://sm.ign.com/ign_hu/screenshot/default/blob_vbae.jpg"
     },
     {
-     "t": "Visszatérnek a különálló nehézségi beállítások a Tomb Raider: Legacy of Atlantisben",
-     "l": "https://www.gamekapocs.hu/hir/93770/visszaternek_a_kulonallo_nehezsegi_beallitasok_a_tomb_raider_legacy_of_atlantisben",
-     "s": "Gamekapocs",
-     "d": "2026-06-15T10:00:00+00:00",
-     "sum": "Noha a Tomb Raider: Legacy of Atlantis Lara Croft legelső, 1996-os kalandját dolgozza fel, egy ponton a Crystal Dynamics srácai a nyolc évvel ezelőtti Shadow of the Tomb Raiderből merítenek ihletet. A részletes nehézségválasztóról van szó.",
-     "plain": "Noha a Tomb Raider: Legacy of Atlantis Lara Croft legelső, 1996-os kalandját dolgozza fel, egy ponton a Crystal Dynamics srácai a nyolc évvel ezelőtti Shadow of the Tomb Raiderből merítenek ihletet. A részletes nehézségválasztóról van szó.",
-     "img": ""
-    },
-    {
      "t": "Ausztrália után a britek is kitiltják a 16 év alatti gyerekeket a közösségi médiából, könnyen lehet, hogy új trend van kialakulóban",
      "l": "https://hu.ign.com/egyesult-kiralysag/112268/ausztralia-utan-a-britek-is-kitiltjak-a-16-ev-alatti-gyerekeket-a-kozossegi-mediabol-konnyen-lehet-h",
      "s": "IGN Hungary",
@@ -347,15 +320,6 @@
      "img": "https://sm.ign.com/ign_hu/shot/r/ralph-brea/ralph-breaks-the-internet-december-11-br-br-video-game-bad-g_6gxp.jpg"
     },
     {
-     "t": "Egy Netflix-sorozatról ismert rendező veszi kezébe a Dead by Daylight filmváltozatának rendezését, a forgatókönyvet pedig igazi horrorveteránok írják",
-     "l": "https://hu.ign.com/dead-by-daylight-1/112267/egy-netflix-sorozatrol-ismert-rendezo-veszi-kezebe-a-dead-by-daylight-filmvaltozatanak-rendezeset-a",
-     "s": "IGN Hungary",
-     "d": "2026-06-15T09:03:56+00:00",
-     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/photo/default/dead-by-daylight-jason-1779559537807_539r.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nA játék 10. évfordulója alkalmából elárultak egy fontos részletet a Blumhouse-nál készülő adaptációról.",
-     "plain": "A játék 10. évfordulója alkalmából elárultak egy fontos részletet a Blumhouse-nál készülő adaptációról.",
-     "img": "https://sm.ign.com/ign_hu/photo/default/dead-by-daylight-jason-1779559537807_539r.jpg"
-    },
-    {
      "t": "1 milliárdot fizetett valaki a Super Mario Bros játék egy példányáért",
      "l": "https://pcforum.hu/hirek/31142/super-mario-bros-nes-jatek-3-millio-dollar-arveres",
      "s": "PC Fórum",
@@ -363,6 +327,42 @@
      "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/5/b2/c21d0ad798bce5cbbb95b28e5fd7b/super-mario-bros-nes-console-by-chatgpt-1-cropped--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>A napokban szinte hihetetlen áron: közel 1 milliárd forintnak megfelelő dollárért cserélt gazdát a Super Mario Bros nevű, több mint négy évtizeddel ezelőtt kiadott videójáték egy példánya. Az elképesztő összeget azért fizette ki valaki a lényegében - legalábbis ebben az állapotában - játszhatatlan (amúgy a Nintendo Entertainment System-hez, tehát NES-hez való) catridge-ért, mivel az egy rendkívül ritka és bontatlan csomagolásban van.",
      "plain": "A napokban szinte hihetetlen áron: közel 1 milliárd forintnak megfelelő dollárért cserélt gazdát a Super Mario Bros nevű, több mint négy évtizeddel ezelőtt kiadott videójáték egy példánya. Az elképesztő összeget azért fizette ki valaki a lé",
      "img": "https://pcforum.hu/assets/pcforum.hashed/5/b2/c21d0ad798bce5cbbb95b28e5fd7b/super-mario-bros-nes-console-by-chatgpt-1-cropped--dyn--rss.jpeg"
+    },
+    {
+     "t": "Itt a Linux 7.1, ami sokkal jobban tud együttműködni a Windows-zal",
+     "l": "https://pcforum.hu/hirek/31141/linux-7-1-kiadas-uj-ntfs-meghajto-486-processzor-tamogatas-megszunes",
+     "s": "PC Fórum",
+     "d": "2026-06-15T07:30:00+00:00",
+     "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/f/87/b157f3357a20a3f48ebbeedcb6180/tux-linux-holding-hdd-and-cpu-by-chatgpt-1-extended-cropped--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>A hétvégén Linus Torvalds bejelentette az általa létrehozott nyílt forrású rendszermag két hónap óta készülő legújabb verziójának kiadását. A Linux 7.1 több tucat kisebb fejlesztést hoz, de ezek közül talán a legnagyobb horderejű a teljesen újraírt NTFS meghajtóprogram bevezetése.",
+     "plain": "A hétvégén Linus Torvalds bejelentette az általa létrehozott nyílt forrású rendszermag két hónap óta készülő legújabb verziójának kiadását. A Linux 7.1 több tucat kisebb fejlesztést hoz, de ezek közül talán a legnagyobb horderejű a teljesen",
+     "img": "https://pcforum.hu/assets/pcforum.hashed/f/87/b157f3357a20a3f48ebbeedcb6180/tux-linux-holding-hdd-and-cpu-by-chatgpt-1-extended-cropped--dyn--rss.jpeg"
+    },
+    {
+     "t": "Erkölcstelenné vált a Google vezetése - mondja a cég önként kilépő igazgatója",
+     "l": "https://pcforum.hu/hirek/31140/google-erkolcstelen-rene-mayrhofer-kritika-ne-legy-gonosz",
+     "s": "PC Fórum",
+     "d": "2026-06-15T05:30:00+00:00",
+     "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/2/44/a612f8c87cf1d4c38108870342b5f/google-evil-by-chatgpt-1-alt-cropped--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>A hét végén nyílt levélben indokolta meg döntését a Google egy magasszintű vezetője, aki bejelentette: ősszel - felmondási ideje lejárását követően - távozik a keresőóriástól. René Mayrhofer, a Google Android-platformbiztonságért felelős igazgatója önként mondott le pozíciójáról, amire szerint ugyanakkor azért kényszerült, mert a vállalat vezetése egyszerűen abszolút erkölcstelenné vált.",
+     "plain": "A hét végén nyílt levélben indokolta meg döntését a Google egy magasszintű vezetője, aki bejelentette: ősszel - felmondási ideje lejárását követően - távozik a keresőóriástól. René Mayrhofer, a Google Android-platformbiztonságért felelős ig",
+     "img": "https://pcforum.hu/assets/pcforum.hashed/2/44/a612f8c87cf1d4c38108870342b5f/google-evil-by-chatgpt-1-alt-cropped--dyn--rss.jpeg"
+    },
+    {
+     "t": "Ryzen AI Halo: Brutális árú, másfél millió forintos mini-PC-t ad ki az AMD",
+     "l": "https://pcforum.hu/hirek/31139/amd-ryzen-halo-mesterseges-intelligencia-pc-128-gb-ram-ai-max-soc",
+     "s": "PC Fórum",
+     "d": "2026-06-14T06:30:00+00:00",
+     "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/9/2b/eca369c34f33f4fe79bd43fbb266e/ryzen-ai-halo-pc-shared-by-amd-cropped--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>Az AMD a héten egy kis méretű, de annál nagyobb árú kompakt asztali gép piacra dobását jelentett be. A vállalat által Ryzen AI Halo-nak elnevezett dobozka ára ugyanis nettó 4000 dollár, ami mintegy bruttó másfél millió forintnak felel meg.",
+     "plain": "Az AMD a héten egy kis méretű, de annál nagyobb árú kompakt asztali gép piacra dobását jelentett be. A vállalat által Ryzen AI Halo-nak elnevezett dobozka ára ugyanis nettó 4000 dollár, ami mintegy bruttó másfél millió forintnak felel meg.",
+     "img": "https://pcforum.hu/assets/pcforum.hashed/9/2b/eca369c34f33f4fe79bd43fbb266e/ryzen-ai-halo-pc-shared-by-amd-cropped--dyn--rss.jpeg"
+    },
+    {
+     "t": "Újra DDR4-es processzorokat fog kiadni az Intel a memóriahiány miatt",
+     "l": "https://pcforum.hu/hirek/31138/intel-uj-raptor-lake-next-processzor-ddr4-memoria",
+     "s": "PC Fórum",
+     "d": "2026-06-14T05:15:00+00:00",
+     "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/1/94/b83964abaa9047eaa581373b51d29/intel-core-processor-shared-by-intel-cropped--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>Az Intel a hírek szerint ismét arra készül, hogy egy újabb frissítést adjon ki már évekkel ezelőtt kifutottnak gondolt Raptor Lake processzorcsaládjához. Az eredetileg még 2022-ben bemutatott architektúra \"leporolásának\" oka a memóriahiány és az, hogy ez képezi a gyártó utolsó olyan CPU-családját, ami még támogatja a DDR4-es RAM-ok használatát is.",
+     "plain": "Az Intel a hírek szerint ismét arra készül, hogy egy újabb frissítést adjon ki már évekkel ezelőtt kifutottnak gondolt Raptor Lake processzorcsaládjához. Az eredetileg még 2022-ben bemutatott architektúra \"leporolásának\" oka a memóriahiány ",
+     "img": "https://pcforum.hu/assets/pcforum.hashed/1/94/b83964abaa9047eaa581373b51d29/intel-core-processor-shared-by-intel-cropped--dyn--rss.jpeg"
     }
    ]
   }
