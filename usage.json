@@ -1,14 +1,14 @@
 {
- "updated": "2026-06-16T13:00:04.188351+00:00",
+ "updated": "2026-06-16T13:29:16.434187+00:00",
  "claude": {
   "plan": "Max",
   "window_5h": {
-   "turns": 515,
-   "tok": 243828951
+   "turns": 512,
+   "tok": 269951942
   },
   "week": {
-   "turns": 2676,
-   "tok": 1364105402
+   "turns": 2751,
+   "tok": 1415904799
   },
   "daily": [
    {
@@ -50,10 +50,10 @@
    {
     "date": "2026-06-16",
     "wd": "K",
-    "turns": 803,
-    "pct": 4.0,
+    "turns": 878,
+    "pct": 4.4,
     "cum_before": 9.4,
-    "cum": 13.4,
+    "cum": 13.8,
     "future": false
    },
    {
@@ -61,8 +61,8 @@
     "wd": "Sze",
     "turns": 0,
     "pct": 0.0,
-    "cum_before": 13.4,
-    "cum": 13.4,
+    "cum_before": 13.8,
+    "cum": 13.8,
     "future": true
    },
    {
@@ -70,23 +70,23 @@
     "wd": "Cs",
     "turns": 0,
     "pct": 0.0,
-    "cum_before": 13.4,
-    "cum": 13.4,
+    "cum_before": 13.8,
+    "cum": 13.8,
     "future": true
    }
   ],
-  "limit_5h_turns": 1119,
-  "limit_week_turns": 19900,
+  "limit_5h_turns": 2710,
+  "limit_week_turns": 20585,
   "official": {
-   "session": 16,
-   "weekly": 9,
-   "at": "06-15 20:21"
+   "session": 19,
+   "weekly": 13,
+   "at": "06-16 15:21"
   },
-  "calib": "fotó-kalibrált 2026-06-15 20:21"
+  "calib": "fotó-kalibrált 2026-06-16 15:21"
  },
  "deepseek": {
-  "topped_up": 9.98,
+  "topped_up": 9.97,
   "granted": 0.0,
-  "remaining": 9.98
+  "remaining": 9.97
  }
 }

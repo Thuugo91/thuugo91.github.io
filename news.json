@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-16T13:00:03.568427+00:00",
+ "updated": "2026-06-16T13:29:15.742757+00:00",
  "categories": [
   {
    "name": "🎮 Film, játék, tech (HU)",
@@ -50,15 +50,6 @@
      "img": "https://sm.ign.com/ign_hu/screenshot/default/gollum-anya-1_hqgg.jpg"
     },
     {
-     "t": "Végre a telefonoddal is lezárhatod a Windows 11-es PC-d",
-     "l": "https://www.pcwplus.hu/pcwlite/microsoft-windows-11-phone-linke-mobiltelefon-vegre-a-telefonoddal-is-feloldhatod-a-windows-11es-pcd-383734.html",
-     "s": "GameStar",
-     "d": "2026-06-15T19:36:36+00:00",
-     "sum": "Csodálatos apróság érkezett a Windowshoz, aminek feledékeny irodai munkások fognak a legjobb örülni.",
-     "plain": "Csodálatos apróság érkezett a Windowshoz, aminek feledékeny irodai munkások fognak a legjobb örülni.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/15/phone_link_183027_2_original_390x220_cover.jpg"
-    },
-    {
      "t": "Sokallja a 25 év börtönt a bukott kriptokirály, Trump kegyelmében bízhat még Sam Bankman-Fried",
      "l": "https://www.pcguru.hu/hirek/tech-sokallja-a-25-ev-bortont-a-bukott-kriptokiraly-trump-kegyelmeben-bizhat-meg-sam-bankman-fried-tbr/101699",
      "s": "PC Guru",
@@ -66,15 +57,6 @@
      "sum": "Nem áll túl jól a milliárdokat sikkasztó vállalkozó szénája, egyelőre nem igazán képes elérni a büntetése rövidítését.",
      "plain": "Nem áll túl jól a milliárdokat sikkasztó vállalkozó szénája, egyelőre nem igazán képes elérni a büntetése rövidítését.",
      "img": "https://www.pcguru.hu/images/news/2026-06/sokallja_a_25_ev_bortont_a_bukott_kriptokiraly_trump_kegyelmeben_bizhat_meg_sam_bankman-fried_1781536654_e5299f88a9eed59436fe.jpg"
-    },
-    {
-     "t": "Elmagyarázzuk, hogy miért nem visszamenőleges jogalkotás az Orbán Viktort is kizáró Alaptörvény-módosítás",
-     "l": "https://www.gsplus.hu/elet/miert-nem-visszamenoleges-jogalkotas-a-miniszterelnoksegbol-orban-viktort-is-kizaro-alaptorvenymodositas-383735.html",
-     "s": "GameStar",
-     "d": "2026-06-15T19:25:18+00:00",
-     "sum": "Bár soknak nem teljesen világos ez, a helyzet az, hogy a múltat nem írja át, csak a jövőbeli szabályt változtatja meg a mai módosítás.",
-     "plain": "Bár soknak nem teljesen világos ez, a helyzet az, hogy a múltat nem írja át, csak a jövőbeli szabályt változtatja meg a mai módosítás.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/15/orban_viktor_183923_1_original_390x220_cover.jpg"
     },
     {
      "t": "A Stranger Things alkotói nagyszabású mozifilmet rendeznek a Paramountnak, és ez már meg is kapta bemutatódátumát",
@@ -363,6 +345,24 @@
      "sum": "<img src=\"https://sm.ign.com/t/ign_hu/gallery/d/dead-by-da/dead-by-daylight-10th-anniversary-broadcast-visual-overhaul_dsq5.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />",
      "plain": "",
      "img": "https://sm.ign.com/ign_hu/gallery/d/dead-by-da/dead-by-daylight-10th-anniversary-broadcast-visual-overhaul_dsq5.jpg"
+    },
+    {
+     "t": "Bohócrém is megérkezik hamarosan az idén 10 éves Dead by Daylightba, amit több téren is megújítanak a készítők",
+     "l": "https://hu.ign.com/dead-by-daylight/112270/bohocrem-is-megerkezik-hamarosan-az-iden-10-eves-dead-by-daylightba-amit-tobb-teren-is-megujitanak-a",
+     "s": "IGN Hungary",
+     "d": "2026-06-15T11:08:38+00:00",
+     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/photo/default/dead-by-daylight-art-the-clown-terrifier-chapter-17814948037_xhj9.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nBővül és megszépül a Behaviour Interactive még mindig népszerű horrorjátéka.",
+     "plain": "Bővül és megszépül a Behaviour Interactive még mindig népszerű horrorjátéka.",
+     "img": "https://sm.ign.com/ign_hu/photo/default/dead-by-daylight-art-the-clown-terrifier-chapter-17814948037_xhj9.jpg"
+    },
+    {
+     "t": "Jóval hosszabb és kiterjedtebb lesz a Senua, mint a korábbi Hellblade-címek",
+     "l": "https://www.gamekapocs.hu/hir/93771/joval_hosszabb_es_kiterjedtebb_lesz_a_senua_mint_a_korabbi_hellblade_cimek",
+     "s": "Gamekapocs",
+     "d": "2026-06-15T11:00:00+00:00",
+     "sum": "A Ninja Theory ezúttal nem akar kompromisszumokat hozni, hiszen egy teljes értékű akció-kalandot ígér, miközben az élményt szándékosan Senua sztorija köré építi. Még a harcokra is nagyobb hangsúlyt fektetnek a srácok.",
+     "plain": "A Ninja Theory ezúttal nem akar kompromisszumokat hozni, hiszen egy teljes értékű akció-kalandot ígér, miközben az élményt szándékosan Senua sztorija köré építi. Még a harcokra is nagyobb hangsúlyt fektetnek a srácok.",
+     "img": ""
     }
    ]
   }
