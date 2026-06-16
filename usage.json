@@ -1,14 +1,14 @@
 {
- "updated": "2026-06-16T20:00:06.775995+00:00",
+ "updated": "2026-06-16T23:26:08.183465+00:00",
  "claude": {
   "plan": "Max",
   "window_5h": {
-   "turns": 446,
-   "tok": 243262261
+   "turns": 258,
+   "tok": 25346733
   },
   "week": {
-   "turns": 3311,
-   "tok": 1747338231
+   "turns": 3370,
+   "tok": 1753384316
   },
   "daily": [
    {
@@ -50,28 +50,28 @@
    {
     "date": "2026-06-16",
     "wd": "K",
-    "turns": 1438,
-    "pct": 7.2,
+    "turns": 1494,
+    "pct": 7.5,
     "cum_before": 9.4,
-    "cum": 16.6,
+    "cum": 16.9,
     "future": false
    },
    {
     "date": "2026-06-17",
     "wd": "Sze",
-    "turns": 0,
+    "turns": 3,
     "pct": 0.0,
-    "cum_before": 16.6,
-    "cum": 16.6,
-    "future": true
+    "cum_before": 16.9,
+    "cum": 16.9,
+    "future": false
    },
    {
     "date": "2026-06-18",
     "wd": "Cs",
     "turns": 0,
     "pct": 0.0,
-    "cum_before": 16.6,
-    "cum": 16.6,
+    "cum_before": 16.9,
+    "cum": 16.9,
     "future": true
    }
   ],
