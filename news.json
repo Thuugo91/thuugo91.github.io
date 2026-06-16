@@ -1,9 +1,90 @@
 {
- "updated": "2026-06-15T19:00:01.399933+00:00",
+ "updated": "2026-06-16T11:00:01.441171+00:00",
  "categories": [
   {
    "name": "🎮 Film, játék, tech (HU)",
    "items": [
+    {
+     "t": "Az egyik legnagyobb esport piacra is betör a CS2-vel a PGL",
+     "l": "https://www.pcguru.hu/hirek/cs2-counter-strike-pgl-kina-2027-az-egyik-legnagyobb-esport-piacra-is-betor-tbr/101702",
+     "s": "PC Guru",
+     "d": "2026-06-15T21:00:00+00:00",
+     "sum": "Tartsatok velünk 2026-ban az élő, magyar nyelvű PGL közvetítésekért, szurkoljunk együtt a világ legjobbjainak az év második Majorén is együtt!",
+     "plain": "Tartsatok velünk 2026-ban az élő, magyar nyelvű PGL közvetítésekért, szurkoljunk együtt a világ legjobbjainak az év második Majorén is együtt!",
+     "img": "https://www.pcguru.hu/images/news/2026-06/az_egyik_legnagyobb_esport_piacra_is_betor_a_cs2-vel_a_pgl_1781540363_5e2d6c0372c49637bebf.jpg"
+    },
+    {
+     "t": "Vajon túléli a PC-d a Locustok rohamát? Kiderült a Gears of War: E-Day gépigénye",
+     "l": "https://www.pcguru.hu/hirek/vajon-tureli-a-pc-d-a-locustok-rohamat-kiderult-a-gears-of-war-e-day-gepigenye-tzeus/101698",
+     "s": "PC Guru",
+     "d": "2026-06-15T20:30:00+00:00",
+     "sum": "Ennyi helyet kér a Gears of War: E-Day, és ez még nem minden.",
+     "plain": "Ennyi helyet kér a Gears of War: E-Day, és ez még nem minden.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/vajon_tuleli_a_pc-d_a_locustok_rohamat_kiderult_a_gears_of_war_e-day_gepigenye_1781533918_9812c39bcea07644768b.jpg"
+    },
+    {
+     "t": "Senki sem tudja, hogy eljutunk-e a Sárkányok háza legjobb pillanatáig",
+     "l": "https://www.gsplus.hu/masvilag/sarkanyok-haza-hbo-sam-smith-house-of-the-dragon-senki-sem-tudja-hogy-eljutunke-a-sarkanyok-haza-legjobb-pillanataig-383722.html",
+     "s": "GameStar",
+     "d": "2026-06-15T20:01:26+00:00",
+     "sum": "Még Matt Smith sem tudja, hogyan zárul majd a karakterének története.",
+     "plain": "Még Matt Smith sem tudja, hogyan zárul majd a karakterének története.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2407/04/sarkanyok_haza_2_evad_tronok_harca_164413_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Előrébb hozzák a világvégét? A vártnál sokkal hamarabb futhat be a Fallout 5",
+     "l": "https://www.pcguru.hu/hirek/elorebb-hozzak-a-vilagveget-a-vartnal-sokkal-hamarabb-futhat-be-a-fallout-5-tzeus/101693",
+     "s": "PC Guru",
+     "d": "2026-06-15T20:00:00+00:00",
+     "sum": "Egy jelentés szerint közelebb lehet a Fallout 5, mint valaha.",
+     "plain": "Egy jelentés szerint közelebb lehet a Fallout 5, mint valaha.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/elorebb_hozzak_a_vilagveget_a_vartnal_sokkal_hamarabb_futhat_be_a_fallout_5_1781525825_57b1677dd8ae5e667e8e.jpg"
+    },
+    {
+     "t": "Anya Taylor-Joy csatlakozott az új A Gyűrűk Ura-filmhez: Az első hivatalos kép kíséretében az is kiderült, kit fog eljátszani",
+     "l": "https://hu.ign.com/lord-of-the-rings-the-hunt-for-gollum-munkacim/112292/anya-taylor-joy-csatlakozott-az-uj-a-gyuruk-ura-filmhez-az-elso-hivatalos-kep-kisereteben-az-is-kide",
+     "s": "IGN Hungary",
+     "d": "2026-06-15T19:49:56+00:00",
+     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/screenshot/default/gollum-anya-1_hqgg.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nThe Lord of the Rings: The Hunt for Gollum címmel készül az új A Gyűrűk Ura-film, amelynek szereplőgárdáját Anya Taylor-Joy is erősíti egy hozzá illő szerepben.",
+     "plain": "The Lord of the Rings: The Hunt for Gollum címmel készül az új A Gyűrűk Ura-film, amelynek szereplőgárdáját Anya Taylor-Joy is erősíti egy hozzá illő szerepben.",
+     "img": "https://sm.ign.com/ign_hu/screenshot/default/gollum-anya-1_hqgg.jpg"
+    },
+    {
+     "t": "Végre a telefonoddal is lezárhatod a Windows 11-es PC-d",
+     "l": "https://www.pcwplus.hu/pcwlite/microsoft-windows-11-phone-linke-mobiltelefon-vegre-a-telefonoddal-is-feloldhatod-a-windows-11es-pcd-383734.html",
+     "s": "GameStar",
+     "d": "2026-06-15T19:36:36+00:00",
+     "sum": "Csodálatos apróság érkezett a Windowshoz, aminek feledékeny irodai munkások fognak a legjobb örülni.",
+     "plain": "Csodálatos apróság érkezett a Windowshoz, aminek feledékeny irodai munkások fognak a legjobb örülni.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/15/phone_link_183027_2_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Sokallja a 25 év börtönt a bukott kriptokirály, Trump kegyelmében bízhat még Sam Bankman-Fried",
+     "l": "https://www.pcguru.hu/hirek/tech-sokallja-a-25-ev-bortont-a-bukott-kriptokiraly-trump-kegyelmeben-bizhat-meg-sam-bankman-fried-tbr/101699",
+     "s": "PC Guru",
+     "d": "2026-06-15T19:30:00+00:00",
+     "sum": "Nem áll túl jól a milliárdokat sikkasztó vállalkozó szénája, egyelőre nem igazán képes elérni a büntetése rövidítését.",
+     "plain": "Nem áll túl jól a milliárdokat sikkasztó vállalkozó szénája, egyelőre nem igazán képes elérni a büntetése rövidítését.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/sokallja_a_25_ev_bortont_a_bukott_kriptokiraly_trump_kegyelmeben_bizhat_meg_sam_bankman-fried_1781536654_e5299f88a9eed59436fe.jpg"
+    },
+    {
+     "t": "Elmagyarázzuk, hogy miért nem visszamenőleges jogalkotás az Orbán Viktort is kizáró Alaptörvény-módosítás",
+     "l": "https://www.gsplus.hu/elet/miert-nem-visszamenoleges-jogalkotas-a-miniszterelnoksegbol-orban-viktort-is-kizaro-alaptorvenymodositas-383735.html",
+     "s": "GameStar",
+     "d": "2026-06-15T19:25:18+00:00",
+     "sum": "Bár soknak nem teljesen világos ez, a helyzet az, hogy a múltat nem írja át, csak a jövőbeli szabályt változtatja meg a mai módosítás.",
+     "plain": "Bár soknak nem teljesen világos ez, a helyzet az, hogy a múltat nem írja át, csak a jövőbeli szabályt változtatja meg a mai módosítás.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/15/orban_viktor_183923_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "A Stranger Things alkotói nagyszabású mozifilmet rendeznek a Paramountnak, és ez már meg is kapta bemutatódátumát",
+     "l": "https://hu.ign.com/matt-duffer/112291/a-stranger-things-alkotoi-nagyszabasu-mozifilmet-rendeznek-a-paramountnak-es-ez-mar-meg-is-kapta-bem",
+     "s": "IGN Hungary",
+     "d": "2026-06-15T19:18:26+00:00",
+     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/screenshot/default/stranger-things-ver81-xlg_ndff.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nMatt és Ross Duffer a Stranger Things után nem lazsálnak, a Paramount számára eseményfilmet rendeznek, ami megkapta bemutatódátumát.",
+     "plain": "Matt és Ross Duffer a Stranger Things után nem lazsálnak, a Paramount számára eseményfilmet rendeznek, ami megkapta bemutatódátumát.",
+     "img": "https://sm.ign.com/ign_hu/screenshot/default/stranger-things-ver81-xlg_ndff.jpg"
+    },
     {
      "t": "Sok hűhó semmiért – Aprópénzzel mehet haza a Nintendo a nagy Palworld-per után",
      "l": "https://www.pcguru.hu/hirek/sok-huho-semmiert-apropenzzel-mehet-haza-a-nintendo-a-nagy-palworld-per-utan-szlav/101691",
@@ -23,6 +104,15 @@
      "img": ""
     },
     {
+     "t": "Ha nincs Xboxod, akkor ilyen gépen tudod csak elindítani a Gears of War: E-Dayt",
+     "l": "https://www.gsplus.hu/hir/gears-of-war-eday-gepigeny-the-coalition-xbox-game-studios-microsoft-383733.html",
+     "s": "GameStar",
+     "d": "2026-06-15T18:59:48+00:00",
+     "sum": "Úgy néz ki, többen kénytelenek lesznek lecserélni a videókártyájukat, mert egy teljes, a mai napig népszerű szériának búcsút int az Unreal Engine 5-ös lövölde.",
+     "plain": "Úgy néz ki, többen kénytelenek lesznek lecserélni a videókártyájukat, mert egy teljes, a mai napig népszerű szériának búcsút int az Unreal Engine 5-ös lövölde.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/07/gears_of_war_e_day_the_coalition_192903_3_original_390x220_cover.jpg"
+    },
+    {
      "t": "Bezárhat az Xbox stúdiója, amelynek az egyik legkülönlegesebb játékukat is köszönhetjük",
      "l": "https://hu.ign.com/xbox-game-studios/112290/bezarhat-az-xbox-studioja-amelynek-az-egyik-legkulonlegesebb-jatekukat-is-koszonhetjuk",
      "s": "IGN Hungary",
@@ -30,6 +120,15 @@
      "sum": "<img src=\"https://sm.ign.com/t/ign_hu/screenshot/default/clancy-brown-1_uhw5.640.png\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nAz Xbox Game Studiosnál átalakulások zajlanak, és ennek egyik negatív hozománya lehet egy belsős stúdiója bezárása.",
      "plain": "Az Xbox Game Studiosnál átalakulások zajlanak, és ennek egyik negatív hozománya lehet egy belsős stúdiója bezárása.",
      "img": "https://sm.ign.com/ign_hu/screenshot/default/clancy-brown-1_uhw5.png"
+    },
+    {
+     "t": "A Microsoft bezárhatja a South of Midnight stúdióját, de veszélyben az Arkane is",
+     "l": "https://www.gsplus.hu/hir/microsoft-xbox-south-of-mindnight-compulsion-games-arkane-studios-a-microsoft-bezarhatja-a-south-of-midnight-studiojat-de-veszelyben-az-arkane-is-383740.html",
+     "s": "GameStar",
+     "d": "2026-06-15T18:33:40+00:00",
+     "sum": "Nem vicceltek a Microsoftnál, amikor nagy átalakulásokról beszéltek.",
+     "plain": "Nem vicceltek a Microsoftnál, amikor nagy átalakulásokról beszéltek.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2504/03/south_of_midnight_compulsion_games_182508_1_original_390x220_cover.jpg"
     },
     {
      "t": "Vezetőváltás történt az Xbox Game Studios élén is, távozik Craig Duncan és Louise O’Connor",
@@ -122,15 +221,6 @@
      "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2605/17/epomaker_th108_pro_teszt_gamer_billentyuzet_mechanikus_190102_17_original_390x220_cover.jpg"
     },
     {
-     "t": "A gombokból készült sufnihorror lenyomta Spielberget is",
-     "l": "https://www.gsplus.hu/masvilag/meg-spielberg-sem-tudta-megallitani-az-ev-horrormeneteleset-383719.html",
-     "s": "GameStar",
-     "d": "2026-06-15T17:10:12+00:00",
-     "sum": "A Megszállottság ötödik hétvégén is elképesztően tartja magát.",
-     "plain": "A Megszállottság ötödik hétvégén is elképesztően tartja magát.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/15/megszallottsag_obsession_133529_1_original_390x220_cover.jpg"
-    },
-    {
      "t": "Chris Evans megerősítette, hogy nem utoljára látjuk őt az MCU-ban a Bosszúállók: Doctor Doom ébredésében",
      "l": "https://hu.ign.com/chris-evans/112286/chris-evans-megerositette-hogy-nem-utoljara-latjuk-ot-az-mcu-ban-a-bosszuallok-doctor-doom-ebredeseb",
      "s": "IGN Hungary",
@@ -167,15 +257,6 @@
      "img": "https://sm.ign.com/ign_hu/screenshot/default/jbareham-181107-ply0818-00260_aabm.jpg"
     },
     {
-     "t": "Azt mondják már 2027 első felében jöhet a God of War: Laufey, de ezzel van egy kis bökkenő",
-     "l": "https://www.gsplus.hu/hir/god-of-war-laufey-sony-santa-monica-studio-playstation-sony-azt-mondjak-mar-2027-elso-feleben-johet-a-god-of-war-laufey-de-ezzel-van-egy-kis-bokkeno-383729.html",
-     "s": "GameStar",
-     "d": "2026-06-15T16:34:47+00:00",
-     "sum": "Ha ennyire közel lenne a megjelenés, akkor a PlayStation és a Sony vajon miért nem jelentette be?",
-     "plain": "Ha ennyire közel lenne a megjelenés, akkor a PlayStation és a Sony vajon miért nem jelentette be?",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/03/god_of_war_laufey_094852_1_original_390x220_cover.jpg"
-    },
-    {
      "t": "A Valhalla gyilkosságok rendezője hozza tető alá a Dead by Daylight filmet",
      "l": "https://www.pcguru.hu/hirek/dead-by-daylight-2026-10th-rendezo-anniversary-mozi-film-blumhouse-multiplayer-horror-britpopper/101701",
      "s": "PC Guru",
@@ -192,15 +273,6 @@
      "sum": "<img src=\"https://sm.ign.com/t/ign_hu/screenshot/default/godofwor-laufey-1_26yq.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nA God of War új epizódja a Laufey lesz, amelyre ha minden igaz, nem is kell olyan sokat várnunk.",
      "plain": "A God of War új epizódja a Laufey lesz, amelyre ha minden igaz, nem is kell olyan sokat várnunk.",
      "img": "https://sm.ign.com/ign_hu/screenshot/default/godofwor-laufey-1_26yq.jpg"
-    },
-    {
-     "t": "A Samsung AI-jal csinálna filmet a nyaralós videóidból",
-     "l": "https://www.pcwplus.hu/pcwlite/a-samsung-aijal-csinalna-filmet-a-nyaralos-videoidbol-383716.html",
-     "s": "GameStar",
-     "d": "2026-06-15T16:16:54+00:00",
-     "sum": "A Galaxy S26 széria a felvételtől a vágásig segítené a munkát.",
-     "plain": "A Galaxy S26 széria a felvételtől a vágásig segítené a munkát.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/15/galaxy_s26_130528_2_original_390x220_cover.jpg"
     },
     {
      "t": "Megérkezett az utolsó nagy frissítés a Vampire: The Masquerade – Bloodlines 2-höz",
@@ -221,15 +293,6 @@
      "img": "https://sm.ign.com/ign_hu/screenshot/default/spider-brand-new-1-7_7nn9.png"
     },
     {
-     "t": "Megnéztük a ROG XREAL R1-et: meglepően közel van a jövő gamingje (x)",
-     "l": "https://www.pcguru.hu/hirek/megneztuk-a-rog-xreal-r1-et-meglepoen-kozel-van-a-jovo-gamingje-szlav/101681",
-     "s": "PC Guru",
-     "d": "2026-06-15T16:00:00+00:00",
-     "sum": "A ROG és az XREAL együttműködéséből született ROG XREAL R1 azon kevés AR-szemüvegek egyike, ami határozottan gamereknek készült.",
-     "plain": "A ROG és az XREAL együttműködéséből született ROG XREAL R1 azon kevés AR-szemüvegek egyike, ami határozottan gamereknek készült.",
-     "img": "https://www.pcguru.hu/images/news/2026-06/megneztuk_a_rog_xreal_r1-et_meglepoen_kozel_van_a_jovo_gamingje_(x)_1781514106_c195a212219ebd7d3308.jpg"
-    },
-    {
      "t": "Az elképesztő sikereket arató Megszállottság alkotójának már van egy \"menő ötlete\" a 2. részre, de egy rossz hírrel is lelombozta a rajongókat",
      "l": "https://hu.ign.com/obsession/112283/az-elkepeszto-sikereket-arato-megszallottsag-alkotojanak-mar-van-egy-meno-otlete-a-2-reszre-de-egy-r",
      "s": "IGN Hungary",
@@ -239,42 +302,6 @@
      "img": "https://sm.ign.com/ign_hu/screenshot/default/blob_3az2.jpg"
     },
     {
-     "t": "Soha többé nem lehet miniszterelnök Orbán Viktor",
-     "l": "https://www.gsplus.hu/elet/orban-viktor-miniszterelnok-magyar-peter-tisza-part-magyarorszag-kormanya-soha-tobbe-nem-lehet-miniszterelnok-orban-viktor-383730.html",
-     "s": "GameStar",
-     "d": "2026-06-15T15:44:47+00:00",
-     "sum": "135 igen, 50 nem szavazattal és 6 tartózkodás mellett módosult az alaptörvény, ami alapján csak 8 évet lehet valaki miniszterelnök.",
-     "plain": "135 igen, 50 nem szavazattal és 6 tartózkodás mellett módosult az alaptörvény, ami alapján csak 8 évet lehet valaki miniszterelnök.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2510/01/orban_viktor_154115_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "A „változó médiapiac” miatt komoly átszervezésre és leépítésekre készül a Mediaworks",
-     "l": "https://www.gsplus.hu/elet/mediaworks-magyar-nemzet-pesti-sracok-magyar-peter-fidesz-a-valtozo-mediapiac-miatt-komoly-leepiteseket-hajt-vegre-a-mediaworks-383720.html",
-     "s": "GameStar",
-     "d": "2026-06-15T15:30:18+00:00",
-     "sum": "A Mediaworks hivatalosan is megerősítette az átszervezés hírét.",
-     "plain": "A Mediaworks hivatalosan is megerősítette az átszervezés hírét.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/15/mediaworks_135112_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Most mi történik? 20 hónap után máris lelép az Xbox Game Studios feje",
-     "l": "https://www.pcguru.hu/hirek/xbox-game-studios-ceo-craig-duncan-tavozik-microsoft-konzol-pc-britpopper/101700",
-     "s": "PC Guru",
-     "d": "2026-06-15T15:30:00+00:00",
-     "sum": "Craig Duncan, az Xbox Game Studios vezetője a mai napon bejelentette, hogy mindössze 20 hónap után lelép a munkaköréből.",
-     "plain": "Craig Duncan, az Xbox Game Studios vezetője a mai napon bejelentette, hogy mindössze 20 hónap után lelép a munkaköréből.",
-     "img": "https://www.pcguru.hu/images/news/2026-06/most_mi_tortenik_20_honap_utan_maris_lelep_az_xbox_game_studios_feje_1781537103_0d698182fb3de9ee5ae0.jpg"
-    },
-    {
-     "t": "100 gigabájtnyi adat is kellett Márquez magyar győzelméhez",
-     "l": "https://www.pcwplus.hu/pcwlite/100-gigabajtnyi-adat-is-kellett-marquez-magyar-gyozelmehez-383706.html",
-     "s": "GameStar",
-     "d": "2026-06-15T15:18:52+00:00",
-     "sum": "A Ducati Lenovo Teamnél AI és távoli garázs dolgozott a háttérben.",
-     "plain": "A Ducati Lenovo Teamnél AI és távoli garázs dolgozott a háttérben.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/15/ducati_lenovo_team_093713_1_original_390x220_cover.jpg"
-    },
-    {
      "t": "[KRITIKA] Sárkányok háza, 3. évad, 1–4. rész – Táncolnak a sárkányok, de gyorsan elfáradnak",
      "l": "https://hu.ign.com/sarkanyok-haza-s03e01-04/112277/kritika-sarkanyok-haza-3-evad-1-4-resz-tancolnak-a-sarkanyok-de-gyorsan-elfaradnak",
      "s": "IGN Hungary",
@@ -282,15 +309,6 @@
      "sum": "<img src=\"https://sm.ign.com/t/ign_hu/screenshot/default/a-tuz-arnyat-vet-1-crop_y8j6.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />A sárkányok egyenetlen tánca\nBerepült végre a Sárkányok háza harmadik évada, amelynek első két részében alaposan felpörögnek az események, de ez a lendület több értelemben is alábbhagy később. Lássuk, mit ígér az új szezon első négy epizódja!",
      "plain": "A sárkányok egyenetlen tánca Berepült végre a Sárkányok háza harmadik évada, amelynek első két részében alaposan felpörögnek az események, de ez a lendület több értelemben is alábbhagy később. Lássuk, mit ígér az új szezon első négy epizódj",
      "img": "https://sm.ign.com/ign_hu/screenshot/default/a-tuz-arnyat-vet-1-crop_y8j6.jpg"
-    },
-    {
-     "t": "Fordul a kocka a Sárkányok háza 3. évadában és pont emiatt éri meg ismét leülni elé",
-     "l": "https://www.pcguru.hu/hirek/sarkanyok-haza-trailer-elozetes-hbo-max-house-of-the-dragons-evad-season-szezon-fantasy-tronok-harca-ajanlo-3-evad-britpopper/101675",
-     "s": "PC Guru",
-     "d": "2026-06-15T15:00:00+00:00",
-     "sum": "Négy részt már megnézhettünk a Sárkányok háza folytatásából, és az a helyzet, hogy végre valóban elkezd felpörögni a cselekmény, méghozzá nem is akárhogy! Kritika az 1-4. epizódról.",
-     "plain": "Négy részt már megnézhettünk a Sárkányok háza folytatásából, és az a helyzet, hogy végre valóban elkezd felpörögni a cselekmény, méghozzá nem is akárhogy! Kritika az 1-4. epizódról.",
-     "img": "https://www.pcguru.hu/images/news/2026-06/fordul_a_kocka_a_sarkanyok_haza_3._evadaban_es_pont_emiatt_eri_meg_ismet_leulni_ele_1781502271_0aba1d73ac9eb19b8757.jpg"
     },
     {
      "t": "A God of War: Laufey egyszerre hozza a klasszikus és a modern harcrendszereket",
@@ -311,24 +329,6 @@
      "img": "https://sm.ign.com/ign_hu/screenshot/default/ezgif-460e2c950729af7a_xdpu.jpg"
     },
     {
-     "t": "Elképesztő, de már távozik is az Xbox Game Studios feje",
-     "l": "https://www.gsplus.hu/hir/xbox-microsoft-xbox-game-studios-craig-duncan-elkepeszto-de-mar-tavozik-is-az-xbox-game-studios-feje-383728.html",
-     "s": "GameStar",
-     "d": "2026-06-15T14:50:32+00:00",
-     "sum": "Alig 20 hónap után távozik a legendás Craig Duncan az Xbox Game Studios éléről.",
-     "plain": "Alig 20 hónap után távozik a legendás Craig Duncan az Xbox Game Studios éléről.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2306/04/xbox_game_studios_152942_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "George Miller még szeretne összehozni pár Mad Max sztorit mielőtt tovább adná a világot",
-     "l": "https://www.gsplus.hu/masvilag/george-miller-mad-max-sorozat-film-383711.html",
-     "s": "GameStar",
-     "d": "2026-06-15T14:30:52+00:00",
-     "sum": "A Furiosa lagymatag fogadtatása után nem voltunk biztosak a franchise sorsában, de valami végre kezd formálódni.",
-     "plain": "A Furiosa lagymatag fogadtatása után nem voltunk biztosak a franchise sorsában, de valami végre kezd formálódni.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2405/16/furiosa_tortenet_a_mad_maxbol_furiosa_a_mad_max_saga_202819_4_original_390x220_cover.jpg"
-    },
-    {
      "t": "Saját reklámügynökséget indít az Electronic Arts, hamarosan jönnek a hirdetések a kiadó népszerű sportjátékaiba, amikkel kicsit még mi is jól járhatunk",
      "l": "https://hu.ign.com/electronic-arts/112278/sajat-reklamugynokseget-indit-az-electronic-arts-hamarosan-jonnek-a-hirdetesek-a-kiado-nepszeru-spor",
      "s": "IGN Hungary",
@@ -347,22 +347,22 @@
      "img": "https://sm.ign.com/ign_hu/screenshot/default/disclosure-1_81vy.jpg"
     },
     {
-     "t": "Anglia is bevezeti a közösségi média tilalmát, amit Ausztrália sem tudott végrehajtani",
-     "l": "https://kepernyoido.hu/anglia-kozossegi-media-tiltas-social-ban-ausztralia-neveles-727",
-     "s": "GameStar",
-     "d": "2026-06-15T14:21:27+00:00",
-     "sum": "Még keményebb szigorra készülnek a britek, mint a közösségi média életkorhoz kötött korlátozását elsőként bevezető Ausztrália, de szakértők szerint ott is nagyon vegyesek az eredmények a hatékonyságot illetően.",
-     "plain": "Még keményebb szigorra készülnek a britek, mint a közösségi média életkorhoz kötött korlátozását elsőként bevezető Ausztrália, de szakértők szerint ott is nagyon vegyesek az eredmények a hatékonyságot illetően.",
-     "img": "https://i.cdn29.hu/apix_collect_c/kepernyoid/images_articles_260615_anglia-is-bevezeti-a-kozossegi-media-tilalmat-amit-ausztralia-sem-tudott-vegrehajtani_160640_390x220_cover.jpg"
+     "t": "Előzetest kapott a Netflixre érkező Az utolsó ház, amiben egy család nagyon-nagyon sokáig nem tud kijönni a saját otthonából",
+     "l": "https://hu.ign.com/az-utolso-haz/112279/elozetest-kapott-a-netflixre-erkezo-az-utolso-haz-amiben-egy-csalad-nagyon-nagyon-sokaig-nem-tud-kij",
+     "s": "IGN Hungary",
+     "d": "2026-06-15T14:06:37+00:00",
+     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/screenshot/default/blob_bxf6.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nRoppant érdekesnek ígérkezik a Wagner Moura és Greta Lee főszereplésével készülő sci-fi thriller, amiben elsősorban nem fizikailag fognak szenvedni a ház rabjai.",
+     "plain": "Roppant érdekesnek ígérkezik a Wagner Moura és Greta Lee főszereplésével készülő sci-fi thriller, amiben elsősorban nem fizikailag fognak szenvedni a ház rabjai.",
+     "img": "https://sm.ign.com/ign_hu/screenshot/default/blob_bxf6.jpg"
     },
     {
-     "t": "Drónokkal védenék a fürdőzőket a cápáktól Ausztráliában",
-     "l": "https://www.pcwplus.hu/pcwlite/dronokkal-vedenek-a-furdozoket-a-capaktol-ausztraliaban-383705.html",
-     "s": "GameStar",
-     "d": "2026-06-15T14:15:38+00:00",
-     "sum": "Egy sydney-i támadás után lazíthatnak a repülési szabályokon.",
-     "plain": "Egy sydney-i támadás után lazíthatnak a repülési szabályokon.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/15/capatamadas_093733_1_original_390x220_cover.jpg"
+     "t": "Nem a játékok történetét meséli el újra a Death Stranding-film",
+     "l": "https://www.gamekapocs.hu/hir/93774/nem_a_jatekok_tortenetet_meseli_el_ujra_a_death_stranding_film",
+     "s": "Gamekapocs",
+     "d": "2026-06-15T14:00:00+00:00",
+     "sum": "Noha a Death Stranding-filmet már 2022-ben bejelentették, eddig nem nagyon volt mozgolódás a megvalósítás felé. Sőt, a projekt még mindig korai szakaszban van, és az első részleteket csak most hozta nyilvánosságra a rendező.",
+     "plain": "Noha a Death Stranding-filmet már 2022-ben bejelentették, eddig nem nagyon volt mozgolódás a megvalósítás felé. Sőt, a projekt még mindig korai szakaszban van, és az első részleteket csak most hozta nyilvánosságra a rendező.",
+     "img": ""
     }
    ]
   }
