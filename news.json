@@ -1,9 +1,81 @@
 {
- "updated": "2026-06-17T16:00:03.269230+00:00",
+ "updated": "2026-06-17T17:00:01.858676+00:00",
  "categories": [
   {
    "name": "🎮 Film, játék, tech (HU)",
    "items": [
+    {
+     "t": "Két napot kellett várni rá, a Commodore már meg is csinálta a brit politikusok kedvenc telefonját",
+     "l": "https://www.pcguru.hu/hirek/tech-ket-napot-kellett-varni-ra-a-commodore-mar-meg-is-csinalta-a-brit-politikusok-kedvenc-telefonjat-tbr/101754",
+     "s": "PC Guru",
+     "d": "2026-06-17T17:00:00+00:00",
+     "sum": "A hülye és az okos között lebeg a Commodore új telefonja, ezzel tuti nyerő lenne a kiskorúak körében közösségi média tiltásra készülő briteknél.",
+     "plain": "A hülye és az okos között lebeg a Commodore új telefonja, ezzel tuti nyerő lenne a kiskorúak körében közösségi média tiltásra készülő briteknél.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/ket_napot_kellett_varni_ra_a_commodore_mar_meg_is_csinalta_a_brit_politikusok_kedvenc_telefonjat_1781690579_19b77d528d8c7e50d4c3.jpg"
+    },
+    {
+     "t": "Nem hagyja cserben a régebbi kártyák tulajait sem az AMD, de van egy kis bökkenő",
+     "l": "https://www.pcguru.hu/hirek/nem-hagyja-cserben-a-regebbi-kartyak-tulajait-sem-az-amd-de-van-egy-kis-bokenyo-tzeus/101756",
+     "s": "PC Guru",
+     "d": "2026-06-17T16:30:00+00:00",
+     "sum": "Van egy komoly oka annak, hogy az RX 6000-es széria miért marad ki az első hullámból.",
+     "plain": "Van egy komoly oka annak, hogy az RX 6000-es széria miért marad ki az első hullámból.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/nem_hagyja_cserben_a_regebbi_kartyak_tulajait_sem_az_amd_de_van_egy_kis_bokkeno_1781692074_10d5972d3139bfeaf11d.jpg"
+    },
+    {
+     "t": "Lehet, hogy a nyáron a Bungie egy hatalmas leépítést fog elszenvedni",
+     "l": "https://www.gamekapocs.hu/hir/93808/lehet_hogy_a_nyaron_a_bungie_egy_hatalmas_leepitest_fog_elszenvedni",
+     "s": "Gamekapocs",
+     "d": "2026-06-17T16:30:00+00:00",
+     "sum": "Hiába a múlt és a presztízs, a jelen így is beleszólhat a Bungie jövőjébe. Persze még semmi sem biztos, azonban a Destiny végével és a Marathon nehézségeivel bizony számolni kell.",
+     "plain": "Hiába a múlt és a presztízs, a jelen így is beleszólhat a Bungie jövőjébe. Persze még semmi sem biztos, azonban a Destiny végével és a Marathon nehézségeivel bizony számolni kell.",
+     "img": ""
+    },
+    {
+     "t": "Megvan, ki rendezi a Dead by Daylight mozifilmet",
+     "l": "https://www.gsplus.hu/jatekvilag/megvan-ki-rendezi-a-dead-by-daylight-mozifilmet-383813.html",
+     "s": "GameStar",
+     "d": "2026-06-17T16:29:49+00:00",
+     "sum": "A horroradaptáció forgatása várhatóan 2027-ben indul.",
+     "plain": "A horroradaptáció forgatása várhatóan 2027-ben indul.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2311/08/dead_by_daylight_chucky_172725_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Július végén startol el az EverQuest Legends, már élnek az előrendelések",
+     "l": "https://www.gamekapocs.hu/hir/93809/julius_vegen_startol_el_az_everquest_legends_mar_elnek_az_elorendelesek",
+     "s": "Gamekapocs",
+     "d": "2026-06-17T16:29:08+00:00",
+     "sum": "A Daybreak Game Company és a Game Jawn bejelentése alapján a klasszikus MMO-ból készült Legends a következő hónap végén jelenik meg, így a megnyílt előrendeléssel többek között nevet foglalhatunk, de a bétához is hozzáférhetünk.",
+     "plain": "A Daybreak Game Company és a Game Jawn bejelentése alapján a klasszikus MMO-ból készült Legends a következő hónap végén jelenik meg, így a megnyílt előrendeléssel többek között nevet foglalhatunk, de a bétához is hozzáférhetünk.",
+     "img": ""
+    },
+    {
+     "t": "Sokkal gyorsabban tölthetnek be a játékok AMD videokártyákon",
+     "l": "https://www.pcwplus.hu/pcwpro/sokkal-gyorsabban-tolthetnek-be-a-jatekok-amd-videokartyakon-383815.html",
+     "s": "GameStar",
+     "d": "2026-06-17T16:16:15+00:00",
+     "sum": "Az Advanced Shader Delivery a teljes RDNA-családra megérkezett.",
+     "plain": "Az Advanced Shader Delivery a teljes RDNA-családra megérkezett.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2507/01/asus_tuf_gaming_radeon_rx_9060_xt_oc_edition_16_gb_gddr6_amd_rdna4_143235_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Veszélyes vírusok lapulhatnak a Wallpaper Engine egyes háttérképeiben",
+     "l": "https://www.pcguru.hu/hirek/wallpaper-engine-virus-malware-szoftver-steam-pc-hatterkep-kaspersky-biztonsag-britpopper/101769",
+     "s": "PC Guru",
+     "d": "2026-06-17T16:15:00+00:00",
+     "sum": "A figyelmeztetést a Kaspersky kiberbiztonsági cég adta ki, akik szerint hackerek így próbálkoznak komplett Steam-fiókokat ellopni.",
+     "plain": "A figyelmeztetést a Kaspersky kiberbiztonsági cég adta ki, akik szerint hackerek így próbálkoznak komplett Steam-fiókokat ellopni.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/veszelyes_virusok_lapulhatnak_a_wallpaper_engine_egyes_hatterkepeiben_1781711461_f8edb073b8995c014b17.jpg"
+    },
+    {
+     "t": "Spielberg sem akarta az Indiana Jones 4 ufós fordulatát",
+     "l": "https://www.gsplus.hu/masvilag/spielberg-sem-akarta-az-indiana-jones-4-ufos-fordulatat-383812.html",
+     "s": "GameStar",
+     "d": "2026-06-17T16:05:55+00:00",
+     "sum": "George Lucas ragaszkodott a film legvitatottabb ötletéhez.",
+     "plain": "George Lucas ragaszkodott a film legvitatottabb ötletéhez.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/17/indiana_jones_es_a_kristalykoponya_kiralysaga_153820_1_original_390x220_cover.jpg"
+    },
     {
      "t": "Eredetileg így nézett volna ki Shrek, és hát elég horrorisztikus volt",
      "l": "https://www.pcguru.hu/hirek/eredetileg-igy-nezett-volna-ki-shrek-es-hat-eleg-horrorisztikus-volt-marlasinger/101751",
@@ -12,6 +84,15 @@
      "sum": "Egy több mint harmincéves tesztanimáció mutatja meg, milyen lett volna a DreamWorks ikonikus ogréja, mielőtt teljesen újratervezték.",
      "plain": "Egy több mint harmincéves tesztanimáció mutatja meg, milyen lett volna a DreamWorks ikonikus ogréja, mielőtt teljesen újratervezték.",
      "img": "https://www.pcguru.hu/images/news/2026-06/igy_nezett_volna_ki_az_eredeti_shrek_es_hat_eleg_ijeszto__1781687298_35625e98b55bfe179dcf.jpg"
+    },
+    {
+     "t": "A klasszikus Falloutokból is merít a The Blood of Dawnwalker",
+     "l": "https://www.gsplus.hu/hir/a-klasszikus-falloutokbol-is-merit-a-the-blood-of-dawnwalker-383811.html",
+     "s": "GameStar",
+     "d": "2026-06-17T15:42:47+00:00",
+     "sum": "A vámpíros akció-RPG nem játékmenetben, hanem döntésekben idézné őket.",
+     "plain": "A vámpíros akció-RPG nem játékmenetben, hanem döntésekben idézné őket.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/09/the_blood_of_dawnwalker_rebel_wolves_160944_10_original_390x220_cover.jpg"
     },
     {
      "t": "Holnaptól ingyenesen lehet PS5 és Xbox Series X/S verzióra váltani a GTA 5-ben",
@@ -282,87 +363,6 @@
      "sum": "Bár a ChatGPT továbbra is piacvezető, most először került 50 százalék alá a részesedése az AI-asszisztensek piacán. Egyesek már pánikolnak, hogy pukkan az AI-lufi.",
      "plain": "Bár a ChatGPT továbbra is piacvezető, most először került 50 százalék alá a részesedése az AI-asszisztensek piacán. Egyesek már pánikolnak, hogy pukkan az AI-lufi.",
      "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2511/27/sam_altman_openai_101930_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Úgy tűnik, hogy a Baldur's Gate 3 színészei benne lesznek az HBO sorozatban is",
-     "l": "https://www.gsplus.hu/jatekvilag/baldurs-gate-3-craig-mazin-sorozat-szineszek-szereposztas-hbo-383800.html",
-     "s": "GameStar",
-     "d": "2026-06-17T11:09:12+00:00",
-     "sum": "A jelek szerint Craig Mazin egyenként keresi fel a játék karakterei mögött álló hangokat.",
-     "plain": "A jelek szerint Craig Mazin egyenként keresi fel a játék karakterei mögött álló hangokat.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2411/28/baldur_s_gate_3_larian_studios_055328_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Nem is karriganre pályázott valójában a Falcons CS2 csapata?",
-     "l": "https://www.pcguru.hu/hirek/cs2-counter-strike-iem-koln-2026-major-nem-is-karriganre-palyazott-valojaban-a-falcons-csapata-tbr/101745",
-     "s": "PC Guru",
-     "d": "2026-06-17T11:00:00+00:00",
-     "sum": "Várjunk csak, az a frozen miért néz ki úgy, mint aki megevett egy frozent?!",
-     "plain": "Várjunk csak, az a frozen miért néz ki úgy, mint aki megevett egy frozent?!",
-     "img": "https://www.pcguru.hu/images/news/2026-06/nem_is_karriganre_palyazott_valojaban_a_falcons_cs2_csapata_1781684657_c1781aec36085aa267b9.jpg"
-    },
-    {
-     "t": "Használat közben merevedik az új PlayStation kontroller gombja",
-     "l": "https://www.pcwplus.hu/pcwlite/hasznalat-kozben-merevedik-az-uj-playstation-kontroller-gombja-383793.html",
-     "s": "GameStar",
-     "d": "2026-06-17T10:33:29+00:00",
-     "sum": "Rossz az, aki rosszra gondol. Az új Sony fejlesztés megreformálná a haptikus visszajelzés rendszerét.",
-     "plain": "Rossz az, aki rosszra gondol. Az új Sony fejlesztés megreformálná a haptikus visszajelzés rendszerét.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2401/26/playstation_5_dualsense_095744_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Hirtelen felbukkant egy World of Warcraft projekt Camelot alcímmel",
-     "l": "https://www.gsplus.hu/hir/world-of-warcraft-classic-plus-camelot-mmorpg-blizzard-383798.html",
-     "s": "GameStar",
-     "d": "2026-06-17T10:25:29+00:00",
-     "sum": "A Classic+ izgalom a tetőfokára hágott, ahogy az adatbányászok rátaláltak egy teljesen új WoW verzióra.",
-     "plain": "A Classic+ izgalom a tetőfokára hágott, ahogy az adatbányászok rátaláltak egy teljesen új WoW verzióra.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2602/07/world_of_warcraft_classic_mmorpg_103607_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Megkeményedik, ha sokat játszol vele! Tejesen abszurd a Sony új kontroller-szabadalma",
-     "l": "https://www.pcguru.hu/hirek/megkemenyedik-ha-sokat-jatszol-vele-teljesen-abszurd-a-sony-uj-kontroller-szabadalma/101744",
-     "s": "PC Guru",
-     "d": "2026-06-17T10:00:00+00:00",
-     "sum": "Ezek után mi lesz, még a végén be is kapja az ujjadat a kontroller? Ja, hogy azt írják, hogy ezt is tudja?!",
-     "plain": "Ezek után mi lesz, még a végén be is kapja az ujjadat a kontroller? Ja, hogy azt írják, hogy ezt is tudja?!",
-     "img": "https://www.pcguru.hu/images/news/2026-06/megkemenyedik_ha_sokat_jatszol_vele_tejesen_abszurd_a_sony_uj_kontroller-szabadalma_1781683817_030e9d7d9b69ac9d57a2.jpg"
-    },
-    {
-     "t": "Demót kapott a The Mound: Omen of Cthulhu",
-     "l": "https://www.gamekapocs.hu/hir/93801/demot_kapott_a_the_mound_omen_of_cthulhu",
-     "s": "Gamekapocs",
-     "d": "2026-06-17T10:00:00+00:00",
-     "sum": "De nem árt sietni, mivel a próbaverzió csak a Steam Next Fest keretein belül érhető el PC-n. Cserébe a játék megjelenése továbbra is július közepén esedékes.",
-     "plain": "De nem árt sietni, mivel a próbaverzió csak a Steam Next Fest keretein belül érhető el PC-n. Cserébe a játék megjelenése továbbra is július közepén esedékes.",
-     "img": ""
-    },
-    {
-     "t": "Elmarad az idei Kolorádó Fesztivál",
-     "l": "https://www.gsplus.hu/masvilag/kolorado-fesztival-elmarad-383794.html",
-     "s": "GameStar",
-     "d": "2026-06-17T09:44:25+00:00",
-     "sum": "A szervezők szerint túl sok akadály gördült az új helyszín kialakítása elé.",
-     "plain": "A szervezők szerint túl sok akadály gördült az új helyszín kialakítása elé.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/17/kolorado_fesztival_093208_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Ezért csúszott ennyit az AI-jal felturbózott Siri",
-     "l": "https://www.pcwplus.hu/pcwlite/ezert-csuszott-ennyit-az-aijal-felturbozott-apple-siri-383790.html",
-     "s": "GameStar",
-     "d": "2026-06-17T09:34:10+00:00",
-     "sum": "Mike Rockwell szerint nem voltak elégedettek az első verzióval, így gyakorlatilag elölről kezdték a munkát.",
-     "plain": "Mike Rockwell szerint nem voltak elégedettek az első verzióval, így gyakorlatilag elölről kezdték a munkát.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/17/siri_090113_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Súlyos pénzügyi válságba került a Life is Strange alkotója",
-     "l": "https://www.gsplus.hu/uzlet/dont-nod-tencent-penzugyi-gondok-383795.html",
-     "s": "GameStar",
-     "d": "2026-06-17T09:03:01+00:00",
-     "sum": "Hónapokon belül elfogyhat a Don&#39;t Nod pénze, miután a Tencent sem nyújt további segítséget.",
-     "plain": "Hónapokon belül elfogyhat a Don&#39;t Nod pénze, miután a Tencent sem nyújt további segítséget.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2403/28/life_is_strange_don_t_nod_191001_1_original_390x220_cover.jpg"
     }
    ]
   }
