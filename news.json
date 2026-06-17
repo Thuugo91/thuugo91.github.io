@@ -1,9 +1,81 @@
 {
- "updated": "2026-06-17T18:00:02.298377+00:00",
+ "updated": "2026-06-17T19:00:07.306006+00:00",
  "categories": [
   {
    "name": "🎮 Film, játék, tech (HU)",
    "items": [
+    {
+     "t": "Kagylótelefon helyett rétestelefonban gondolkodik a Huawei",
+     "l": "https://www.pcguru.hu/hirek/tech-kagylotelefon-helyett-retestelefonban-gondolkodik-a-huawei-tbr/101766",
+     "s": "PC Guru",
+     "d": "2026-06-17T19:00:00+00:00",
+     "sum": "Egyelőre csak szabadalom, de ki nézné meg ezt a tri-fold telefont a valóságban is?",
+     "plain": "Egyelőre csak szabadalom, de ki nézné meg ezt a tri-fold telefont a valóságban is?",
+     "img": "https://www.pcguru.hu/images/news/2026-06/kagylotelefon_helyett_retestelefonban_gondolkodik_a_huawei_1781703206_8071379a0301b58449fd.jpg"
+    },
+    {
+     "t": "A nyár végére a fél Bungie az utcára kerülhet, és ez még a jobb opció",
+     "l": "https://www.pcguru.hu/hirek/a-nyar-vegere-a-fel-bungie-az-utcara-kerulhet-es-ez-meg-a-jobb-opcio-szlav/101763",
+     "s": "PC Guru",
+     "d": "2026-06-17T18:45:00+00:00",
+     "sum": "A Destiny 2 és a Marathon fejlesztői körül egyre sűrűsödnek a viharfelhők: egy friss jelentés szerint a 850 fős brigád akár fele is munkanélkülivé válhat a következő hónapokban.",
+     "plain": "A Destiny 2 és a Marathon fejlesztői körül egyre sűrűsödnek a viharfelhők: egy friss jelentés szerint a 850 fős brigád akár fele is munkanélkülivé válhat a következő hónapokban.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/a_nyar_vegere_a_fel_bungie_az_utcara_kerulhet_es_ez_meg_a_jobb_opcio_1781699004_4f1410f1243d34f4db71.jpg"
+    },
+    {
+     "t": "Az ArenaNet nem akar se havidíjat, se pay-to-win elemeket a Guild Wars 3-ba",
+     "l": "https://www.gamekapocs.hu/hir/93812/az_arenanet_nem_akar_se_havidijat_se_pay_to_win_elemeket_a_guild_wars_3_ba",
+     "s": "Gamekapocs",
+     "d": "2026-06-17T18:32:54+00:00",
+     "sum": "A stúdió vezetője, Colin Johanson nevében osztották meg a játék hivatalos oldalán a fejlesztéssel kapcsolatos filozófiájukat. E szerint igyekeznek az aktuális trendekből a legelőnyösebbet összerakni a játékosoknak.",
+     "plain": "A stúdió vezetője, Colin Johanson nevében osztották meg a játék hivatalos oldalán a fejlesztéssel kapcsolatos filozófiájukat. E szerint igyekeznek az aktuális trendekből a legelőnyösebbet összerakni a játékosoknak.",
+     "img": ""
+    },
+    {
+     "t": "Nyolc játék távozik a Game Passből június végén",
+     "l": "https://www.gsplus.hu/ingyen-jatekok/nyolc-jatek-tavozik-a-game-passbol-junius-vegen-383821.html",
+     "s": "GameStar",
+     "d": "2026-06-17T18:30:35+00:00",
+     "sum": "Lara Croft két kalandját és a Slay the Spire-t is érdemes pótolni.",
+     "plain": "Lara Croft két kalandját és a Slay the Spire-t is érdemes pótolni.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2307/26/game_pass_xbox_game_pass_181718_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Elhunyt Daveigh Chase, aki A kör-ben Samara Morgan-t alakította",
+     "l": "https://www.pcguru.hu/hirek/daveigh-chase-szineszno-the-ring-a-kor-lilo-and-stitch-hollywood-szinesz-britpopper/101770",
+     "s": "PC Guru",
+     "d": "2026-06-17T18:30:00+00:00",
+     "sum": "A mai napon érkezett a hír, hogy 35 éves korában elhunyt Daveigh Chase amerikai színésznő, a Lilo & Stitch és A kör sztárja.",
+     "plain": "A mai napon érkezett a hír, hogy 35 éves korában elhunyt Daveigh Chase amerikai színésznő, a Lilo & Stitch és A kör sztárja.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/elhunyt_daveigh_chase_aki_a_kor-ben_samara_morgan-t_alakitotta_1781720800_f8dd887f462f45f1dc83.jpg"
+    },
+    {
+     "t": "Kivezetné a kormány a benzinárstopot",
+     "l": "https://www.pcwplus.hu/pcwlite/kivezetne-a-kormany-a-benzinarstopot-383833.html",
+     "s": "GameStar",
+     "d": "2026-06-17T18:23:14+00:00",
+     "sum": "A piaci árak már a rögzített szint alá csökkenhetnek.",
+     "plain": "A piaci árak már a rögzített szint alá csökkenhetnek.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2209/07/benzin_uzemanyag_162532_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Az Apple új Sirije végre nem tűnik reménytelennek",
+     "l": "https://www.pcwplus.hu/pcwlite/az-apple-uj-sirije-vegre-nem-tunik-remenytelennek-383817.html",
+     "s": "GameStar",
+     "d": "2026-06-17T18:17:01+00:00",
+     "sum": "Az iOS 27 és a macOS 27 a következő nagy hardvereket is előkészítheti.",
+     "plain": "Az iOS 27 és a macOS 27 a következő nagy hardvereket is előkészítheti.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/11/siri_132206_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Vajon Russell Crowe hányszor fog még belerúgni a földön fekvő Gladiátor II-be?",
+     "l": "https://www.gsplus.hu/masvilag/vajon-russell-crowe-hanyszor-fog-meg-belerugni-a-foldon-fekvo-gladiator-iibe-383820.html",
+     "s": "GameStar",
+     "d": "2026-06-17T18:03:54+00:00",
+     "sum": "A Maximus szerepéért Oscar-díjat nyerő színész a 2026-os Taorminai Filmfesztiválon ismét arról beszélt, hogy szerinte Ridley Scott 2024-es folytatása nem értette meg, miért működött ennyire erősen az eredeti alkotás.",
+     "plain": "A Maximus szerepéért Oscar-díjat nyerő színész a 2026-os Taorminai Filmfesztiválon ismét arról beszélt, hogy szerinte Ridley Scott 2024-es folytatása nem értette meg, miért működött ennyire erősen az eredeti alkotás.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2302/03/gladiator_215933_1_original_390x220_cover.jpg"
+    },
     {
      "t": "Míg egy halom stúdiót bezárnak, addig a Capcom egy pofonegyszerű trükkel csinált hülyét a piacból",
      "l": "https://www.pcguru.hu/hirek/mig-egy-halom-studiot-bezarnak-addig-a-capcom-egy-pofonegyszeru-trukkel-csinalt-hulyet-a-piacbol-tzeus/101762",
@@ -21,6 +93,24 @@
      "sum": "Több mint 2 órás műsorral jelentkezett ma a State of Unreal 2026, így nem csak az Unreal Engine 5.8 funkciói kerültek terítékre, de a nem is olyan rég leleplezett  Unreal Engine 6 se maradt ki.",
      "plain": "Több mint 2 órás műsorral jelentkezett ma a State of Unreal 2026, így nem csak az Unreal Engine 5.8 funkciói kerültek terítékre, de a nem is olyan rég leleplezett Unreal Engine 6 se maradt ki.",
      "img": ""
+    },
+    {
+     "t": "Elhunyt Daveigh Chase, A kör Samarája és Lilo eredeti hangja",
+     "l": "https://www.gsplus.hu/masvilag/daveigh-chase-elhunyt-a-kor-lilo-es-stitch-samara-morgan-383830.html",
+     "s": "GameStar",
+     "d": "2026-06-17T17:44:31+00:00",
+     "sum": "A színésznő csupán 35 éves volt.",
+     "plain": "A színésznő csupán 35 éves volt.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/17/samara_194250_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "A BioWare társalapítója egy évtizeden át kampányolt Baldur's Gate 3-ért, aztán egyszer csak a Larian kapta a projektet",
+     "l": "https://www.gsplus.hu/hir/baldurs-gate-3-larian-studios-bioware-trent-oster-rpg-383806.html",
+     "s": "GameStar",
+     "d": "2026-06-17T17:32:51+00:00",
+     "sum": "Nem azért, mintha féltékeny lenne, de megjegyezte, hogy azért több ötlet is viselte a Baldur&#39;s Gate 3 nevet.",
+     "plain": "Nem azért, mintha féltékeny lenne, de megjegyezte, hogy azért több ötlet is viselte a Baldur&#39;s Gate 3 nevet.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2404/14/baldur_s_gate_3_113647_1_original_390x220_cover.jpg"
     },
     {
      "t": "Nincs havidíj, nincs Battle Pass – A Guild Wars 3 szembemegy a modern MMO trendekkel",
@@ -267,102 +357,12 @@
     },
     {
      "t": "Kudarcba fullad az Euro-Office harca a Microsofttal szemben?",
-     "l": "https://www.pcwplus.hu/pcwlite/kudarcba-fullad-az-eurooffice-harca-a-microsofttal-szemben-383801.html",
+     "l": "https://www.gsplus.hu",
      "s": "GameStar",
      "d": "2026-06-17T14:30:04+00:00",
      "sum": "Rengeteg gond van  Európa digitális függetlenedésével - most épp az Euro-Office bukdácsolását láthatjuk.",
      "plain": "Rengeteg gond van Európa digitális függetlenedésével - most épp az Euro-Office bukdácsolását láthatjuk.",
      "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/17/euro_office_irodai_programcsomag_szoftver_123950_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Legyen mozis vetítése a Sárkányok háza harmadik évadának? Lesz!",
-     "l": "https://www.pcguru.hu/hirek/sarkanyok-haza-harmadik-evad-premier-elso-epizod-mozi-kultik-vetites-marlasinger/101760",
-     "s": "PC Guru",
-     "d": "2026-06-17T14:30:00+00:00",
-     "sum": "Bár a Stranger Things záró epizódját még petícióval sem sikerült eljuttatni a hazai mozikba, a Sárkányok háza új évadának legelső epizódját a nagyvásznon is meg tudjuk majd nézni, ha szeretnénk.",
-     "plain": "Bár a Stranger Things záró epizódját még petícióval sem sikerült eljuttatni a hazai mozikba, a Sárkányok háza új évadának legelső epizódját a nagyvásznon is meg tudjuk majd nézni, ha szeretnénk.",
-     "img": "https://www.pcguru.hu/images/news/2026-06/legyen_mozis_vetitese_a_sarkanyok_haza_harmadik_evadanak_lesz__1781699997_e0fe42fcae3e932a88c6.jpg"
-    },
-    {
-     "t": "A Saros és a Returnal fejlesztői a hosszútávú sikerben bíznak",
-     "l": "https://www.gamekapocs.hu/hir/93804/a_saros_es_a_returnal_fejlesztoi_a_hosszutavu_sikerben_biznak",
-     "s": "Gamekapocs",
-     "d": "2026-06-17T14:30:00+00:00",
-     "sum": "Egy játékfejlesztő stúdió is keresheti a maga útját hosszú ideig. Habár ez nehéz az iparágban, de ha sikerül megtalálni a maguk stílusát, akkor az a játékosoknak és a fejlesztőknek is ugyanolyan jó.",
-     "plain": "Egy játékfejlesztő stúdió is keresheti a maga útját hosszú ideig. Habár ez nehéz az iparágban, de ha sikerül megtalálni a maguk stílusát, akkor az a játékosoknak és a fejlesztőknek is ugyanolyan jó.",
-     "img": ""
-    },
-    {
-     "t": "Házkutatást tartottak a Vadhajtások tulajdonosánál",
-     "l": "https://www.gsplus.hu/elet/hazkutatast-tartottak-a-vadhajtasok-tulajdonosanal-383818.html",
-     "s": "GameStar",
-     "d": "2026-06-17T14:23:19+00:00",
-     "sum": "Házkutatást tartottak a Vadhajtások tulajdonosánál",
-     "plain": "Házkutatást tartottak a Vadhajtások tulajdonosánál",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2601/17/rendorseg_130201_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Újra magyarul szólal meg a BBC hírszolgáltatása",
-     "l": "https://www.gsplus.hu/elet/ujra-magyarul-szolal-meg-a-bbc-hirszolgaltatasa-383807.html",
-     "s": "GameStar",
-     "d": "2026-06-17T14:01:04+00:00",
-     "sum": "Elindult a BBC News Magyarul a weben és a közösségi oldalakon.",
-     "plain": "Elindult a BBC News Magyarul a weben és a közösségi oldalakon.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/17/bbc_news_magyarul_142457_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Az emberek nem kérnek a Marathonból, a Destiny 2-ből viszont annál inkább",
-     "l": "https://www.pcguru.hu/hirek/destiny-2-marathon-bungie-steam-monument-of-triumph-sony-extraction-shooter-mmo-fps-pc-valve-live-service-halo-leecobo/101752",
-     "s": "PC Guru",
-     "d": "2026-06-17T14:00:00+00:00",
-     "sum": "Az elmúlt napok steames játékosszámai egyértelműen bizonyítják, hogy a nem túl sikeres extraction shooter helyett inkább a Destiny 3-at kellett volna elkészítenie a Bungie-nak.",
-     "plain": "Az elmúlt napok steames játékosszámai egyértelműen bizonyítják, hogy a nem túl sikeres extraction shooter helyett inkább a Destiny 3-at kellett volna elkészítenie a Bungie-nak.",
-     "img": "https://www.pcguru.hu/images/news/2026-06/az_emberek_nem_kernek_a_marathonbol_a_destiny_2-bol_viszont_annal_inkabb_1781689257_ec9e6a4938c27768c36e.jpg"
-    },
-    {
-     "t": "10 percig mozog az Atelier Karia: The Night Kingdom & the Guide of Memories",
-     "l": "https://www.gamekapocs.hu/hir/93803/10_percig_mozog_az_atelier_karia_the_night_kingdom_the_guide_of_memories",
-     "s": "Gamekapocs",
-     "d": "2026-06-17T14:00:00+00:00",
-     "sum": "A Gust alkimista sorozata új epizóddal bővül jövőre, de már most több érdekességet és részletet is megtudhattunk róla, sőt még egy kis gameplayt is kaptunk.",
-     "plain": "A Gust alkimista sorozata új epizóddal bővül jövőre, de már most több érdekességet és részletet is megtudhattunk róla, sőt még egy kis gameplayt is kaptunk.",
-     "img": ""
-    },
-    {
-     "t": "Már félmilliárd felhasználónál jár a Threads, a Meta pedig új funkciókkal ünnepel",
-     "l": "https://www.pcwplus.hu/pcwlite/met-threads-felhasznaloszam-383799.html",
-     "s": "GameStar",
-     "d": "2026-06-17T13:34:19+00:00",
-     "sum": "A korábbi Twitter-kihívó mára saját jogán is az egyik legnagyobb közösségi platform lett.",
-     "plain": "A korábbi Twitter-kihívó mára saját jogán is az egyik legnagyobb közösségi platform lett.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/17/threads_110645_4_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Megmutatták az első K-pop démonvadászok LEGO-szettet",
-     "l": "https://www.gsplus.hu/tarsasjatekok/megmutattak-az-elso-kpop-demonvadaszok-legoszettet-383805.html",
-     "s": "GameStar",
-     "d": "2026-06-17T13:30:09+00:00",
-     "sum": "A Derpy tigris és Sussie madár készlet augusztusban érkezik meg.",
-     "plain": "A Derpy tigris és Sussie madár készlet augusztusban érkezik meg.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/17/derpy_tigris_es_sussie_madar_141602_2_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Ha most tényleg kicsapják a Bungie felét, akkor ennyit a Destiny 3-as álmokról",
-     "l": "https://www.gsplus.hu/hir/bungie-playstation-sony-destiny-ha-most-tenyleg-kicsapjak-a-bungie-felet-akkor-ennyit-a-destiny-3as-almokrol-383803.html",
-     "s": "GameStar",
-     "d": "2026-06-17T13:03:19+00:00",
-     "sum": "Egy belsős információ szerint a Sony még a nyáron kirúgja a Bungie fejlesztőinek felét.",
-     "plain": "Egy belsős információ szerint a Sony még a nyáron kirúgja a Bungie fejlesztőinek felét.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2207/15/destiny_2_bungie_213041_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Elárasztották a Steam Next Festet az mesterséges intelligenciával készített játékok",
-     "l": "https://www.pcguru.hu/hirek/elarasztottak-a-steam-next-festet-a-mesterseges-intelligenciaval-keszitett-jatekok-szlav/101750",
-     "s": "PC Guru",
-     "d": "2026-06-17T13:00:00+00:00",
-     "sum": "A játékosok egyre gyanakvóbbak, ahogy a Steam demófesztiválján az alkotók ötöde ismerte el, hogy AI segítségével készítették a játékukat.",
-     "plain": "A játékosok egyre gyanakvóbbak, ahogy a Steam demófesztiválján az alkotók ötöde ismerte el, hogy AI segítségével készítették a játékukat.",
-     "img": "https://www.pcguru.hu/images/news/2026-06/elarasztottak_a_steam_next_festet_az_mesterseges_intelligenciaval_keszitett_jatekok_1781687296_74d2be430ce8f71eb727.jpg"
     }
    ]
   }
