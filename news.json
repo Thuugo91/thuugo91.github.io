@@ -1,9 +1,63 @@
 {
- "updated": "2026-06-17T05:00:05.292706+00:00",
+ "updated": "2026-06-17T06:00:06.493126+00:00",
  "categories": [
   {
    "name": "🎮 Film, játék, tech (HU)",
    "items": [
+    {
+     "t": "A Luna Abyss teljes fejlesztőcsapatát elbocsájtották",
+     "l": "https://www.gamekapocs.hu/hir/93798/a_luna_abyss_teljes_fejlesztocsapatat_elbocsajtottak",
+     "s": "Gamekapocs",
+     "d": "2026-06-17T06:00:00+00:00",
+     "sum": "Egy hónappal a játék megjelenése után a Kwalee előzetes egyeztetés nélkül a teljes stábot elküldte. A kiadó egyelőre nem adott ki közleményt, ám valószínűleg a gyenge eladási számok állnak a háttérben.",
+     "plain": "Egy hónappal a játék megjelenése után a Kwalee előzetes egyeztetés nélkül a teljes stábot elküldte. A kiadó egyelőre nem adott ki közleményt, ám valószínűleg a gyenge eladási számok állnak a háttérben.",
+     "img": ""
+    },
+    {
+     "t": "Dália és a vörös könyv - kritika szülői szemmel a gyász és az önbizalom meséjéről",
+     "l": "https://kepernyoido.hu/dalia-es-a-voros-konyv-kritika-szuloi-szemmel-hbo-max-726",
+     "s": "GameStar",
+     "d": "2026-06-17T05:51:53+00:00",
+     "sum": "Dália apja meghalt. Hátrahagyott egy befejezetlen regényt. A lány pedig, aki sosem hitte magát elég jó írónak, egyszer csak a könyv lapjai közt találja magát. Mihez kezdjen egy ilyen mesével a szülő?",
+     "plain": "Dália apja meghalt. Hátrahagyott egy befejezetlen regényt. A lány pedig, aki sosem hitte magát elég jó írónak, egyszer csak a könyv lapjai közt találja magát. Mihez kezdjen egy ilyen mesével a szülő?",
+     "img": "https://i.cdn29.hu/apix_collect_c/kepernyoid/images_articles_260615_dalia-es-a-voros-konyv-kritika-szuloi-szemmel-a-gyaszfeldolgozasrol-szolo-meserol_100522_390x220_cover.jpg"
+    },
+    {
+     "t": "Hideo Kojima nagyon szereti az AI-t, de azért ő is tudja, hogy hol a határa",
+     "l": "https://www.gsplus.hu/hir/hideo-kojima-ai-mesterseges-intelligencia-nyilatkozat-383759.html",
+     "s": "GameStar",
+     "d": "2026-06-17T05:43:17+00:00",
+     "sum": "Na, akkor tisztázzuk végre, hogy Kojima mit is gondol a technológiáról, mert a mester kezd elveszni a saját álláspontjai között.",
+     "plain": "Na, akkor tisztázzuk végre, hogy Kojima mit is gondol a technológiáról, mert a mester kezd elveszni a saját álláspontjai között.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2305/31/hideo_kojima_090429_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Egy eltökélt rajongó már a GTA 6 előtt elkészíti a GTA 6-ot – természetesen AI-jal",
+     "l": "https://www.pcguru.hu/hirek/gta-6-ai-agents-grand-theft-auto-6-rockstar-games-gt-caliber-vice-city-sandbox-lucia-jason-mesterseges-intelligencia-unreal-engine-5-leecobo/101737",
+     "s": "PC Guru",
+     "d": "2026-06-17T05:40:00+00:00",
+     "sum": "Sokan szeretnének annyira magabiztosak lenni, mint Ziwen, aki a fejébe vette, hogy a mesterséges intelligencia segítségével legyőzi a Rockstar Games-t.",
+     "plain": "Sokan szeretnének annyira magabiztosak lenni, mint Ziwen, aki a fejébe vette, hogy a mesterséges intelligencia segítségével legyőzi a Rockstar Games-t.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/egy_eltokelt_rajongo_mar_a_gta_6_elott_elkesziti_a_gta_6-ot__termeszetesen_ai-jal_1781674125_e4621b717d42a0365ef0.jpg"
+    },
+    {
+     "t": "A Honor X80 Pro Max egy hatalmas akkumulátorral és szélsebes gyorstöltéssel érkezik napokon belül",
+     "l": "https://www.pcwplus.hu/pcwlite/honor-x80-pro-max-megjelenes-kina-akkumulator-383747.html",
+     "s": "GameStar",
+     "d": "2026-06-17T05:34:16+00:00",
+     "sum": "A cég új csodája több szempontból is érdekes készülék lesz, de azok fogják imádni igazán, akik gyűlölnek a töltőkhöz rohangálni.",
+     "plain": "A cég új csodája több szempontból is érdekes készülék lesz, de azok fogják imádni igazán, akik gyűlölnek a töltőkhöz rohangálni.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/16/honor_x80_pro_max_092931_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Apák napján a PlayStation Plus is segíthet a közös játékban",
+     "l": "https://www.gsplus.hu/ingyen-jatekok/apak-napjan-a-playstation-plus-is-segithet-a-kozos-jatekban-383756.html",
+     "s": "GameStar",
+     "d": "2026-06-17T05:01:51+00:00",
+     "sum": "Versenyek, kooperatív káosz és családi kalandok várnak a katalógusban.",
+     "plain": "Versenyek, kooperatív káosz és családi kalandok várnak a katalógusban.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2212/28/playstation_plus_205849_1_original_390x220_cover.jpg"
+    },
     {
      "t": "Döntött az EU: Nem fogja törvénnyel kötelezővé tenni a játékok működőképességének megőrzését",
      "l": "https://pcforum.hu/hirek/31149/nem-lesz-stop-killing-games-torveny-az-eu-ban",
@@ -230,15 +284,6 @@
      "img": "https://sm.ign.com/ign_hu/screenshot/default/blob_bxf6.jpg"
     },
     {
-     "t": "Nem a játékok történetét meséli el újra a Death Stranding-film",
-     "l": "https://www.gamekapocs.hu/hir/93774/nem_a_jatekok_tortenetet_meseli_el_ujra_a_death_stranding_film",
-     "s": "Gamekapocs",
-     "d": "2026-06-15T14:00:00+00:00",
-     "sum": "Noha a Death Stranding-filmet már 2022-ben bejelentették, eddig nem nagyon volt mozgolódás a megvalósítás felé. Sőt, a projekt még mindig korai szakaszban van, és az első részleteket csak most hozta nyilvánosságra a rendező.",
-     "plain": "Noha a Death Stranding-filmet már 2022-ben bejelentették, eddig nem nagyon volt mozgolódás a megvalósítás felé. Sőt, a projekt még mindig korai szakaszban van, és az első részleteket csak most hozta nyilvánosságra a rendező.",
-     "img": ""
-    },
-    {
      "t": "\"B*sszák meg a szuperhősök\" - A The Boys-sorozat készítője megmutatta, hogyan képzelte el eredetileg az adaptációt több mint tíz évvel ezelőtt, amikor még csak ",
      "l": "https://hu.ign.com/the-boys/112275/bsszak-meg-a-szuperhosok-a-the-boys-sorozat-keszitoje-megmutatta-hogyan-kepzelte-el-eredetileg-az-ad",
      "s": "IGN Hungary",
@@ -318,51 +363,6 @@
      "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/f/32/8af373f0adb597234a857712f01de/facebook-meta-wp--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>Magyar idő szerint kora péntek délután ismét súlyos működési zavar látszik fellépni a Facebook-on. A különböző netes fórumokon ugyanis rendesen megszaporodtak a panaszok, amikben a felhasználók arról számolnak be, hogy nem töltődik be hírfolyamuk a közösségi oldalon, vagy bejelentkezni sem tudnak oda.",
      "plain": "Magyar idő szerint kora péntek délután ismét súlyos működési zavar látszik fellépni a Facebook-on. A különböző netes fórumokon ugyanis rendesen megszaporodtak a panaszok, amikben a felhasználók arról számolnak be, hogy nem töltődik be hírfo",
      "img": "https://pcforum.hu/assets/pcforum.hashed/f/32/8af373f0adb597234a857712f01de/facebook-meta-wp--dyn--rss.jpeg"
-    },
-    {
-     "t": "Kvantumbiztos titkosítást vezet be merevlemezein a Western Digital",
-     "l": "https://pcforum.hu/hirek/31135/western-digital-kvantumbiztos-titkositas-merevlemezek",
-     "s": "PC Fórum",
-     "d": "2026-06-12T13:40:00+00:00",
-     "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/1/3b/8b801a7599c666c2ceb1aff585948/security-shared-by-western-digital-cropped--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>A Western Digital (WD) a napokban egy jelentős fejlesztést jelentett be egyes - elsősorban vállalati felhasználásra szánt - merevlemezei vonatkozásában. Ennek értelmében a cég ezeken az eddig alkalmazott, mondhatni klasszikus titkosítási algoritmusok alkalmazása helyett kvázi-kvantumbiztos kódolási technológiák alkalmazására tér át.",
-     "plain": "A Western Digital (WD) a napokban egy jelentős fejlesztést jelentett be egyes - elsősorban vállalati felhasználásra szánt - merevlemezei vonatkozásában. Ennek értelmében a cég ezeken az eddig alkalmazott, mondhatni klasszikus titkosítási al",
-     "img": "https://pcforum.hu/assets/pcforum.hashed/1/3b/8b801a7599c666c2ceb1aff585948/security-shared-by-western-digital-cropped--dyn--rss.jpeg"
-    },
-    {
-     "t": "Eltöröl egy komoly korlátozást a Windows 11 MI-s funkcióival kapcsolatban a Microsoft",
-     "l": "https://pcforum.hu/hirek/31134/windows-11-mesterseges-intelligencia-rtx-30-videokartya-npu-copilot-plus",
-     "s": "PC Fórum",
-     "d": "2026-06-12T09:00:00+00:00",
-     "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/9/59/9724d0b26e19fccd2793dca39ecbe/copilot-plus-pc-shared-by-microsoft--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>A Microsoft a héten egy jelentős enyhítést jelentett be egyes, a Windows 11-be épített, helyben futtatott mesterséges intelligenciás funkciók elérhetőségével kapcsolatban. Eddig ugyanis ezeket kizárólag csak a speciális, NPU egységekkel felszerelt Copilot+ PC-ken lehetett futtatni - a jövőben azonban ez nem lesz feltétlenül szükséges hozzájuk.",
-     "plain": "A Microsoft a héten egy jelentős enyhítést jelentett be egyes, a Windows 11-be épített, helyben futtatott mesterséges intelligenciás funkciók elérhetőségével kapcsolatban. Eddig ugyanis ezeket kizárólag csak a speciális, NPU egységekkel fel",
-     "img": "https://pcforum.hu/assets/pcforum.hashed/9/59/9724d0b26e19fccd2793dca39ecbe/copilot-plus-pc-shared-by-microsoft--dyn--rss.jpeg"
-    },
-    {
-     "t": "Az elsők között kapják meg a magyarok a YouTube egy friss fejlesztését",
-     "l": "https://pcforum.hu/hirek/31133/google-youtube-app-video-megosztas-kozvetlen-uzenet-chat",
-     "s": "PC Fórum",
-     "d": "2026-06-12T07:30:00+00:00",
-     "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/c/6e/b7828f036cf7d1a937301147a7cc5/youtube-wp2--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>A Google a héten egy olyan új funkció bevezetését kezdte meg a YouTube-on, ami - legalábbis bizonyos helyzetekben - egyszerűbbé teszi az azon talált érdekes videók megosztását egymással. Ehhez ugyanis eddig valamilyen más kommunikációs csatornát: emailt, üzenőprogramot, esetleg közösségi alkalmazást kellett igénybe venni - mostantól ez azonban magában a YouTube app-ban is lehetséges lesz.",
-     "plain": "A Google a héten egy olyan új funkció bevezetését kezdte meg a YouTube-on, ami - legalábbis bizonyos helyzetekben - egyszerűbbé teszi az azon talált érdekes videók megosztását egymással. Ehhez ugyanis eddig valamilyen más kommunikációs csat",
-     "img": "https://pcforum.hu/assets/pcforum.hashed/c/6e/b7828f036cf7d1a937301147a7cc5/youtube-wp2--dyn--rss.jpeg"
-    },
-    {
-     "t": "Megint feltörték a Windows-ok beépített lemeztitkosítását, a BitLocker-t",
-     "l": "https://pcforum.hu/hirek/31132/greatxml-windows-bitlocker-sebezhetpseg-nightmare-eclipse",
-     "s": "PC Fórum",
-     "d": "2026-06-12T06:00:00+00:00",
-     "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/d/d2/46f2d41cbf5939c19f19639e6ce23/greatxml-bitlocker-crack-by-chatgpt-1-cropped--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>A Microsofttal korábban összetűzésbe kerülő, magát Nightmare Eclipse-nek nevező biztonsági szakértő a héten ismét borsot tört a vállalat orra alá. Az illető ugyanis leleplezett egy újabb módszert, aminek révén pillanatok alatt hozzáférhetővé válhat illetéktelenek számára is a Windows-ok beépített lemeztitkosításával, a BitLocker-rel kódolt lemezkötetek tartalma.",
-     "plain": "A Microsofttal korábban összetűzésbe kerülő, magát Nightmare Eclipse-nek nevező biztonsági szakértő a héten ismét borsot tört a vállalat orra alá. Az illető ugyanis leleplezett egy újabb módszert, aminek révén pillanatok alatt hozzáférhetőv",
-     "img": "https://pcforum.hu/assets/pcforum.hashed/d/d2/46f2d41cbf5939c19f19639e6ce23/greatxml-bitlocker-crack-by-chatgpt-1-cropped--dyn--rss.jpeg"
-    },
-    {
-     "t": "Titkos fejlesztést is leküldött a Windows 11-ekre havi frissítésében a Microsoft",
-     "l": "https://pcforum.hu/hirek/31131/windows-11-low-latency-profile-gyorsabb-magasabb-orajel",
-     "s": "PC Fórum",
-     "d": "2026-06-12T04:45:00+00:00",
-     "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/9/7a/babd9da45eb8dc785c17043bcac40/windows-11-turbo-by-chatgpt-1-cropped--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>A Windows 11-ek a Microsoft által kedden kiadott havi foltcsomag részeként nem csak több, mint 200 sebezhetőség foltját, de egy kvázi titkos fejlesztést is megkaptak. Ez nem más, mint az ún. \"Low Latency Profile\" mód, aminek köszönhetően a rendszer működése bizonyos körülmények között az eddiginél sokkal gyorsabbá válhat.",
-     "plain": "A Windows 11-ek a Microsoft által kedden kiadott havi foltcsomag részeként nem csak több, mint 200 sebezhetőség foltját, de egy kvázi titkos fejlesztést is megkaptak. Ez nem más, mint az ún. \"Low Latency Profile\" mód, aminek köszönhetően a ",
-     "img": "https://pcforum.hu/assets/pcforum.hashed/9/7a/babd9da45eb8dc785c17043bcac40/windows-11-turbo-by-chatgpt-1-cropped--dyn--rss.jpeg"
     }
    ]
   }
