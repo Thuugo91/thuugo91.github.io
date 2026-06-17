@@ -1,9 +1,63 @@
 {
- "updated": "2026-06-17T14:00:01.951811+00:00",
+ "updated": "2026-06-17T15:00:03.563833+00:00",
  "categories": [
   {
    "name": "🎮 Film, játék, tech (HU)",
    "items": [
+    {
+     "t": "5 égető kérdés, amit a Resident Evil Veronica remake-nek kötelező megválaszolnia",
+     "l": "https://www.pcguru.hu/hirek/5-egeto-kerdes-amit-a-2027-es-resident-evil-veronica-remake-nek-kotelezo-megvalaszolnia-tzeus/101753",
+     "s": "PC Guru",
+     "d": "2026-06-17T15:00:00+00:00",
+     "sum": "A Capcom a 2027-es Resident Evil Veronica-val amellett, hogy feltámaszt egy régi klasszikust, teljesen átírhatja a franchise történelmét is.",
+     "plain": "A Capcom a 2027-es Resident Evil Veronica-val amellett, hogy feltámaszt egy régi klasszikust, teljesen átírhatja a franchise történelmét is.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/5_egeto_kerdes_amit_a_2027-es_resident_evil_veronica_remake-nek_kotelezo_megvalaszolnia_1781690090_30405a1001500d946e40.jpg"
+    },
+    {
+     "t": "A Final Fantasy Tactics: The Ivalice Chronicles új frissítése New Game+ opciót is hozott",
+     "l": "https://www.gamekapocs.hu/hir/93805/a_final_fantasy_tactics_the_ivalice_chronicles_uj_frissitese_new_game_opciot_is_hozott",
+     "s": "Gamekapocs",
+     "d": "2026-06-17T15:00:00+00:00",
+     "sum": "A klasszikus stratégiai Final Fantasy játék kibővített remaster kiadása egy nagyszabású kiegészítést kapott az 1.5.0-s frissítéssel, a legfontosabb dolog itt a New Game+ lehetősége lett, de más hasznos dolgokat is kaptunk.",
+     "plain": "A klasszikus stratégiai Final Fantasy játék kibővített remaster kiadása egy nagyszabású kiegészítést kapott az 1.5.0-s frissítéssel, a legfontosabb dolog itt a New Game+ lehetősége lett, de más hasznos dolgokat is kaptunk.",
+     "img": ""
+    },
+    {
+     "t": "Legyen mozis vetítése a Sárkányok háza harmadik évadának? Lesz!",
+     "l": "https://www.pcguru.hu/hirek/sarkanyok-haza-harmadik-evad-premier-elso-epizod-mozi-kultik-vetites-marlasinger/101760",
+     "s": "PC Guru",
+     "d": "2026-06-17T14:30:00+00:00",
+     "sum": "Bár a Stranger Things záró epizódját még petícióval sem sikerült eljuttatni a hazai mozikba, a Sárkányok háza új évadának legelső epizódját a nagyvásznon is meg tudjuk majd nézni, ha szeretnénk.",
+     "plain": "Bár a Stranger Things záró epizódját még petícióval sem sikerült eljuttatni a hazai mozikba, a Sárkányok háza új évadának legelső epizódját a nagyvásznon is meg tudjuk majd nézni, ha szeretnénk.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/legyen_mozis_vetitese_a_sarkanyok_haza_harmadik_evadanak_lesz__1781699997_e0fe42fcae3e932a88c6.jpg"
+    },
+    {
+     "t": "A Saros és a Returnal fejlesztői a hosszútávú sikerben bíznak",
+     "l": "https://www.gamekapocs.hu/hir/93804/a_saros_es_a_returnal_fejlesztoi_a_hosszutavu_sikerben_biznak",
+     "s": "Gamekapocs",
+     "d": "2026-06-17T14:30:00+00:00",
+     "sum": "Egy játékfejlesztő stúdió is keresheti a maga útját hosszú ideig. Habár ez nehéz az iparágban, de ha sikerül megtalálni a maguk stílusát, akkor az a játékosoknak és a fejlesztőknek is ugyanolyan jó.",
+     "plain": "Egy játékfejlesztő stúdió is keresheti a maga útját hosszú ideig. Habár ez nehéz az iparágban, de ha sikerül megtalálni a maguk stílusát, akkor az a játékosoknak és a fejlesztőknek is ugyanolyan jó.",
+     "img": ""
+    },
+    {
+     "t": "Házkutatást tartottak a Vadhajtások tulajdonosánál",
+     "l": "https://www.gsplus.hu/elet/hazkutatast-tartottak-a-vadhajtasok-tulajdonosanal-383818.html",
+     "s": "GameStar",
+     "d": "2026-06-17T14:23:19+00:00",
+     "sum": "Házkutatást tartottak a Vadhajtások tulajdonosánál",
+     "plain": "Házkutatást tartottak a Vadhajtások tulajdonosánál",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2601/17/rendorseg_130201_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Újra magyarul szólal meg a BBC hírszolgáltatása",
+     "l": "https://www.gsplus.hu/elet/ujra-magyarul-szolal-meg-a-bbc-hirszolgaltatasa-383807.html",
+     "s": "GameStar",
+     "d": "2026-06-17T14:01:04+00:00",
+     "sum": "Elindult a BBC News Magyarul a weben és a közösségi oldalakon.",
+     "plain": "Elindult a BBC News Magyarul a weben és a közösségi oldalakon.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/17/bbc_news_magyarul_142457_1_original_390x220_cover.jpg"
+    },
     {
      "t": "Az emberek nem kérnek a Marathonból, a Destiny 2-ből viszont annál inkább",
      "l": "https://www.pcguru.hu/hirek/destiny-2-marathon-bungie-steam-monument-of-triumph-sony-extraction-shooter-mmo-fps-pc-valve-live-service-halo-leecobo/101752",
@@ -21,6 +75,24 @@
      "sum": "A Gust alkimista sorozata új epizóddal bővül jövőre, de már most több érdekességet és részletet is megtudhattunk róla, sőt még egy kis gameplayt is kaptunk.",
      "plain": "A Gust alkimista sorozata új epizóddal bővül jövőre, de már most több érdekességet és részletet is megtudhattunk róla, sőt még egy kis gameplayt is kaptunk.",
      "img": ""
+    },
+    {
+     "t": "Már félmilliárd felhasználónál jár a Threads, a Meta pedig új funkciókkal ünnepel",
+     "l": "https://www.pcwplus.hu/pcwlite/met-threads-felhasznaloszam-383799.html",
+     "s": "GameStar",
+     "d": "2026-06-17T13:34:19+00:00",
+     "sum": "A korábbi Twitter-kihívó mára saját jogán is az egyik legnagyobb közösségi platform lett.",
+     "plain": "A korábbi Twitter-kihívó mára saját jogán is az egyik legnagyobb közösségi platform lett.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/17/threads_110645_4_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Megmutatták az első K-pop démonvadászok LEGO-szettet",
+     "l": "https://www.gsplus.hu/tarsasjatekok/megmutattak-az-elso-kpop-demonvadaszok-legoszettet-383805.html",
+     "s": "GameStar",
+     "d": "2026-06-17T13:30:09+00:00",
+     "sum": "A Derpy tigris és Sussie madár készlet augusztusban érkezik meg.",
+     "plain": "A Derpy tigris és Sussie madár készlet augusztusban érkezik meg.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/17/derpy_tigris_es_sussie_madar_141602_2_original_390x220_cover.jpg"
     },
     {
      "t": "Ha most tényleg kicsapják a Bungie felét, akkor ennyit a Destiny 3-as álmokról",
@@ -291,78 +363,6 @@
      "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/8/bf/9355c9856e8108a7d6f45fcb0e91d/android-17-by-chatgpt-1-alt-2-cropped--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>A Google magyar idő szerint kedd este elérhetővé tette okostelefonos operációs rendszere legújabb verziójának végleges kiadását. Az új Android 17 cég szerint számos fejlesztést hoz a produktivitás, a szórakozás, valamint a biztonság területén is - a cég sajátmárkás készülékeire pedig már le is lehet tölteni azt.",
      "plain": "A Google magyar idő szerint kedd este elérhetővé tette okostelefonos operációs rendszere legújabb verziójának végleges kiadását. Az új Android 17 cég szerint számos fejlesztést hoz a produktivitás, a szórakozás, valamint a biztonság terület",
      "img": "https://pcforum.hu/assets/pcforum.hashed/8/bf/9355c9856e8108a7d6f45fcb0e91d/android-17-by-chatgpt-1-alt-2-cropped--dyn--rss.jpeg"
-    },
-    {
-     "t": "Olyan durva lett a Gonosz Halott: Égj! egyik jelenete, hogy muszáj volt finomítani rajta",
-     "l": "https://www.pcguru.hu/hirek/gonosz-halott-egj-annyira-brutalis-jelenet-korhatar-besorolas-miatt-finomitani-kellett-rajta-sebastien-vanicek-marlasinger-/101740",
-     "s": "PC Guru",
-     "d": "2026-06-17T07:18:00+00:00",
-     "sum": "Annyira problémás a szóban forgó rész, hogy egyelőre még korhatár besorolást sem kapott miatta a hamarosan érkező új Gonosz halott.",
-     "plain": "Annyira problémás a szóban forgó rész, hogy egyelőre még korhatár besorolást sem kapott miatta a hamarosan érkező új Gonosz halott.",
-     "img": "https://www.pcguru.hu/images/news/2026-06/olyan_durva_lett_a_gonosz_halott_egj_egyik_jelenete_hogy_muszaj_volt_finomitani_rajta_1781679994_4ad6414bddd59233e09b.jpg"
-    },
-    {
-     "t": "Az EU nem menti meg a leállított videójátékokat, a szülőknek mostantól máshogy kell nézni a digitális játékvásárlást",
-     "l": "https://kepernyoido.hu/stop-destroying-videogames-eu-digitalis-online-jatek-dontes-731",
-     "s": "GameStar",
-     "d": "2026-06-17T07:11:44+00:00",
-     "sum": "Az Európai Bizottság döntött a Stop Destroying Videogames ügyében: nem lesz olyan új uniós szabály, amely a kiadókat arra kötelezné, hogy egy leállított játékot játszható állapotban hagyjanak. De mit jelent ez a fogyasztókra, szülőkre nézve?",
-     "plain": "Az Európai Bizottság döntött a Stop Destroying Videogames ügyében: nem lesz olyan új uniós szabály, amely a kiadókat arra kötelezné, hogy egy leállított játékot játszható állapotban hagyjanak. De mit jelent ez a fogyasztókra, szülőkre nézve",
-     "img": "https://i.cdn29.hu/apix_collect_c/kepernyoid/images_articles_260617_stop-destroying-videogames-eu-digitalis-jatek_090935_390x220_cover.jpg"
-    },
-    {
-     "t": "Siralmas szezont zárt a League of Legends amerikai profiligája",
-     "l": "https://www.gsplus.hu/esport/league-of-legends-lcs-esport-spring-split-2026-nezettseg-moba-riot-games-383745.html",
-     "s": "GameStar",
-     "d": "2026-06-17T07:02:12+00:00",
-     "sum": "A nézettség teljesen a földbe állt, és bár a Riotnak vannak ötletei a mentésre, azok már túl későn érkezhetnek egy tényleges fordulathoz.",
-     "plain": "A nézettség teljesen a földbe állt, és bár a Riotnak vannak ötletei a mentésre, azok már túl későn érkezhetnek egy tényleges fordulathoz.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/16/league_of_legends_riot_games_082044_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Jövőre csúszik az Outward 2 korai hozzáférése",
-     "l": "https://www.gamekapocs.hu/hir/93799/jovore_csuszik_az_outward_2_korai_hozzaferese",
-     "s": "Gamekapocs",
-     "d": "2026-06-17T07:00:00+00:00",
-     "sum": "A nyílt világú akció-RPG az eredeti tervek szerint július elején lépett volna early accessbe, most azonban nemcsak 2027-re csúszott a megjelenés, de  már konkrét dátum sincs.",
-     "plain": "A nyílt világú akció-RPG az eredeti tervek szerint július elején lépett volna early accessbe, most azonban nemcsak 2027-re csúszott a megjelenés, de már konkrét dátum sincs.",
-     "img": ""
-    },
-    {
-     "t": "Medic: Pacific War próbakör",
-     "l": "https://www.gamekapocs.hu/cikk/5173/medic_pacific_war_probakor",
-     "s": "Gamekapocs",
-     "d": "2026-06-17T06:40:48+00:00",
-     "sum": "A korai hozzáférésben megjelent Medic: Pacific War eléggé sajátos módon tárja elénk a második világháború borzalmait, hiszen puskák helyett ezúttal gézesdobozokkal a kézben kell majd tevékenykednünk a frontvonalak között.",
-     "plain": "A korai hozzáférésben megjelent Medic: Pacific War eléggé sajátos módon tárja elénk a második világháború borzalmait, hiszen puskák helyett ezúttal gézesdobozokkal a kézben kell majd tevékenykednünk a frontvonalak között.",
-     "img": ""
-    },
-    {
-     "t": "Egy közepes Call of Duty lesz a Game Pass új érkezőinek csúcspontja",
-     "l": "https://www.pcguru.hu/hirek/xbox-game-pass-junius-call-of-duty-vanguard-tony-hawks-pro-skater-3-4-ea-sports-fc-26-abyssus-rv-there-yet-microsoft-leecobo/101739",
-     "s": "PC Guru",
-     "d": "2026-06-17T06:40:00+00:00",
-     "sum": "A Microsoft megosztotta, milyen alkotásokra számíthatnak az előfizetők június második felében – gördeszkákon gurulnak be a szolgáltatásba a Vanguard katonái.",
-     "plain": "A Microsoft megosztotta, milyen alkotásokra számíthatnak az előfizetők június második felében – gördeszkákon gurulnak be a szolgáltatásba a Vanguard katonái.",
-     "img": "https://www.pcguru.hu/images/news/2026-06/egy_kozepes_call_of_duty_lesz_a_game_pass_uj_erkezoinek_csucspontja_1781678018_128e842f67167da632d0.jpg"
-    },
-    {
-     "t": "Két új vállalható árú mechanikus billentyűzettel is előállt a Keychron, mindkettő komoly üzemidőt ígér",
-     "l": "https://www.pcwplus.hu/pcwlite/keychron-mechanikus-billentyuzet-k8-k2-ultra-383750.html",
-     "s": "GameStar",
-     "d": "2026-06-17T06:31:46+00:00",
-     "sum": "A K2 Ultra 8K és a K8 Ultra 8K a gamerek és irodai dolgozók kedvencei lehetnek elegáns kiépítésüknek, és strapabíró akkumulátoraiknak köszönhetően.",
-     "plain": "A K2 Ultra 8K és a K8 Ultra 8K a gamerek és irodai dolgozók kedvencei lehetnek elegáns kiépítésüknek, és strapabíró akkumulátoraiknak köszönhetően.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/16/keychron_billentyuzet_093357_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Ezt a játékot a világ egyik legismertebb animéje se tudja megmenteni",
-     "l": "https://www.gsplus.hu/hir/the-first-descendant-evangelion-collab-frissites-tps-nexon-383743.html",
-     "s": "GameStar",
-     "d": "2026-06-17T06:21:10+00:00",
-     "sum": "Mióta Yoko Taro került az Evangelion élére csak úgy záporoznak a kollaborációs projektek.",
-     "plain": "Mióta Yoko Taro került az Evangelion élére csak úgy záporoznak a kollaborációs projektek.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/16/the_first_descendant_evangelion_074544_1_original_390x220_cover.jpg"
     }
    ]
   }
