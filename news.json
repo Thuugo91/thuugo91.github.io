@@ -1,9 +1,63 @@
 {
- "updated": "2026-06-17T17:00:01.858676+00:00",
+ "updated": "2026-06-17T18:00:02.298377+00:00",
  "categories": [
   {
    "name": "🎮 Film, játék, tech (HU)",
    "items": [
+    {
+     "t": "Míg egy halom stúdiót bezárnak, addig a Capcom egy pofonegyszerű trükkel csinált hülyét a piacból",
+     "l": "https://www.pcguru.hu/hirek/mig-egy-halom-studiot-bezarnak-addig-a-capcom-egy-pofonegyszeru-trukkel-csinalt-hulyet-a-piacbol-tzeus/101762",
+     "s": "PC Guru",
+     "d": "2026-06-17T18:00:00+00:00",
+     "sum": "Szinte minden új játékuk sikeres lesz, a kiadó meg szárnyal.",
+     "plain": "Szinte minden új játékuk sikeres lesz, a kiadó meg szárnyal.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/mig_egy_halom_studiot_bezarnak_addig_a_capcom_egy_pofonegyszeru_trukkel_csinalt_hulyet_a_piacbol_1781698652_8e599056561a75a303ff.jpg"
+    },
+    {
+     "t": "Az Unreal Engine 5.8 funkciói mellett az Unreal Engine 6 néhány részletére is fény derült ma",
+     "l": "https://www.gamekapocs.hu/hir/93811/az_unreal_engine_5_8_funkcioi_mellett_az_unreal_engine_6_nehany_reszletere_is_feny_derult_ma",
+     "s": "Gamekapocs",
+     "d": "2026-06-17T17:58:40+00:00",
+     "sum": "Több mint 2 órás műsorral jelentkezett ma a State of Unreal 2026, így nem csak az Unreal Engine 5.8 funkciói kerültek terítékre, de a nem is olyan rég leleplezett  Unreal Engine 6 se maradt ki.",
+     "plain": "Több mint 2 órás műsorral jelentkezett ma a State of Unreal 2026, így nem csak az Unreal Engine 5.8 funkciói kerültek terítékre, de a nem is olyan rég leleplezett Unreal Engine 6 se maradt ki.",
+     "img": ""
+    },
+    {
+     "t": "Nincs havidíj, nincs Battle Pass – A Guild Wars 3 szembemegy a modern MMO trendekkel",
+     "l": "https://www.pcguru.hu/hirek/nincs-havidij-nincs-battle-pass-a-guild-wars-3-szembemegy-a-modern-mmo-trendekkel-szlav/101759",
+     "s": "PC Guru",
+     "d": "2026-06-17T17:30:00+00:00",
+     "sum": "Az ArenaNet ígérete szerint a legendás MMORPG új része megőrzi a széria legszimpatikusabb hagyományát, és nem akarja teljesen kifosztani a játékosok pénztárcáját.",
+     "plain": "Az ArenaNet ígérete szerint a legendás MMORPG új része megőrzi a széria legszimpatikusabb hagyományát, és nem akarja teljesen kifosztani a játékosok pénztárcáját.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/nincs_havidij_nincs_battle_pass__a_guild_wars_3_szembemegy_a_modern_mmo_trendekkel_1781695815_a6d4ad40ee586130bc07.jpg"
+    },
+    {
+     "t": "Állítólag a Senua bemutatásával csak lehetséges felvásárlókat célzott az XBOX",
+     "l": "https://www.gamekapocs.hu/hir/93810/allitolag_a_senua_bemutatasaval_csak_lehetseges_felvasarlokat_celzott_az_xbox",
+     "s": "Gamekapocs",
+     "d": "2026-06-17T17:30:00+00:00",
+     "sum": "Nagyon úgy tűnik, hogy az XBOX esetében megjelent lelkesedés és lendület alább fog hagyni a közeljövőben. Az eddig kedvező változások után sorra érkeznek a csalódást keltő döntések.",
+     "plain": "Nagyon úgy tűnik, hogy az XBOX esetében megjelent lelkesedés és lendület alább fog hagyni a közeljövőben. Az eddig kedvező változások után sorra érkeznek a csalódást keltő döntések.",
+     "img": ""
+    },
+    {
+     "t": "33 ezer drónból rajzolt óriáspandát az égre Kína",
+     "l": "https://www.pcwplus.hu/pcwlite/33-ezer-dronbol-rajzolt-oriaspandat-az-egre-kina-383816.html",
+     "s": "GameStar",
+     "d": "2026-06-17T17:14:10+00:00",
+     "sum": "A hatalmas fényshow három Guinness-rekordot is megdöntött.",
+     "plain": "A hatalmas fényshow három Guinness-rekordot is megdöntött.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/17/kina_160450_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Túl durva lett az Alien: Föld egyik xenomorfos jelenete",
+     "l": "https://www.gsplus.hu/masvilag/tul-durva-lett-az-alien-fold-egyik-xenomorfos-jelenete-383814.html",
+     "s": "GameStar",
+     "d": "2026-06-17T17:01:33+00:00",
+     "sum": "Noah Hawley végül visszavágatta a sorozat egyik támadását.",
+     "plain": "Noah Hawley végül visszavágatta a sorozat egyik támadását.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2509/14/alien_earth_alien_fold_084113_1_original_390x220_cover.jpg"
+    },
     {
      "t": "Két napot kellett várni rá, a Commodore már meg is csinálta a brit politikusok kedvenc telefonját",
      "l": "https://www.pcguru.hu/hirek/tech-ket-napot-kellett-varni-ra-a-commodore-mar-meg-is-csinalta-a-brit-politikusok-kedvenc-telefonjat-tbr/101754",
@@ -12,6 +66,15 @@
      "sum": "A hülye és az okos között lebeg a Commodore új telefonja, ezzel tuti nyerő lenne a kiskorúak körében közösségi média tiltásra készülő briteknél.",
      "plain": "A hülye és az okos között lebeg a Commodore új telefonja, ezzel tuti nyerő lenne a kiskorúak körében közösségi média tiltásra készülő briteknél.",
      "img": "https://www.pcguru.hu/images/news/2026-06/ket_napot_kellett_varni_ra_a_commodore_mar_meg_is_csinalta_a_brit_politikusok_kedvenc_telefonjat_1781690579_19b77d528d8c7e50d4c3.jpg"
+    },
+    {
+     "t": "A Magyar Nemzetet is elérte a Mediaworks leépítési hulláma",
+     "l": "https://www.gsplus.hu/elet/a-magyar-nemzetet-is-elerte-a-mediaworks-leepitesi-hullama-383819.html",
+     "s": "GameStar",
+     "d": "2026-06-17T16:45:02+00:00",
+     "sum": "A napilapból hetilap lehet, újabb munkatársak távoznak.",
+     "plain": "A napilapból hetilap lehet, újabb munkatársak távoznak.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/17/magyar_nemzet_163248_1_original_390x220_cover.jpg"
     },
     {
      "t": "Nem hagyja cserben a régebbi kártyák tulajait sem az AMD, de van egy kis bökkenő",
@@ -300,69 +363,6 @@
      "sum": "A játékosok egyre gyanakvóbbak, ahogy a Steam demófesztiválján az alkotók ötöde ismerte el, hogy AI segítségével készítették a játékukat.",
      "plain": "A játékosok egyre gyanakvóbbak, ahogy a Steam demófesztiválján az alkotók ötöde ismerte el, hogy AI segítségével készítették a játékukat.",
      "img": "https://www.pcguru.hu/images/news/2026-06/elarasztottak_a_steam_next_festet_az_mesterseges_intelligenciaval_keszitett_jatekok_1781687296_74d2be430ce8f71eb727.jpg"
-    },
-    {
-     "t": "Kínában Dwayne Johnson fejével verik át a Teslák kameráit",
-     "l": "https://www.pcwplus.hu/pcwlite/dwayne-johnson-tesla-onvezetes-kamera-figura-383796.html",
-     "s": "GameStar",
-     "d": "2026-06-17T12:36:21+00:00",
-     "sum": "Amikor néha napján a Tesla az utasok és más sofőrök biztonságára is gondol, akkor a tulajok találják meg a rendszer gyenge pontját.",
-     "plain": "Amikor néha napján a Tesla az utasok és más sofőrök biztonságára is gondol, akkor a tulajok találják meg a rendszer gyenge pontját.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2412/06/tesla_model_3_123140_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Eastwood beájulna, ebben a filmben dinoszauruszok lepik el a vadnyugatot",
-     "l": "https://www.pcguru.hu/hirek/dinosaurs-of-the-wild-west-primitive-war-dino-dinoszaurusz-western-kickstarter-kampany-britpopper/101761",
-     "s": "PC Guru",
-     "d": "2026-06-17T12:30:00+00:00",
-     "sum": "A Primitive War rendezője nem tud elszakadni az őshüllőktől – a következő filmjében a vadnyugatra szeretné vinni őket.",
-     "plain": "A Primitive War rendezője nem tud elszakadni az őshüllőktől – a következő filmjében a vadnyugatra szeretné vinni őket.",
-     "img": "https://www.pcguru.hu/images/news/2026-06/eastwood_beajulna_ebben_a_filmben_dinoszauruszok_lepik_el_a_vadnyugatot_1781698378_9da8cd8c8513b95a9c74.jpg"
-    },
-    {
-     "t": "A Guild Wars 3 még nagyon messze van, de a fejlesztők már most megszabták a határokat: nincs havidíj, nincs pay-to-win",
-     "l": "https://www.gsplus.hu/hir/guild-wars-3-pay-to-win-havidij-celok-mmorpg-arenanet-383804.html",
-     "s": "GameStar",
-     "d": "2026-06-17T12:25:17+00:00",
-     "sum": "A fejlesztők elképzelései meglehetősen szilárd alapokon nyugszanak, leszámítva egy dolgot, amit játékmenet bemutató nélkül nehéz igazán értelmezni.",
-     "plain": "A fejlesztők elképzelései meglehetősen szilárd alapokon nyugszanak, leszámítva egy dolgot, amit játékmenet bemutató nélkül nehéz igazán értelmezni.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/17/guild_wars_3_mmorpg_133329_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Csúszik az iPhone Ultra, nem csúszik az iPhone Ultra, csúszik, nem csúszik...",
-     "l": "https://www.pcguru.hu/hirek/tech-csuszik-az-iphone-ultra-nem-csuszik-csuszik-nem-csuszik-tbr/101748",
-     "s": "PC Guru",
-     "d": "2026-06-17T12:00:00+00:00",
-     "sum": "Továbbra sem egyértelmű, hogy mikor mutatkozik be az Apple első hajtogatható iPhone-ja.",
-     "plain": "Továbbra sem egyértelmű, hogy mikor mutatkozik be az Apple első hajtogatható iPhone-ja.",
-     "img": "https://www.pcguru.hu/images/news/2026-06/csuszik_az_iphone_ultra_nem_csuszik_az_iphone_ultra_csuszik_nem_csuszik..._1781687025_bcc2d3a1b41b8a1b7506.jpg"
-    },
-    {
-     "t": "Egy év alatt 20 millióan játszottak a PEAK-kel",
-     "l": "https://www.gamekapocs.hu/hir/93802/egy_ev_alatt_20_millioan_jatszottak_a_peak_kel",
-     "s": "Gamekapocs",
-     "d": "2026-06-17T12:00:00+00:00",
-     "sum": "A népszerű co-op mászós játék ugyan messze van már a korábbi csúcstól, azonban így is óriási sikernek számít az elmúlt egy év alatt nyújtott teljesítménye.",
-     "plain": "A népszerű co-op mászós játék ugyan messze van már a korábbi csúcstól, azonban így is óriási sikernek számít az elmúlt egy év alatt nyújtott teljesítménye.",
-     "img": ""
-    },
-    {
-     "t": "A Fallout 5-re váró rajongók jó hírt kaptak az Xbox vezetőségétől",
-     "l": "https://www.gsplus.hu/hir/fallout-5-rpg-asha-sharma-xbox-microsoft-383802.html",
-     "s": "GameStar",
-     "d": "2026-06-17T11:47:50+00:00",
-     "sum": "A leépítések tükrében nehéz igazán lelkesnek lenni, de van egy parányi reménysugár a rengeteg katasztrófa között.",
-     "plain": "A leépítések tükrében nehéz igazán lelkesnek lenni, de van egy parányi reménysugár a rengeteg katasztrófa között.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2406/20/fallout_4_bethesda_202246_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Megtört a ChatGPT egyeduralma, történelmi mélypontra esett vissza az OpenAI piaci részesedése",
-     "l": "https://www.pcwplus.hu/pcwlite/chatgpt-openai-chatbot-aiasszisztens-mesterseges-intelligencia-piaci-reszesedes-383797.html",
-     "s": "GameStar",
-     "d": "2026-06-17T11:30:29+00:00",
-     "sum": "Bár a ChatGPT továbbra is piacvezető, most először került 50 százalék alá a részesedése az AI-asszisztensek piacán. Egyesek már pánikolnak, hogy pukkan az AI-lufi.",
-     "plain": "Bár a ChatGPT továbbra is piacvezető, most először került 50 százalék alá a részesedése az AI-asszisztensek piacán. Egyesek már pánikolnak, hogy pukkan az AI-lufi.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2511/27/sam_altman_openai_101930_1_original_390x220_cover.jpg"
     }
    ]
   }
