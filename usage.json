@@ -1,10 +1,10 @@
 {
- "updated": "2026-06-17T12:00:04.573265+00:00",
+ "updated": "2026-06-17T13:00:04.448479+00:00",
  "claude": {
   "plan": "Max",
   "window_5h": {
-   "turns": 287,
-   "tok": 68164504
+   "turns": 234,
+   "tok": 60819588
   },
   "week": {
    "turns": 3741,
@@ -85,8 +85,8 @@
   "calib": "fotó-kalibrált 2026-06-16 19:34"
  },
  "deepseek": {
-  "topped_up": 9.94,
+  "topped_up": 9.93,
   "granted": 0.0,
-  "remaining": 9.94
+  "remaining": 9.93
  }
 }

@@ -1,9 +1,45 @@
 {
- "updated": "2026-06-17T12:00:03.462324+00:00",
+ "updated": "2026-06-17T13:00:03.801245+00:00",
  "categories": [
   {
    "name": "🎮 Film, játék, tech (HU)",
    "items": [
+    {
+     "t": "Elárasztották a Steam Next Festet az mesterséges intelligenciával készített játékok",
+     "l": "https://www.pcguru.hu/hirek/elarasztottak-a-steam-next-festet-a-mesterseges-intelligenciaval-keszitett-jatekok-szlav/101750",
+     "s": "PC Guru",
+     "d": "2026-06-17T13:00:00+00:00",
+     "sum": "A játékosok egyre gyanakvóbbak, ahogy a Steam demófesztiválján az alkotók ötöde ismerte el, hogy AI segítségével készítették a játékukat.",
+     "plain": "A játékosok egyre gyanakvóbbak, ahogy a Steam demófesztiválján az alkotók ötöde ismerte el, hogy AI segítségével készítették a játékukat.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/elarasztottak_a_steam_next_festet_az_mesterseges_intelligenciaval_keszitett_jatekok_1781687296_74d2be430ce8f71eb727.jpg"
+    },
+    {
+     "t": "Eastwood beájulna, ebben a filmben dinoszauruszok lepik el a vadnyugatot",
+     "l": "https://www.pcguru.hu/hirek/dinosaurs-of-the-wild-west-primitive-war-dino-dinoszaurusz-western-kickstarter-kampany-britpopper/101761",
+     "s": "PC Guru",
+     "d": "2026-06-17T12:30:00+00:00",
+     "sum": "A Primitive War rendezője nem tud elszakadni az őshüllőktől – a következő filmjében a vadnyugatra szeretné vinni őket.",
+     "plain": "A Primitive War rendezője nem tud elszakadni az őshüllőktől – a következő filmjében a vadnyugatra szeretné vinni őket.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/eastwood_beajulna_ebben_a_filmben_dinoszauruszok_lepik_el_a_vadnyugatot_1781698378_9da8cd8c8513b95a9c74.jpg"
+    },
+    {
+     "t": "A Guild Wars 3 még nagyon messze van, de a fejlesztők már most megszabták a határokat: nincs havidíj, nincs pay-to-win",
+     "l": "https://www.gsplus.hu/hir/guild-wars-3-pay-to-win-havidij-celok-mmorpg-arenanet-383804.html",
+     "s": "GameStar",
+     "d": "2026-06-17T12:25:17+00:00",
+     "sum": "A fejlesztők elképzelései meglehetősen szilárd alapokon nyugszanak, leszámítva egy dolgot, amit játékmenet bemutató nélkül nehéz igazán értelmezni.",
+     "plain": "A fejlesztők elképzelései meglehetősen szilárd alapokon nyugszanak, leszámítva egy dolgot, amit játékmenet bemutató nélkül nehéz igazán értelmezni.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/17/guild_wars_3_mmorpg_133329_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Mike Myers azt állítja, hogy igen, lesz Austin Powers 4.",
+     "l": "https://hu.ign.com/austin-powers-4/112327/mike-myers-azt-allitja-hogy-igen-lesz-austin-powers-4",
+     "s": "IGN Hungary",
+     "d": "2026-06-17T12:01:46+00:00",
+     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/screenshot/default/blob_gymv.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nA James Bondot parodizáló ügynök utolsó filmjét 2002-ben mutatták be, de még mindig nem halt meg a remény, hogy elkészül a folytatás.",
+     "plain": "A James Bondot parodizáló ügynök utolsó filmjét 2002-ben mutatták be, de még mindig nem halt meg a remény, hogy elkészül a folytatás.",
+     "img": "https://sm.ign.com/ign_hu/screenshot/default/blob_gymv.jpg"
+    },
     {
      "t": "Csúszik az iPhone Ultra, nem csúszik az iPhone Ultra, csúszik, nem csúszik...",
      "l": "https://www.pcguru.hu/hirek/tech-csuszik-az-iphone-ultra-nem-csuszik-csuszik-nem-csuszik-tbr/101748",
@@ -21,6 +57,24 @@
      "sum": "A népszerű co-op mászós játék ugyan messze van már a korábbi csúcstól, azonban így is óriási sikernek számít az elmúlt egy év alatt nyújtott teljesítménye.",
      "plain": "A népszerű co-op mászós játék ugyan messze van már a korábbi csúcstól, azonban így is óriási sikernek számít az elmúlt egy év alatt nyújtott teljesítménye.",
      "img": ""
+    },
+    {
+     "t": "A Fallout 5-re váró rajongók jó hírt kaptak az Xbox vezetőségétől",
+     "l": "https://www.gsplus.hu/hir/fallout-5-rpg-asha-sharma-xbox-microsoft-383802.html",
+     "s": "GameStar",
+     "d": "2026-06-17T11:47:50+00:00",
+     "sum": "A leépítések tükrében nehéz igazán lelkesnek lenni, de van egy parányi reménysugár a rengeteg katasztrófa között.",
+     "plain": "A leépítések tükrében nehéz igazán lelkesnek lenni, de van egy parányi reménysugár a rengeteg katasztrófa között.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2406/20/fallout_4_bethesda_202246_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Megtört a ChatGPT egyeduralma, történelmi mélypontra esett vissza az OpenAI piaci részesedése",
+     "l": "https://www.pcwplus.hu/pcwlite/chatgpt-openai-chatbot-aiasszisztens-mesterseges-intelligencia-piaci-reszesedes-383797.html",
+     "s": "GameStar",
+     "d": "2026-06-17T11:30:29+00:00",
+     "sum": "Bár a ChatGPT továbbra is piacvezető, most először került 50 százalék alá a részesedése az AI-asszisztensek piacán. Egyesek már pánikolnak, hogy pukkan az AI-lufi.",
+     "plain": "Bár a ChatGPT továbbra is piacvezető, most először került 50 százalék alá a részesedése az AI-asszisztensek piacán. Egyesek már pánikolnak, hogy pukkan az AI-lufi.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2511/27/sam_altman_openai_101930_1_original_390x220_cover.jpg"
     },
     {
      "t": "Úgy tűnik, hogy a Baldur's Gate 3 színészei benne lesznek az HBO sorozatban is",
@@ -149,7 +203,7 @@
      "img": "https://www.pcguru.hu/images/news/2026-06/es_azt_tudtad_hogy_a_dragon_age_irojatol_is_megkaphattuk_volna_a_baldurs_gate_3-at_1781685521_6dac8645169f18ad6ba6.jpg"
     },
     {
-     "t": "Harry Potter-hangulattal futott be a Hexed első, egész ígéretes előzetese",
+     "t": "Harry Potter-hangulattal futott be a Hexed első, egészen ígéretes előzetese",
      "l": "https://www.pcguru.hu/hirek/hexed-elozetes-trailer-hailee-steinfeld-tinilany-boszorkany-harry-potter-hangulatu-marlasinger-/101746",
      "s": "PC Guru",
      "d": "2026-06-17T08:41:00+00:00",
@@ -309,60 +363,6 @@
      "sum": "A Microsoft megosztotta, milyen alkotásokra számíthatnak az előfizetők június második felében – gördeszkákon gurulnak be a szolgáltatásba a Vanguard katonái.",
      "plain": "A Microsoft megosztotta, milyen alkotásokra számíthatnak az előfizetők június második felében – gördeszkákon gurulnak be a szolgáltatásba a Vanguard katonái.",
      "img": "https://www.pcguru.hu/images/news/2026-06/egy_kozepes_call_of_duty_lesz_a_game_pass_uj_erkezoinek_csucspontja_1781678018_128e842f67167da632d0.jpg"
-    },
-    {
-     "t": "Két új vállalható árú mechanikus billentyűzettel is előállt a Keychron, mindkettő komoly üzemidőt ígér",
-     "l": "https://www.pcwplus.hu/pcwlite/keychron-mechanikus-billentyuzet-k8-k2-ultra-383750.html",
-     "s": "GameStar",
-     "d": "2026-06-17T06:31:46+00:00",
-     "sum": "A K2 Ultra 8K és a K8 Ultra 8K a gamerek és irodai dolgozók kedvencei lehetnek elegáns kiépítésüknek, és strapabíró akkumulátoraiknak köszönhetően.",
-     "plain": "A K2 Ultra 8K és a K8 Ultra 8K a gamerek és irodai dolgozók kedvencei lehetnek elegáns kiépítésüknek, és strapabíró akkumulátoraiknak köszönhetően.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/16/keychron_billentyuzet_093357_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Ezt a játékot a világ egyik legismertebb animéje se tudja megmenteni",
-     "l": "https://www.gsplus.hu/hir/the-first-descendant-evangelion-collab-frissites-tps-nexon-383743.html",
-     "s": "GameStar",
-     "d": "2026-06-17T06:21:10+00:00",
-     "sum": "Mióta Yoko Taro került az Evangelion élére csak úgy záporoznak a kollaborációs projektek.",
-     "plain": "Mióta Yoko Taro került az Evangelion élére csak úgy záporoznak a kollaborációs projektek.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/16/the_first_descendant_evangelion_074544_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Nem akarunk rosszmájúak lenni, de a Shrek 5. első előzetese után is vannak kérdéseink",
-     "l": "https://www.pcguru.hu/hirek/shrek-5-elozetes-rossz-animacio-zendaya-mike-myers-eddie-murphy-cameron-diaz-nem-akarunk-rosszmajuak-lenni-marlasinger/101738",
-     "s": "PC Guru",
-     "d": "2026-06-17T06:06:00+00:00",
-     "sum": "Nem biztos, hogy a rajongók pont ezt kívánták a varázstükörtől.",
-     "plain": "Nem biztos, hogy a rajongók pont ezt kívánták a varázstükörtől.",
-     "img": "https://www.pcguru.hu/images/news/2026-06/nem_akarunk_rosszmajuak_lenni_de_a_shrek_5_uj_elozetese_utan_is_vannak_kerdeseink_1781675578_c6e72c65bfea3fb92230.jpg"
-    },
-    {
-     "t": "Kiderült, mikor kezdhetik el forgatni a Death Stranding-filmet, és hogy lesznek-e benne a játékból ismerős karakterek",
-     "l": "https://hu.ign.com/death-stranding-1/112319/kiderult-mikor-kezdhetik-el-forgatni-a-death-stranding-filmet-es-hogy-lesznek-e-benne-a-jatekbol-ism",
-     "s": "IGN Hungary",
-     "d": "2026-06-17T06:02:53+00:00",
-     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/photo/default/death-stranding-2-on-the-beach-pre-order-trailer-mp4-00-04-1_sh11.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nA rendező beszélt egy interjúban arról, hogyan veszi kezelésbe Kodzsima Hideo posztapokaliptikus világát.",
-     "plain": "A rendező beszélt egy interjúban arról, hogyan veszi kezelésbe Kodzsima Hideo posztapokaliptikus világát.",
-     "img": "https://sm.ign.com/ign_hu/photo/default/death-stranding-2-on-the-beach-pre-order-trailer-mp4-00-04-1_sh11.jpg"
-    },
-    {
-     "t": "A Luna Abyss teljes fejlesztőcsapatát elbocsájtották",
-     "l": "https://www.gamekapocs.hu/hir/93798/a_luna_abyss_teljes_fejlesztocsapatat_elbocsajtottak",
-     "s": "Gamekapocs",
-     "d": "2026-06-17T06:00:00+00:00",
-     "sum": "Egy hónappal a játék megjelenése után a Kwalee előzetes egyeztetés nélkül a teljes stábot elküldte. A kiadó egyelőre nem adott ki közleményt, ám valószínűleg a gyenge eladási számok állnak a háttérben.",
-     "plain": "Egy hónappal a játék megjelenése után a Kwalee előzetes egyeztetés nélkül a teljes stábot elküldte. A kiadó egyelőre nem adott ki közleményt, ám valószínűleg a gyenge eladási számok állnak a háttérben.",
-     "img": ""
-    },
-    {
-     "t": "Embereken is kipróbálták a mesterséges intelligencia által tervezett koronavírus-vakcinát",
-     "l": "https://pcforum.hu/hirek/31150/pevac-ps-sarbeco-koronavirus-elleni-oltas-mesterseges-intelligencia",
-     "s": "PC Fórum",
-     "d": "2026-06-17T06:00:00+00:00",
-     "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/e/d4/05e2938aecfc15d3b9c2fe865474c/robot-injecting-human-with-syringe-by-chatgpt-1-cropped--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>Amerikai kutatók a napokban számoltak egy, a mesterséges intelligencia által tervezett oltás embereken történő kipróbálásának eredményeiről. A Cambridge-i Egyetem virológusai a gépi értelem által a Sarbeco koronavírus-család elleni védelemre kifejlesztett vakcinát teszteltek le mintegy három tucat önkéntesen, a most publikált eredményekkel.",
-     "plain": "Amerikai kutatók a napokban számoltak egy, a mesterséges intelligencia által tervezett oltás embereken történő kipróbálásának eredményeiről. A Cambridge-i Egyetem virológusai a gépi értelem által a Sarbeco koronavírus-család elleni védelemr",
-     "img": "https://pcforum.hu/assets/pcforum.hashed/e/d4/05e2938aecfc15d3b9c2fe865474c/robot-injecting-human-with-syringe-by-chatgpt-1-cropped--dyn--rss.jpeg"
     }
    ]
   }
