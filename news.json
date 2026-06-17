@@ -1,9 +1,72 @@
 {
- "updated": "2026-06-17T06:00:06.493126+00:00",
+ "updated": "2026-06-17T07:00:07.053703+00:00",
  "categories": [
   {
    "name": "🎮 Film, játék, tech (HU)",
    "items": [
+    {
+     "t": "Jövőre csúszik az Outward 2 korai hozzáférése",
+     "l": "https://www.gamekapocs.hu/hir/93799/jovore_csuszik_az_outward_2_korai_hozzaferese",
+     "s": "Gamekapocs",
+     "d": "2026-06-17T07:00:00+00:00",
+     "sum": "A nyílt világú akció-RPG az eredeti tervek szerint július elején lépett volna early accessbe, most azonban nemcsak 2027-re csúszott a megjelenés, de most már konkrét dátum sincs.",
+     "plain": "A nyílt világú akció-RPG az eredeti tervek szerint július elején lépett volna early accessbe, most azonban nemcsak 2027-re csúszott a megjelenés, de most már konkrét dátum sincs.",
+     "img": ""
+    },
+    {
+     "t": "Medic: Pacific War próbakör",
+     "l": "https://www.gamekapocs.hu/cikk/5173/medic_pacific_war_probakor",
+     "s": "Gamekapocs",
+     "d": "2026-06-17T06:40:48+00:00",
+     "sum": "A korai hozzáférésben megjelent Medic: Pacific War eléggé sajátos módon tárja elénk a második világháború borzalmait, hiszen puskák helyett ezúttal gézesdobozokkal a kézben kell majd tevékenykednünk a frontvonalak között.",
+     "plain": "A korai hozzáférésben megjelent Medic: Pacific War eléggé sajátos módon tárja elénk a második világháború borzalmait, hiszen puskák helyett ezúttal gézesdobozokkal a kézben kell majd tevékenykednünk a frontvonalak között.",
+     "img": ""
+    },
+    {
+     "t": "Egy közepes Call of Duty lesz a Game Pass új érkezőinek csúcspontja",
+     "l": "https://www.pcguru.hu/hirek/xbox-game-pass-junius-call-of-duty-vanguard-tony-hawks-pro-skater-3-4-ea-sports-fc-26-abyssus-rv-there-yet-microsoft-leecobo/101739",
+     "s": "PC Guru",
+     "d": "2026-06-17T06:40:00+00:00",
+     "sum": "A Microsoft megosztotta, milyen alkotásokra számíthatnak az előfizetők június második felében – gördeszkákon gurulnak be a szolgáltatásba a Vanguard katonái.",
+     "plain": "A Microsoft megosztotta, milyen alkotásokra számíthatnak az előfizetők június második felében – gördeszkákon gurulnak be a szolgáltatásba a Vanguard katonái.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/egy_kozepes_call_of_duty_lesz_a_game_pass_uj_erkezoinek_csucspontja_1781678018_128e842f67167da632d0.jpg"
+    },
+    {
+     "t": "Két új vállalható árú mechanikus billentyűzettel is előállt a Keychron, mindkettő komoly üzemidőt ígér",
+     "l": "https://www.pcwplus.hu/pcwlite/keychron-mechanikus-billentyuzet-k8-k2-ultra-383750.html",
+     "s": "GameStar",
+     "d": "2026-06-17T06:31:46+00:00",
+     "sum": "A K2 Ultra 8K és a K8 Ultra 8K a gamerek és irodai dolgozók kedvencei lehetnek elegáns kiépítésüknek, és strapabíró akkumulátoraiknak köszönhetően.",
+     "plain": "A K2 Ultra 8K és a K8 Ultra 8K a gamerek és irodai dolgozók kedvencei lehetnek elegáns kiépítésüknek, és strapabíró akkumulátoraiknak köszönhetően.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/16/keychron_billentyuzet_093357_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Ezt a játékot a világ egyik legismertebb animéje se tudja megmenteni",
+     "l": "https://www.gsplus.hu/hir/the-first-descendant-evangelion-collab-frissites-tps-nexon-383743.html",
+     "s": "GameStar",
+     "d": "2026-06-17T06:21:10+00:00",
+     "sum": "Mióta Yoko Taro került az Evangelion élére csak úgy záporoznak a kollaborációs projektek.",
+     "plain": "Mióta Yoko Taro került az Evangelion élére csak úgy záporoznak a kollaborációs projektek.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/16/the_first_descendant_evangelion_074544_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Nem akarunk rosszmájúak lenni, de a Shrek 5. első előzetese után is vannak kérdéseink",
+     "l": "https://www.pcguru.hu/hirek/shrek-5-elozetes-rossz-animacio-zendaya-mike-myers-eddie-murphy-cameron-diaz-nem-akarunk-rosszmajuak-lenni-marlasinger/101738",
+     "s": "PC Guru",
+     "d": "2026-06-17T06:06:00+00:00",
+     "sum": "Nem biztos, hogy a rajongók pont ezt kívánták a varázstükörtől.",
+     "plain": "Nem biztos, hogy a rajongók pont ezt kívánták a varázstükörtől.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/nem_akarunk_rosszmajuak_lenni_de_a_shrek_5_uj_elozetese_utan_is_vannak_kerdeseink_1781675578_c6e72c65bfea3fb92230.jpg"
+    },
+    {
+     "t": "Kiderült, mikor kezdhetik el forgatni a Death Stranding-filmet, és hogy lesznek-e benne a játékból ismerős karakterek",
+     "l": "https://hu.ign.com/death-stranding-1/112319/kiderult-mikor-kezdhetik-el-forgatni-a-death-stranding-filmet-es-hogy-lesznek-e-benne-a-jatekbol-ism",
+     "s": "IGN Hungary",
+     "d": "2026-06-17T06:02:53+00:00",
+     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/photo/default/death-stranding-2-on-the-beach-pre-order-trailer-mp4-00-04-1_sh11.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nA rendező beszélt egy interjúban arról, hogyan veszi kezelésbe Kodzsima Hideo posztapokaliptikus világát.",
+     "plain": "A rendező beszélt egy interjúban arról, hogyan veszi kezelésbe Kodzsima Hideo posztapokaliptikus világát.",
+     "img": "https://sm.ign.com/ign_hu/photo/default/death-stranding-2-on-the-beach-pre-order-trailer-mp4-00-04-1_sh11.jpg"
+    },
     {
      "t": "A Luna Abyss teljes fejlesztőcsapatát elbocsájtották",
      "l": "https://www.gamekapocs.hu/hir/93798/a_luna_abyss_teljes_fejlesztocsapatat_elbocsajtottak",
@@ -12,6 +75,15 @@
      "sum": "Egy hónappal a játék megjelenése után a Kwalee előzetes egyeztetés nélkül a teljes stábot elküldte. A kiadó egyelőre nem adott ki közleményt, ám valószínűleg a gyenge eladási számok állnak a háttérben.",
      "plain": "Egy hónappal a játék megjelenése után a Kwalee előzetes egyeztetés nélkül a teljes stábot elküldte. A kiadó egyelőre nem adott ki közleményt, ám valószínűleg a gyenge eladási számok állnak a háttérben.",
      "img": ""
+    },
+    {
+     "t": "Embereken is kipróbálták a mesterséges intelligencia által tervezett koronavírus-vakcinát",
+     "l": "https://pcforum.hu/hirek/31150/pevac-ps-sarbeco-koronavirus-elleni-oltas-mesterseges-intelligencia",
+     "s": "PC Fórum",
+     "d": "2026-06-17T06:00:00+00:00",
+     "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/e/d4/05e2938aecfc15d3b9c2fe865474c/robot-injecting-human-with-syringe-by-chatgpt-1-cropped--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>Amerikai kutatók a napokban számoltak egy, a mesterséges intelligencia által tervezett oltás embereken történő kipróbálásának eredményeiről. A Cambridge-i Egyetem virológusai a gépi értelem által a Sarbeco koronavírus-család elleni védelemre kifejlesztett vakcinát teszteltek le mintegy három tucat önkéntesen, a most publikált eredményekkel.",
+     "plain": "Amerikai kutatók a napokban számoltak egy, a mesterséges intelligencia által tervezett oltás embereken történő kipróbálásának eredményeiről. A Cambridge-i Egyetem virológusai a gépi értelem által a Sarbeco koronavírus-család elleni védelemr",
+     "img": "https://pcforum.hu/assets/pcforum.hashed/e/d4/05e2938aecfc15d3b9c2fe865474c/robot-injecting-human-with-syringe-by-chatgpt-1-cropped--dyn--rss.jpeg"
     },
     {
      "t": "Dália és a vörös könyv - kritika szülői szemmel a gyász és az önbizalom meséjéről",
@@ -203,15 +275,6 @@
      "img": "https://sm.ign.com/ign_hu/screenshot/default/godofwor-laufey-1_26yq.jpg"
     },
     {
-     "t": "Megérkezett az utolsó nagy frissítés a Vampire: The Masquerade – Bloodlines 2-höz",
-     "l": "https://www.gamekapocs.hu/hir/93776/megerkezett_az_utolso_nagy_frissites_a_vampire_the_masquerade_bloodlines_2_hoz",
-     "s": "Gamekapocs",
-     "d": "2026-06-15T16:10:29+00:00",
-     "sum": "Lezárul a Bloodlines 2 hosszú és eléggé viharos utóélete, ugyanis a The Chinese Room és a Paradox Interactive kiadta a játék utolsó komolyabb frissítését, amivel igyekeznek a közösség kedvében járni.",
-     "plain": "Lezárul a Bloodlines 2 hosszú és eléggé viharos utóélete, ugyanis a The Chinese Room és a Paradox Interactive kiadta a játék utolsó komolyabb frissítését, amivel igyekeznek a közösség kedvében járni.",
-     "img": ""
-    },
-    {
      "t": "Furcsa gonosztevőt ígér a Pókember: Vadonatúj nap hivatalos szinopszisa, ami Peter Parker jelenlegi életébe is ad egy rövid betekintést",
      "l": "https://hu.ign.com/spider-man-brand-new-day/112282/furcsa-gonosztevot-iger-a-pokember-vadonatuj-nap-hivatalos-szinopszisa-ami-peter-parker-jelenlegi-el",
      "s": "IGN Hungary",
@@ -237,15 +300,6 @@
      "sum": "<img src=\"https://sm.ign.com/t/ign_hu/screenshot/default/a-tuz-arnyat-vet-1-crop_y8j6.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />A sárkányok egyenetlen tánca\nBerepült végre a Sárkányok háza harmadik évada, amelynek első két részében alaposan felpörögnek az események, de ez a lendület több értelemben is alábbhagy később. Lássuk, mit ígér az új szezon első négy epizódja!",
      "plain": "A sárkányok egyenetlen tánca Berepült végre a Sárkányok háza harmadik évada, amelynek első két részében alaposan felpörögnek az események, de ez a lendület több értelemben is alábbhagy később. Lássuk, mit ígér az új szezon első négy epizódj",
      "img": "https://sm.ign.com/ign_hu/screenshot/default/a-tuz-arnyat-vet-1-crop_y8j6.jpg"
-    },
-    {
-     "t": "A God of War: Laufey egyszerre hozza a klasszikus és a modern harcrendszereket",
-     "l": "https://www.gamekapocs.hu/hir/93775/a_god_of_war_laufey_egyszerre_hozza_a_klasszikus_es_a_modern_harcrendszereket",
-     "s": "Gamekapocs",
-     "d": "2026-06-15T15:00:00+00:00",
-     "sum": "A modern God of War játékok spinoffja a Santa Monica Studio szerint a klasszikus GoW-trilógia pörgős akcióját ötvözi majd a Ragnarök súlyosabb, realisztikusabb közelharcával.",
-     "plain": "A modern God of War játékok spinoffja a Santa Monica Studio szerint a klasszikus GoW-trilógia pörgős akcióját ötvözi majd a Ragnarök súlyosabb, realisztikusabb közelharcával.",
-     "img": ""
     },
     {
      "t": "Kiderülhetett végre, kit játszik Sadie Sink az új Pókember-filmben, egy jól ismert szivárogtató teljesen biztos az információjában",
@@ -284,15 +338,6 @@
      "img": "https://sm.ign.com/ign_hu/screenshot/default/blob_bxf6.jpg"
     },
     {
-     "t": "\"B*sszák meg a szuperhősök\" - A The Boys-sorozat készítője megmutatta, hogyan képzelte el eredetileg az adaptációt több mint tíz évvel ezelőtt, amikor még csak ",
-     "l": "https://hu.ign.com/the-boys/112275/bsszak-meg-a-szuperhosok-a-the-boys-sorozat-keszitoje-megmutatta-hogyan-kepzelte-el-eredetileg-az-ad",
-     "s": "IGN Hungary",
-     "d": "2026-06-15T13:19:51+00:00",
-     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/screenshot/default/ezgif-2b1cb262ed4344f3_w9kx.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nEric Kripke eredeti elképzelése nagyjából megvalósult, még ha a vége nem is lett az igazi.",
-     "plain": "Eric Kripke eredeti elképzelése nagyjából megvalósult, még ha a vége nem is lett az igazi.",
-     "img": "https://sm.ign.com/ign_hu/screenshot/default/ezgif-2b1cb262ed4344f3_w9kx.jpg"
-    },
-    {
      "t": "375 rétegű 3D NAND flash chipek gyártásába kezd az SK Hynix",
      "l": "https://pcforum.hu/hirek/31143/sk-hynix-375-retegu-3d-nand-flash-memoriachip-gyartas",
      "s": "PC Fórum",
@@ -318,51 +363,6 @@
      "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/f/87/b157f3357a20a3f48ebbeedcb6180/tux-linux-holding-hdd-and-cpu-by-chatgpt-1-extended-cropped--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>A hétvégén Linus Torvalds bejelentette az általa létrehozott nyílt forrású rendszermag két hónap óta készülő legújabb verziójának kiadását. A Linux 7.1 több tucat kisebb fejlesztést hoz, de ezek közül talán a legnagyobb horderejű a teljesen újraírt NTFS meghajtóprogram bevezetése.",
      "plain": "A hétvégén Linus Torvalds bejelentette az általa létrehozott nyílt forrású rendszermag két hónap óta készülő legújabb verziójának kiadását. A Linux 7.1 több tucat kisebb fejlesztést hoz, de ezek közül talán a legnagyobb horderejű a teljesen",
      "img": "https://pcforum.hu/assets/pcforum.hashed/f/87/b157f3357a20a3f48ebbeedcb6180/tux-linux-holding-hdd-and-cpu-by-chatgpt-1-extended-cropped--dyn--rss.jpeg"
-    },
-    {
-     "t": "Erkölcstelenné vált a Google vezetése - mondja a cég önként kilépő igazgatója",
-     "l": "https://pcforum.hu/hirek/31140/google-erkolcstelen-rene-mayrhofer-kritika-ne-legy-gonosz",
-     "s": "PC Fórum",
-     "d": "2026-06-15T05:30:00+00:00",
-     "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/2/44/a612f8c87cf1d4c38108870342b5f/google-evil-by-chatgpt-1-alt-cropped--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>A hét végén nyílt levélben indokolta meg döntését a Google egy magasszintű vezetője, aki bejelentette: ősszel - felmondási ideje lejárását követően - távozik a keresőóriástól. René Mayrhofer, a Google Android-platformbiztonságért felelős igazgatója önként mondott le pozíciójáról, amire szerint ugyanakkor azért kényszerült, mert a vállalat vezetése egyszerűen abszolút erkölcstelenné vált.",
-     "plain": "A hét végén nyílt levélben indokolta meg döntését a Google egy magasszintű vezetője, aki bejelentette: ősszel - felmondási ideje lejárását követően - távozik a keresőóriástól. René Mayrhofer, a Google Android-platformbiztonságért felelős ig",
-     "img": "https://pcforum.hu/assets/pcforum.hashed/2/44/a612f8c87cf1d4c38108870342b5f/google-evil-by-chatgpt-1-alt-cropped--dyn--rss.jpeg"
-    },
-    {
-     "t": "Ryzen AI Halo: Brutális árú, másfél millió forintos mini-PC-t ad ki az AMD",
-     "l": "https://pcforum.hu/hirek/31139/amd-ryzen-halo-mesterseges-intelligencia-pc-128-gb-ram-ai-max-soc",
-     "s": "PC Fórum",
-     "d": "2026-06-14T06:30:00+00:00",
-     "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/9/2b/eca369c34f33f4fe79bd43fbb266e/ryzen-ai-halo-pc-shared-by-amd-cropped--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>Az AMD a héten egy kis méretű, de annál nagyobb árú kompakt asztali gép piacra dobását jelentett be. A vállalat által Ryzen AI Halo-nak elnevezett dobozka ára ugyanis nettó 4000 dollár, ami mintegy bruttó másfél millió forintnak felel meg.",
-     "plain": "Az AMD a héten egy kis méretű, de annál nagyobb árú kompakt asztali gép piacra dobását jelentett be. A vállalat által Ryzen AI Halo-nak elnevezett dobozka ára ugyanis nettó 4000 dollár, ami mintegy bruttó másfél millió forintnak felel meg.",
-     "img": "https://pcforum.hu/assets/pcforum.hashed/9/2b/eca369c34f33f4fe79bd43fbb266e/ryzen-ai-halo-pc-shared-by-amd-cropped--dyn--rss.jpeg"
-    },
-    {
-     "t": "Újra DDR4-es processzorokat fog kiadni az Intel a memóriahiány miatt",
-     "l": "https://pcforum.hu/hirek/31138/intel-uj-raptor-lake-next-processzor-ddr4-memoria",
-     "s": "PC Fórum",
-     "d": "2026-06-14T05:15:00+00:00",
-     "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/1/94/b83964abaa9047eaa581373b51d29/intel-core-processor-shared-by-intel-cropped--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>Az Intel a hírek szerint ismét arra készül, hogy egy újabb frissítést adjon ki már évekkel ezelőtt kifutottnak gondolt Raptor Lake processzorcsaládjához. Az eredetileg még 2022-ben bemutatott architektúra \"leporolásának\" oka a memóriahiány és az, hogy ez képezi a gyártó utolsó olyan CPU-családját, ami még támogatja a DDR4-es RAM-ok használatát is.",
-     "plain": "Az Intel a hírek szerint ismét arra készül, hogy egy újabb frissítést adjon ki már évekkel ezelőtt kifutottnak gondolt Raptor Lake processzorcsaládjához. Az eredetileg még 2022-ben bemutatott architektúra \"leporolásának\" oka a memóriahiány ",
-     "img": "https://pcforum.hu/assets/pcforum.hashed/1/94/b83964abaa9047eaa581373b51d29/intel-core-processor-shared-by-intel-cropped--dyn--rss.jpeg"
-    },
-    {
-     "t": "Megkezdődött az évezred legnagyobb tévedése - bevonult a SpaceX a tőzsdére",
-     "l": "https://pcforum.hu/hirek/31137/spacex-ipo-tozsdei-bevezetes-elon-musk-135-dollar-reszveny",
-     "s": "PC Fórum",
-     "d": "2026-06-12T19:25:00+00:00",
-     "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/d/5e/51ea839881b27f7266dd5543f8619/nasdaq-spacex-elon-musk--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>[vélemény] Csütörtökön megtörtént annak a folyamatnak a legfontosabb lépése, amire utólag a történelem jó eséllyel az évezred az egyik legnagyobb - finom fogalmazva - üzleti tévedéseként fog visszaemlékezni. Megkezdődött ugyanis Elon Musk SpaceX nevű vállalkozásának bevonulása és kereskedése a Nasdaq-on.",
-     "plain": "[vélemény] Csütörtökön megtörtént annak a folyamatnak a legfontosabb lépése, amire utólag a történelem jó eséllyel az évezred az egyik legnagyobb - finom fogalmazva - üzleti tévedéseként fog visszaemlékezni. Megkezdődött ugyanis Elon Musk S",
-     "img": "https://pcforum.hu/assets/pcforum.hashed/d/5e/51ea839881b27f7266dd5543f8619/nasdaq-spacex-elon-musk--dyn--rss.jpeg"
-    },
-    {
-     "t": "Elkezdett lehalni a Facebook - nem jelenik meg a hírfolyam, a bejelentkezés is akadozik",
-     "l": "https://pcforum.hu/hirek/31136/facebook-hirfolyam-nem-toltodik-be-bongeszoben-hiba",
-     "s": "PC Fórum",
-     "d": "2026-06-12T13:50:00+00:00",
-     "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/f/32/8af373f0adb597234a857712f01de/facebook-meta-wp--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>Magyar idő szerint kora péntek délután ismét súlyos működési zavar látszik fellépni a Facebook-on. A különböző netes fórumokon ugyanis rendesen megszaporodtak a panaszok, amikben a felhasználók arról számolnak be, hogy nem töltődik be hírfolyamuk a közösségi oldalon, vagy bejelentkezni sem tudnak oda.",
-     "plain": "Magyar idő szerint kora péntek délután ismét súlyos működési zavar látszik fellépni a Facebook-on. A különböző netes fórumokon ugyanis rendesen megszaporodtak a panaszok, amikben a felhasználók arról számolnak be, hogy nem töltődik be hírfo",
-     "img": "https://pcforum.hu/assets/pcforum.hashed/f/32/8af373f0adb597234a857712f01de/facebook-meta-wp--dyn--rss.jpeg"
     }
    ]
   }
