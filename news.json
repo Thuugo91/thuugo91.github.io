@@ -1,9 +1,45 @@
 {
- "updated": "2026-06-17T11:00:02.005404+00:00",
+ "updated": "2026-06-17T12:00:03.462324+00:00",
  "categories": [
   {
    "name": "🎮 Film, játék, tech (HU)",
    "items": [
+    {
+     "t": "Csúszik az iPhone Ultra, nem csúszik az iPhone Ultra, csúszik, nem csúszik...",
+     "l": "https://www.pcguru.hu/hirek/tech-csuszik-az-iphone-ultra-nem-csuszik-csuszik-nem-csuszik-tbr/101748",
+     "s": "PC Guru",
+     "d": "2026-06-17T12:00:00+00:00",
+     "sum": "Továbbra sem egyértelmű, hogy mikor mutatkozik be az Apple első hajtogatható iPhone-ja.",
+     "plain": "Továbbra sem egyértelmű, hogy mikor mutatkozik be az Apple első hajtogatható iPhone-ja.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/csuszik_az_iphone_ultra_nem_csuszik_az_iphone_ultra_csuszik_nem_csuszik..._1781687025_bcc2d3a1b41b8a1b7506.jpg"
+    },
+    {
+     "t": "Egy év alatt 20 millióan játszottak a PEAK-kel",
+     "l": "https://www.gamekapocs.hu/hir/93802/egy_ev_alatt_20_millioan_jatszottak_a_peak_kel",
+     "s": "Gamekapocs",
+     "d": "2026-06-17T12:00:00+00:00",
+     "sum": "A népszerű co-op mászós játék ugyan messze van már a korábbi csúcstól, azonban így is óriási sikernek számít az elmúlt egy év alatt nyújtott teljesítménye.",
+     "plain": "A népszerű co-op mászós játék ugyan messze van már a korábbi csúcstól, azonban így is óriási sikernek számít az elmúlt egy év alatt nyújtott teljesítménye.",
+     "img": ""
+    },
+    {
+     "t": "Úgy tűnik, hogy a Baldur's Gate 3 színészei benne lesznek az HBO sorozatban is",
+     "l": "https://www.gsplus.hu/jatekvilag/baldurs-gate-3-craig-mazin-sorozat-szineszek-szereposztas-hbo-383800.html",
+     "s": "GameStar",
+     "d": "2026-06-17T11:09:12+00:00",
+     "sum": "A jelek szerint Craig Mazin egyenként keresi fel a játék karakterei mögött álló hangokat.",
+     "plain": "A jelek szerint Craig Mazin egyenként keresi fel a játék karakterei mögött álló hangokat.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2411/28/baldur_s_gate_3_larian_studios_055328_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "[VIDEÓ] 25 éves Angelina Jolie Tomb Raiderje",
+     "l": "https://hu.ign.com/lara-croft-tomb-raider-1/112323/video-25-eves-angelina-jolie-tomb-raiderje",
+     "s": "IGN Hungary",
+     "d": "2026-06-17T11:00:35+00:00",
+     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/screenshot/default/270a044e-deb0-413b-8bd0-d7afa3086f57_zfd2.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />2001 júniusában mutatták be Angelina Jolie Tomb Raiderjét, ami ugyan egy darabig a legsikeresebb játékadaptáció volt, Jolie kritizálta, a riválisát játszó Daniel Craig pedig egyenesen gyűlölte. Lássuk, hogyan lett ebből ellentmondásos mozisiker!\n2001 júniusában mutatták be a Lara Croft: Tomb Raidert, ami ugyan egy darabig a legsikeresebb játékadaptáció volt, de Angelina Jolie kritizálta, a riválisát játszó Daniel Craig pedig egyenesen gyűlölte. Lássuk, hogyan lett ebből ellentmondásos mozisiker!",
+     "plain": "2001 júniusában mutatták be Angelina Jolie Tomb Raiderjét, ami ugyan egy darabig a legsikeresebb játékadaptáció volt, Jolie kritizálta, a riválisát játszó Daniel Craig pedig egyenesen gyűlölte. Lássuk, hogyan lett ebből ellentmondásos mozis",
+     "img": "https://sm.ign.com/ign_hu/screenshot/default/270a044e-deb0-413b-8bd0-d7afa3086f57_zfd2.jpg"
+    },
     {
      "t": "Nem is karriganre pályázott valójában a Falcons CS2 csapata?",
      "l": "https://www.pcguru.hu/hirek/cs2-counter-strike-iem-koln-2026-major-nem-is-karriganre-palyazott-valojaban-a-falcons-csapata-tbr/101745",
@@ -12,6 +48,15 @@
      "sum": "Várjunk csak, az a frozen miért néz ki úgy, mint aki megevett egy frozent?!",
      "plain": "Várjunk csak, az a frozen miért néz ki úgy, mint aki megevett egy frozent?!",
      "img": "https://www.pcguru.hu/images/news/2026-06/nem_is_karriganre_palyazott_valojaban_a_falcons_cs2_csapata_1781684657_c1781aec36085aa267b9.jpg"
+    },
+    {
+     "t": "Használat közben merevedik az új PlayStation kontroller gombja",
+     "l": "https://www.pcwplus.hu/pcwlite/hasznalat-kozben-merevedik-az-uj-playstation-kontroller-gombja-383793.html",
+     "s": "GameStar",
+     "d": "2026-06-17T10:33:29+00:00",
+     "sum": "Rossz az, aki rosszra gondol. Az új Sony fejlesztés megreformálná a haptikus visszajelzés rendszerét.",
+     "plain": "Rossz az, aki rosszra gondol. Az új Sony fejlesztés megreformálná a haptikus visszajelzés rendszerét.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2401/26/playstation_5_dualsense_095744_1_original_390x220_cover.jpg"
     },
     {
      "t": "Hirtelen felbukkant egy World of Warcraft projekt Camelot alcímmel",
@@ -234,8 +279,8 @@
      "l": "https://www.gamekapocs.hu/hir/93799/jovore_csuszik_az_outward_2_korai_hozzaferese",
      "s": "Gamekapocs",
      "d": "2026-06-17T07:00:00+00:00",
-     "sum": "A nyílt világú akció-RPG az eredeti tervek szerint július elején lépett volna early accessbe, most azonban nemcsak 2027-re csúszott a megjelenés, de most már konkrét dátum sincs.",
-     "plain": "A nyílt világú akció-RPG az eredeti tervek szerint július elején lépett volna early accessbe, most azonban nemcsak 2027-re csúszott a megjelenés, de most már konkrét dátum sincs.",
+     "sum": "A nyílt világú akció-RPG az eredeti tervek szerint július elején lépett volna early accessbe, most azonban nemcsak 2027-re csúszott a megjelenés, de  már konkrét dátum sincs.",
+     "plain": "A nyílt világú akció-RPG az eredeti tervek szerint július elején lépett volna early accessbe, most azonban nemcsak 2027-re csúszott a megjelenés, de már konkrét dátum sincs.",
      "img": ""
     },
     {
@@ -318,51 +363,6 @@
      "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/e/d4/05e2938aecfc15d3b9c2fe865474c/robot-injecting-human-with-syringe-by-chatgpt-1-cropped--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>Amerikai kutatók a napokban számoltak egy, a mesterséges intelligencia által tervezett oltás embereken történő kipróbálásának eredményeiről. A Cambridge-i Egyetem virológusai a gépi értelem által a Sarbeco koronavírus-család elleni védelemre kifejlesztett vakcinát teszteltek le mintegy három tucat önkéntesen, a most publikált eredményekkel.",
      "plain": "Amerikai kutatók a napokban számoltak egy, a mesterséges intelligencia által tervezett oltás embereken történő kipróbálásának eredményeiről. A Cambridge-i Egyetem virológusai a gépi értelem által a Sarbeco koronavírus-család elleni védelemr",
      "img": "https://pcforum.hu/assets/pcforum.hashed/e/d4/05e2938aecfc15d3b9c2fe865474c/robot-injecting-human-with-syringe-by-chatgpt-1-cropped--dyn--rss.jpeg"
-    },
-    {
-     "t": "Dália és a vörös könyv - kritika szülői szemmel a gyász és az önbizalom meséjéről",
-     "l": "https://kepernyoido.hu/dalia-es-a-voros-konyv-kritika-szuloi-szemmel-hbo-max-726",
-     "s": "GameStar",
-     "d": "2026-06-17T05:51:53+00:00",
-     "sum": "Dália apja meghalt. Hátrahagyott egy befejezetlen regényt. A lány pedig, aki sosem hitte magát elég jó írónak, egyszer csak a könyv lapjai közt találja magát. Mihez kezdjen egy ilyen mesével a szülő?",
-     "plain": "Dália apja meghalt. Hátrahagyott egy befejezetlen regényt. A lány pedig, aki sosem hitte magát elég jó írónak, egyszer csak a könyv lapjai közt találja magát. Mihez kezdjen egy ilyen mesével a szülő?",
-     "img": "https://i.cdn29.hu/apix_collect_c/kepernyoid/images_articles_260615_dalia-es-a-voros-konyv-kritika-szuloi-szemmel-a-gyaszfeldolgozasrol-szolo-meserol_100522_390x220_cover.jpg"
-    },
-    {
-     "t": "Hideo Kojima nagyon szereti az AI-t, de azért ő is tudja, hogy hol a határa",
-     "l": "https://www.gsplus.hu/hir/hideo-kojima-ai-mesterseges-intelligencia-nyilatkozat-383759.html",
-     "s": "GameStar",
-     "d": "2026-06-17T05:43:17+00:00",
-     "sum": "Na, akkor tisztázzuk végre, hogy Kojima mit is gondol a technológiáról, mert a mester kezd elveszni a saját álláspontjai között.",
-     "plain": "Na, akkor tisztázzuk végre, hogy Kojima mit is gondol a technológiáról, mert a mester kezd elveszni a saját álláspontjai között.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2305/31/hideo_kojima_090429_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Egy eltökélt rajongó már a GTA 6 előtt elkészíti a GTA 6-ot – természetesen AI-jal",
-     "l": "https://www.pcguru.hu/hirek/gta-6-ai-agents-grand-theft-auto-6-rockstar-games-gt-caliber-vice-city-sandbox-lucia-jason-mesterseges-intelligencia-unreal-engine-5-leecobo/101737",
-     "s": "PC Guru",
-     "d": "2026-06-17T05:40:00+00:00",
-     "sum": "Sokan szeretnének annyira magabiztosak lenni, mint Ziwen, aki a fejébe vette, hogy a mesterséges intelligencia segítségével legyőzi a Rockstar Games-t.",
-     "plain": "Sokan szeretnének annyira magabiztosak lenni, mint Ziwen, aki a fejébe vette, hogy a mesterséges intelligencia segítségével legyőzi a Rockstar Games-t.",
-     "img": "https://www.pcguru.hu/images/news/2026-06/egy_eltokelt_rajongo_mar_a_gta_6_elott_elkesziti_a_gta_6-ot__termeszetesen_ai-jal_1781674125_e4621b717d42a0365ef0.jpg"
-    },
-    {
-     "t": "A Honor X80 Pro Max egy hatalmas akkumulátorral és szélsebes gyorstöltéssel érkezik napokon belül",
-     "l": "https://www.pcwplus.hu/pcwlite/honor-x80-pro-max-megjelenes-kina-akkumulator-383747.html",
-     "s": "GameStar",
-     "d": "2026-06-17T05:34:16+00:00",
-     "sum": "A cég új csodája több szempontból is érdekes készülék lesz, de azok fogják imádni igazán, akik gyűlölnek a töltőkhöz rohangálni.",
-     "plain": "A cég új csodája több szempontból is érdekes készülék lesz, de azok fogják imádni igazán, akik gyűlölnek a töltőkhöz rohangálni.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/16/honor_x80_pro_max_092931_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Apák napján a PlayStation Plus is segíthet a közös játékban",
-     "l": "https://www.gsplus.hu/ingyen-jatekok/apak-napjan-a-playstation-plus-is-segithet-a-kozos-jatekban-383756.html",
-     "s": "GameStar",
-     "d": "2026-06-17T05:01:51+00:00",
-     "sum": "Versenyek, kooperatív káosz és családi kalandok várnak a katalógusban.",
-     "plain": "Versenyek, kooperatív káosz és családi kalandok várnak a katalógusban.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2212/28/playstation_plus_205849_1_original_390x220_cover.jpg"
     }
    ]
   }
