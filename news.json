@@ -1,9 +1,63 @@
 {
- "updated": "2026-06-17T08:00:07.133248+00:00",
+ "updated": "2026-06-17T09:00:05.826191+00:00",
  "categories": [
   {
    "name": "🎮 Film, játék, tech (HU)",
    "items": [
+    {
+     "t": "A Bungie üzent a Destiny 2 játékosoknak: használjátok ki az őrült bugot, amíg lehet!",
+     "l": "https://www.pcguru.hu/hirek/a-bungie-uzent-a-destiny-2-jatekosoknak-hasznaljatok-ki-az-orult-bugot-amig-lehet-tzeus/101743",
+     "s": "PC Guru",
+     "d": "2026-06-17T09:00:00+00:00",
+     "sum": "Isteni erőt kaptak a Guardianek, és a fejlesztők az áldásukat adták rá, legalábbis egy hétig.",
+     "plain": "Isteni erőt kaptak a Guardianek, és a fejlesztők az áldásukat adták rá, legalábbis egy hétig.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/a_bungie_uzent_a_destiny_2_jatekosoknak_hasznaljatok_ki_az_orult_bugot_amig_lehet_1781683743_36d8d889c76e2afb96fa.jpg"
+    },
+    {
+     "t": "És azt tudtad, hogy a Dragon Age írójától is megkaphattuk volna a Baldur's Gate 3-at?",
+     "l": "https://www.pcguru.hu/hirek/baldurs-gate-3-larian-studios-bioware-beamdog-dragon-age-david-gaider-wizards-of-the-coast-dungeons-and-dragons-crpg-divinity-leecobo/101747",
+     "s": "PC Guru",
+     "d": "2026-06-17T08:45:00+00:00",
+     "sum": "A BioWare társalapítója elárulta, hogy az első két rész felújítását jegyző Beamdog is szeretett volna lecsapni a folytatásra, siker esetén pedig David Gaider vethette volna papírra a forgatókönyvet.",
+     "plain": "A BioWare társalapítója elárulta, hogy az első két rész felújítását jegyző Beamdog is szeretett volna lecsapni a folytatásra, siker esetén pedig David Gaider vethette volna papírra a forgatókönyvet.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/es_azt_tudtad_hogy_a_dragon_age_irojatol_is_megkaphattuk_volna_a_baldurs_gate_3-at_1781685521_6dac8645169f18ad6ba6.jpg"
+    },
+    {
+     "t": "Harry Potter-hangulattal futott be a Hexed első, egész ígéretes előzetese",
+     "l": "https://www.pcguru.hu/hirek/hexed-elozetes-trailer-hailee-steinfeld-tinilany-boszorkany-harry-potter-hangulatu-marlasinger-/101746",
+     "s": "PC Guru",
+     "d": "2026-06-17T08:41:00+00:00",
+     "sum": "Tökéletes bekuckózós mozinak néz ki az idén ősszel érkező boszorkányos mese.",
+     "plain": "Tökéletes bekuckózós mozinak néz ki az idén ősszel érkező boszorkányos mese.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/harry_potter-hangulatu_kalandra_keszul_a_disney_igeretes_a_hexed_elso_elozetese_1781685369_b0e20e61c685fcd539f4.jpg"
+    },
+    {
+     "t": "Fritz!Box 4690 mesh teszt – ideje komolyan venni a Wi-Fi 7-et?",
+     "l": "https://www.pcwplus.hu/pcwlite/fritzbox-4690-mesh-teszt-ideje-komolyan-venni-a-wifi-7et-383780.html",
+     "s": "GameStar",
+     "d": "2026-06-17T08:30:47+00:00",
+     "sum": "Sok kérdőjel van az új Wi-Fi szabványt használó eszközök körül. Leteszteltünk egy ilyen mesh hálózatot és megmutatjuk, kinek és mikor érdemes rá váltania. Nem minden arany, ami fénylik.",
+     "plain": "Sok kérdőjel van az új Wi-Fi szabványt használó eszközök körül. Leteszteltünk egy ilyen mesh hálózatot és megmutatjuk, kinek és mikor érdemes rá váltania. Nem minden arany, ami fénylik.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/16/avm_fritz_box_4690_router_teszt_fritz_repeater_1700_wi_fi_7_otthoni_halozat_mesh_200551_17_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Klasszikus Star Trek-hangulatot áraszt magából a Strange New Worlds 4. évadának előzetese",
+     "l": "https://www.gsplus.hu/masvilag/star-trek-strange-new-worlds-star-trek-kulonos-uj-vilagok-star-trek-furcsa-uj-vilagok-4-evad-trailer-paramount-skyshowtime-383791.html",
+     "s": "GameStar",
+     "d": "2026-06-17T08:20:15+00:00",
+     "sum": "Egy utolsó előtti kalandra indul a U.S.S. Enterprise.",
+     "plain": "Egy utolsó előtti kalandra indul a U.S.S. Enterprise.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/17/star_trek_strange_new_worlds_star_trek_furcsa_uj_vilagok_091821_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Habár a Saros még a Housemarque szerint sem lett nagy siker, a stúdió a FromSoftware-éhez hasonló pályafutást vizionál",
+     "l": "https://hu.ign.com/housemarque/112322/habar-a-saros-meg-a-housemarque-szerint-sem-lett-nagy-siker-a-studio-a-fromsoftware-ehez-hasonlo-pal",
+     "s": "IGN Hungary",
+     "d": "2026-06-17T08:12:06+00:00",
+     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/photo/default/saros-1758748226254_mt1w.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nA finn csapat alapítója elmondta, hogy miben hasonlítanak a Darks Soulst és az Elden Ringet készítő japán stúdióhoz.",
+     "plain": "A finn csapat alapítója elmondta, hogy miben hasonlítanak a Darks Soulst és az Elden Ringet készítő japán stúdióhoz.",
+     "img": "https://sm.ign.com/ign_hu/photo/default/saros-1758748226254_mt1w.jpg"
+    },
     {
      "t": "World of Warcraft: Camelot – Ez lenne a várva várt Classic+?",
      "l": "https://www.pcguru.hu/hirek/world-of-warcraft-camelot-ez-lenne-a-varva-vart-classic-plus-szlav/101741",
@@ -309,60 +363,6 @@
      "sum": "<img src=\"https://sm.ign.com/t/ign_hu/screenshot/default/clancy-brown-1_uhw5.640.png\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nAz Xbox Game Studiosnál átalakulások zajlanak, és ennek egyik negatív hozománya lehet egy belsős stúdiója bezárása.",
      "plain": "Az Xbox Game Studiosnál átalakulások zajlanak, és ennek egyik negatív hozománya lehet egy belsős stúdiója bezárása.",
      "img": "https://sm.ign.com/ign_hu/screenshot/default/clancy-brown-1_uhw5.png"
-    },
-    {
-     "t": "Vezetőváltás történt az Xbox Game Studios élén is, távozik Craig Duncan és Louise O’Connor",
-     "l": "https://www.gamekapocs.hu/hir/93780/vezetovaltas_tortent_az_xbox_game_studios_elen_is_tavozik_craig_duncan_es_louise_o_connor",
-     "s": "Gamekapocs",
-     "d": "2026-06-15T18:30:00+00:00",
-     "sum": "A Microsoft Gaming két rendkívül fontos pozíciót betöltő embere, Craig Duncan, a stúdiócsoport vezetője, illetve Louise O’Connor, a chief of staff is távozik pozíciójából az Xbox Game Studios éléről.",
-     "plain": "A Microsoft Gaming két rendkívül fontos pozíciót betöltő embere, Craig Duncan, a stúdiócsoport vezetője, illetve Louise O’Connor, a chief of staff is távozik pozíciójából az Xbox Game Studios éléről.",
-     "img": ""
-    },
-    {
-     "t": "Részletek szivároghattak ki egy készülő többjátékos Witcher-játékról",
-     "l": "https://www.gamekapocs.hu/hir/93778/reszletek_szivaroghattak_ki_egy_keszulo_tobbjatekos_witcher_jatekrol",
-     "s": "Gamekapocs",
-     "d": "2026-06-15T18:00:00+00:00",
-     "sum": "Egy új pletyka alapján a CD Projekt Red egy még be nem jelentett többjátékos projekten dolgozik, ami az eddigi Witcher-játékoktól eltérően főleg a kooperatív élményről és a közös szörnyvadászatról szólna.",
-     "plain": "Egy új pletyka alapján a CD Projekt Red egy még be nem jelentett többjátékos projekten dolgozik, ami az eddigi Witcher-játékoktól eltérően főleg a kooperatív élményről és a közös szörnyvadászatról szólna.",
-     "img": ""
-    },
-    {
-     "t": "A LEGO piacra dob egy mutatós K-pop démonvadászok készletet, amelyből összerakhatjuk Derpy tigrist és Sussie-t, akik gyorsan a nézők kedvenceivé váltak",
-     "l": "https://hu.ign.com/k-pop-demonvadaszok/112287/a-lego-piacra-dob-egy-mutatos-k-pop-demonvadaszok-keszletet-amelybol-osszerakhatjuk-derpy-tigrist-es",
-     "s": "IGN Hungary",
-     "d": "2026-06-15T17:48:09+00:00",
-     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/screenshot/default/k-pop-1_g471.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nA LEGO meglovagolja a K-pop démonvadászok sikerét, mert piacra dob egy szettet, benne Derpyvel és Sussie-val.",
-     "plain": "A LEGO meglovagolja a K-pop démonvadászok sikerét, mert piacra dob egy szettet, benne Derpyvel és Sussie-val.",
-     "img": "https://sm.ign.com/ign_hu/screenshot/default/k-pop-1_g471.jpg"
-    },
-    {
-     "t": "Chris Evans megerősítette, hogy nem utoljára látjuk őt az MCU-ban a Bosszúállók: Doctor Doom ébredésében",
-     "l": "https://hu.ign.com/chris-evans/112286/chris-evans-megerositette-hogy-nem-utoljara-latjuk-ot-az-mcu-ban-a-bosszuallok-doctor-doom-ebredeseb",
-     "s": "IGN Hungary",
-     "d": "2026-06-15T17:04:02+00:00",
-     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/screenshot/default/av-doom-amkap-1_j9aa.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nA Bosszúállók: Doctor Doom ébredése egyik nagy visszatérője Chris Evans Steve Rogerse lesz, akit a sztár nyilatkozata alapján nem utoljára látunk az MCU-ban.",
-     "plain": "A Bosszúállók: Doctor Doom ébredése egyik nagy visszatérője Chris Evans Steve Rogerse lesz, akit a sztár nyilatkozata alapján nem utoljára látunk az MCU-ban.",
-     "img": "https://sm.ign.com/ign_hu/screenshot/default/av-doom-amkap-1_j9aa.jpg"
-    },
-    {
-     "t": "A nagy átalakítások közben távozik az Xbox Game Studios vezetője, és követi őt a videójátékos részleg egy másik kulcsfigurája is",
-     "l": "https://hu.ign.com/xbox-game-studios/112284/a-nagy-atalakitasok-kozben-tavozik-az-xbox-game-studios-vezetoje-es-koveti-ot-a-videojatekos-reszleg",
-     "s": "IGN Hungary",
-     "d": "2026-06-15T16:50:37+00:00",
-     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/screenshot/default/jbareham-181107-ply0818-00260_aabm.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nÚj fejes után kell néznie az Xbox stúdióit gondozó csapatnak.",
-     "plain": "Új fejes után kell néznie az Xbox stúdióit gondozó csapatnak.",
-     "img": "https://sm.ign.com/ign_hu/screenshot/default/jbareham-181107-ply0818-00260_aabm.jpg"
-    },
-    {
-     "t": "Egy szivárogtató felfedte, mikorra várhatjuk a God of War: Laufey megjelenését, és ha ez igaz, már nincs is annyira messze",
-     "l": "https://hu.ign.com/god-of-war-laufey/112285/egy-szivarogtato-felfedte-mikorra-varhatjuk-a-god-of-war-laufey-megjeleneset-es-ha-ez-igaz-mar-nincs",
-     "s": "IGN Hungary",
-     "d": "2026-06-15T16:18:12+00:00",
-     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/screenshot/default/godofwor-laufey-1_26yq.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nA God of War új epizódja a Laufey lesz, amelyre ha minden igaz, nem is kell olyan sokat várnunk.",
-     "plain": "A God of War új epizódja a Laufey lesz, amelyre ha minden igaz, nem is kell olyan sokat várnunk.",
-     "img": "https://sm.ign.com/ign_hu/screenshot/default/godofwor-laufey-1_26yq.jpg"
     }
    ]
   }
