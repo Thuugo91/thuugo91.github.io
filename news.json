@@ -1,9 +1,54 @@
 {
- "updated": "2026-06-17T04:00:06.367833+00:00",
+ "updated": "2026-06-17T05:00:05.292706+00:00",
  "categories": [
   {
    "name": "🎮 Film, játék, tech (HU)",
    "items": [
+    {
+     "t": "Döntött az EU: Nem fogja törvénnyel kötelezővé tenni a játékok működőképességének megőrzését",
+     "l": "https://pcforum.hu/hirek/31149/nem-lesz-stop-killing-games-torveny-az-eu-ban",
+     "s": "PC Fórum",
+     "d": "2026-06-17T04:45:00+00:00",
+     "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/5/38/4fea7bff4671fcfb97bc0b465465a/game-controller-evaporating-by-chatgpt-1-cropped--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>Az Európai Bizottság (EB) a hét elején kedvezőtlen hírrel szolgált az európai játékosok számára egy, az utóbbiak által indított kezdeményezés ügyében. A politikai szervezet ugyanis egyértelművé tette, hogy egyelőre nem tervez egy törvényi erejű szabályozást bevezetni annak érdekében, hogy a videójátékok készítőinek és kiadóinak kötelező legyen megőrizni termékeik működőképességét azok forgalmazási időszakán túl is.",
+     "plain": "Az Európai Bizottság (EB) a hét elején kedvezőtlen hírrel szolgált az európai játékosok számára egy, az utóbbiak által indított kezdeményezés ügyében. A politikai szervezet ugyanis egyértelművé tette, hogy egyelőre nem tervez egy törvényi e",
+     "img": "https://pcforum.hu/assets/pcforum.hashed/5/38/4fea7bff4671fcfb97bc0b465465a/game-controller-evaporating-by-chatgpt-1-cropped--dyn--rss.jpeg"
+    },
+    {
+     "t": "Új AI funkciókat vezetett be platformjain a Meta",
+     "l": "https://www.pcwplus.hu/pcwlite/uj-ai-funkciokat-vezetett-be-platformjain-a-met-383783.html",
+     "s": "GameStar",
+     "d": "2026-06-17T04:32:09+00:00",
+     "sum": "Az újítások célja, hogy gyorsabbá tegyék az információk gyűjtését.",
+     "plain": "Az újítások célja, hogy gyorsabbá tegyék az információk gyűjtését.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2510/01/meta_ai_183838_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Ingyen retteghetsz a világ legjobb aszimmetrikus horrorjátékában, ami ráadásul akciós is",
+     "l": "https://www.pcguru.hu/hirek/junius-22-ig-ingyenes-a-dead-by-daylight-behaviour-interactive-aszimmetrikus-horrorjatek-steam-szuletesnap-multiplayer-valve-pc-free-leecobo/101736",
+     "s": "PC Guru",
+     "d": "2026-06-17T04:30:00+00:00",
+     "sum": "A 10. születésnap alkalmából most egy fillér kifizetése nélkül ugorhattok fejest a Dead by Daylight borzalmaiba, nem mellesleg spórolhattok is a vásárlással.",
+     "plain": "A 10. születésnap alkalmából most egy fillér kifizetése nélkül ugorhattok fejest a Dead by Daylight borzalmaiba, nem mellesleg spórolhattok is a vásárlással.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/ingyen_retteghetsz_a_vilag_legjobb_aszimmetrikus_horrorjatekaban_ami_raadasul_akcios_is_1781669539_923775476338fb244efa.jpg"
+    },
+    {
+     "t": "Az év egyik legnagyobb tartalmi csomagjával készül a World of Warships az amerikai függetlenség 250. évfordulójára",
+     "l": "https://www.gsplus.hu/ingyen-jatekok/world-of-warships-frissites-wargaming-383758.html",
+     "s": "GameStar",
+     "d": "2026-06-17T04:22:56+00:00",
+     "sum": "Új kampány, különleges jutalmak és testreszabási lehetőségek érkeznek a játékba.",
+     "plain": "Új kampány, különleges jutalmak és testreszabási lehetőségek érkeznek a játékba.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/16/world_of_warships_155651_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "\"Erősen megcsappant az érdeklődés\" – Az Ori fejlesztője elmondta, szerinte mi a baj az Xboxszal az utóbbi években",
+     "l": "https://hu.ign.com/xbox-game-studios/112318/erosen-megcsappant-az-erdeklodes-az-ori-fejlesztoje-elmondta-szerinte-mi-a-baj-az-xboxszal-az-utobbi",
+     "s": "IGN Hungary",
+     "d": "2026-06-17T04:00:00+00:00",
+     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/screenshot/default/xbox-blob_awvz.640.png\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nAz Xbox bár a megújulás útjára lépett, de aggasztó hírek is érkeztek a stúdiói felől, és az Ori-játékok fejlesztője ennek kapcsán elmondta, mi a baj az Xboxszal mostanában.",
+     "plain": "Az Xbox bár a megújulás útjára lépett, de aggasztó hírek is érkeztek a stúdiói felől, és az Ori-játékok fejlesztője ennek kapcsán elmondta, mi a baj az Xboxszal mostanában.",
+     "img": "https://sm.ign.com/ign_hu/screenshot/default/xbox-blob_awvz.png"
+    },
     {
      "t": "Anya Taylor-Joy csatlakozott az új A Gyűrűk Ura-filmhez: Az első hivatalos kép kíséretében az is kiderült, kit fog eljátszani",
      "l": "https://hu.ign.com/lord-of-the-rings-the-hunt-for-gollum-munkacim/112292/anya-taylor-joy-csatlakozott-az-uj-a-gyuruk-ura-filmhez-az-elso-hivatalos-kep-kisereteben-az-is-kide",
@@ -203,15 +248,6 @@
      "img": "https://sm.ign.com/ign_hu/screenshot/default/ezgif-2b1cb262ed4344f3_w9kx.jpg"
     },
     {
-     "t": "A Capcom eltávolítja a Dragon’s Dogma 2 sokakat felháborító mikrotranzakcióit, miután bejelentették a játék kibővített változatát",
-     "l": "https://hu.ign.com/dragons-dogma-2-dark-arisen/112276/a-capcom-eltavolitja-a-dragons-dogma-2-sokakat-felhaborito-mikrotranzakcioit-miutan-bejelentettek-a",
-     "s": "IGN Hungary",
-     "d": "2026-06-15T12:59:00+00:00",
-     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/screenshot/default/blob_6rvx.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nNem mintha ezeket az apróságokat rákényszerítették volna a játékosokra, de olyan sok volt belőlük megjelenéskor, hogy rossz szájízt hagytak az ember szájában.",
-     "plain": "Nem mintha ezeket az apróságokat rákényszerítették volna a játékosokra, de olyan sok volt belőlük megjelenéskor, hogy rossz szájízt hagytak az ember szájában.",
-     "img": "https://sm.ign.com/ign_hu/screenshot/default/blob_6rvx.jpg"
-    },
-    {
      "t": "375 rétegű 3D NAND flash chipek gyártásába kezd az SK Hynix",
      "l": "https://pcforum.hu/hirek/31143/sk-hynix-375-retegu-3d-nand-flash-memoriachip-gyartas",
      "s": "PC Fórum",
@@ -327,42 +363,6 @@
      "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/9/7a/babd9da45eb8dc785c17043bcac40/windows-11-turbo-by-chatgpt-1-cropped--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>A Windows 11-ek a Microsoft által kedden kiadott havi foltcsomag részeként nem csak több, mint 200 sebezhetőség foltját, de egy kvázi titkos fejlesztést is megkaptak. Ez nem más, mint az ún. \"Low Latency Profile\" mód, aminek köszönhetően a rendszer működése bizonyos körülmények között az eddiginél sokkal gyorsabbá válhat.",
      "plain": "A Windows 11-ek a Microsoft által kedden kiadott havi foltcsomag részeként nem csak több, mint 200 sebezhetőség foltját, de egy kvázi titkos fejlesztést is megkaptak. Ez nem más, mint az ún. \"Low Latency Profile\" mód, aminek köszönhetően a ",
      "img": "https://pcforum.hu/assets/pcforum.hashed/9/7a/babd9da45eb8dc785c17043bcac40/windows-11-turbo-by-chatgpt-1-cropped--dyn--rss.jpeg"
-    },
-    {
-     "t": "Három biztonsági résen át is hackelik már a Windows-okat, azonnal foltozni kell őket",
-     "l": "https://pcforum.hu/hirek/31125/windows-keddi-foltcsomag-3-zero-day-sebezhetoseg",
-     "s": "PC Fórum",
-     "d": "2026-06-10T12:30:00+00:00",
-     "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/f/ed/1a759d251846d218f9192f8f3a093/hacker-with-laptop-by-chatgpt-1-cropped--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>A Microsoft kedden ismét igen tekintélyes mennyiségű hibát javított havi foltcsomagja részeként - aminek azonban van egy ennél aggasztóbb része is. A több mint kétszáz most lezárt sebezhetőség között ugyanis ezúttal három olyan is van, amiket hackerek már jelenleg is kihasználnak a Windows-zal működő gépek feltörésére.",
-     "plain": "A Microsoft kedden ismét igen tekintélyes mennyiségű hibát javított havi foltcsomagja részeként - aminek azonban van egy ennél aggasztóbb része is. A több mint kétszáz most lezárt sebezhetőség között ugyanis ezúttal három olyan is van, amik",
-     "img": "https://pcforum.hu/assets/pcforum.hashed/f/ed/1a759d251846d218f9192f8f3a093/hacker-with-laptop-by-chatgpt-1-cropped--dyn--rss.jpeg"
-    },
-    {
-     "t": "Mobi Fold: Összehajtható egér kiadását jelentette be a Logitech",
-     "l": "https://pcforum.hu/hirek/31124/logitech-mobi-fold-osszehajthato-mobil-eger",
-     "s": "PC Fórum",
-     "d": "2026-06-10T11:30:00+00:00",
-     "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/6/72/f90f39982c77173ca397fd085668c/mobi-fold-mouse--in-pocket-shared-by-logitech--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>A Logitech szerdán egy, az eddigiektől teljesen eltérő formátumú egér kiadását jelentett be. A vállalat új Mobi Fold eszközét ugyanis használaton kívül össze lehet hajtani egy olyan, az eredetinél jóval kisebb és laposabb formára, amiben akár könnyen zsebre is lehet vágni azt.",
-     "plain": "A Logitech szerdán egy, az eddigiektől teljesen eltérő formátumú egér kiadását jelentett be. A vállalat új Mobi Fold eszközét ugyanis használaton kívül össze lehet hajtani egy olyan, az eredetinél jóval kisebb és laposabb formára, amiben ak",
-     "img": "https://pcforum.hu/assets/pcforum.hashed/6/72/f90f39982c77173ca397fd085668c/mobi-fold-mouse--in-pocket-shared-by-logitech--dyn--rss.jpeg"
-    },
-    {
-     "t": "Akkora a memóriahiány, hogy már a mesterséges intelligencia szerverekbe is alig jut belőle",
-     "l": "https://pcforum.hu/hirek/31122/nvidia-vera-rubin-mesterseges-intelligencia-szerver-socamm2-96-gb-ram-modul",
-     "s": "PC Fórum",
-     "d": "2026-06-10T09:00:00+00:00",
-     "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/e/17/3f7798fd4aa1430a0f572c9350a12/jensen-huang-vera-rubin-stage-shared-by-nvidia--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>Bár az átlagos otthoni felhasználók már jó ideje nem - illetve csak aranyárban - tudnak RAM-ot venni a gépeikbe a mesterséges intelligenciás adatközpontok agyatlan építése miatt, lassan utóbbiak gazdái is elkezdik érezni a memóriahiány következményeit. A számukra a hardvert szállító Nvidia ugyanis saját maga is kénytelen egy komoly változtatást bevezetni következő generációs MI-s szerverkártyái tervezésébe.",
-     "plain": "Bár az átlagos otthoni felhasználók már jó ideje nem - illetve csak aranyárban - tudnak RAM-ot venni a gépeikbe a mesterséges intelligenciás adatközpontok agyatlan építése miatt, lassan utóbbiak gazdái is elkezdik érezni a memóriahiány köve",
-     "img": "https://pcforum.hu/assets/pcforum.hashed/e/17/3f7798fd4aa1430a0f572c9350a12/jensen-huang-vera-rubin-stage-shared-by-nvidia--dyn--rss.jpeg"
-    },
-    {
-     "t": "Elírtak egyetlen egy karaktert a Linux forráskódjában, óriási biztonsági rést ütött rajta",
-     "l": "https://pcforum.hu/hirek/31123/linux-cve-2026-23111-nf-tables-root-sebezhetoseg",
-     "s": "PC Fórum",
-     "d": "2026-06-10T07:30:00+00:00",
-     "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/f/b8/b8cc90ff2de2ae70544b0efa64bbc/linux-tux-network-packet-inspection-by-chatgpt-1-extended-cropped--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>Biztonsági kutatók a hét elején egy újabb súlyos sebezhetőséget lepleztek le a Linux kernelben, aminek kihasználásával támadók a legmagasabb, root jogosultságokra tehetnek szert a nyílt forrású rendszerben. A sérülékenység különlegessége, hogy azt mindössze egyetlen egy karakter eltévesztése okozta a kernel forrásában.",
-     "plain": "Biztonsági kutatók a hét elején egy újabb súlyos sebezhetőséget lepleztek le a Linux kernelben, aminek kihasználásával támadók a legmagasabb, root jogosultságokra tehetnek szert a nyílt forrású rendszerben. A sérülékenység különlegessége, h",
-     "img": "https://pcforum.hu/assets/pcforum.hashed/f/b8/b8cc90ff2de2ae70544b0efa64bbc/linux-tux-network-packet-inspection-by-chatgpt-1-extended-cropped--dyn--rss.jpeg"
     }
    ]
   }
