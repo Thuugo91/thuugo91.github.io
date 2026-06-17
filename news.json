@@ -1,9 +1,27 @@
 {
- "updated": "2026-06-17T10:00:07.275240+00:00",
+ "updated": "2026-06-17T11:00:02.005404+00:00",
  "categories": [
   {
    "name": "🎮 Film, játék, tech (HU)",
    "items": [
+    {
+     "t": "Nem is karriganre pályázott valójában a Falcons CS2 csapata?",
+     "l": "https://www.pcguru.hu/hirek/cs2-counter-strike-iem-koln-2026-major-nem-is-karriganre-palyazott-valojaban-a-falcons-csapata-tbr/101745",
+     "s": "PC Guru",
+     "d": "2026-06-17T11:00:00+00:00",
+     "sum": "Várjunk csak, az a frozen miért néz ki úgy, mint aki megevett egy frozent?!",
+     "plain": "Várjunk csak, az a frozen miért néz ki úgy, mint aki megevett egy frozent?!",
+     "img": "https://www.pcguru.hu/images/news/2026-06/nem_is_karriganre_palyazott_valojaban_a_falcons_cs2_csapata_1781684657_c1781aec36085aa267b9.jpg"
+    },
+    {
+     "t": "Hirtelen felbukkant egy World of Warcraft projekt Camelot alcímmel",
+     "l": "https://www.gsplus.hu/hir/world-of-warcraft-classic-plus-camelot-mmorpg-blizzard-383798.html",
+     "s": "GameStar",
+     "d": "2026-06-17T10:25:29+00:00",
+     "sum": "A Classic+ izgalom a tetőfokára hágott, ahogy az adatbányászok rátaláltak egy teljesen új WoW verzióra.",
+     "plain": "A Classic+ izgalom a tetőfokára hágott, ahogy az adatbányászok rátaláltak egy teljesen új WoW verzióra.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2602/07/world_of_warcraft_classic_mmorpg_103607_1_original_390x220_cover.jpg"
+    },
     {
      "t": "Megkeményedik, ha sokat játszol vele! Tejesen abszurd a Sony új kontroller-szabadalma",
      "l": "https://www.pcguru.hu/hirek/megkemenyedik-ha-sokat-jatszol-vele-teljesen-abszurd-a-sony-uj-kontroller-szabadalma/101744",
@@ -345,24 +363,6 @@
      "sum": "Versenyek, kooperatív káosz és családi kalandok várnak a katalógusban.",
      "plain": "Versenyek, kooperatív káosz és családi kalandok várnak a katalógusban.",
      "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2212/28/playstation_plus_205849_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Döntött az EU: Nem fogja törvénnyel kötelezővé tenni a játékok működőképességének megőrzését",
-     "l": "https://pcforum.hu/hirek/31149/nem-lesz-stop-killing-games-torveny-az-eu-ban",
-     "s": "PC Fórum",
-     "d": "2026-06-17T04:45:00+00:00",
-     "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/5/38/4fea7bff4671fcfb97bc0b465465a/game-controller-evaporating-by-chatgpt-1-cropped--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>Az Európai Bizottság (EB) a hét elején kedvezőtlen hírrel szolgált az európai játékosok számára egy, az utóbbiak által indított kezdeményezés ügyében. A politikai szervezet ugyanis egyértelművé tette, hogy egyelőre nem tervez egy törvényi erejű szabályozást bevezetni annak érdekében, hogy a videójátékok készítőinek és kiadóinak kötelező legyen megőrizni termékeik működőképességét azok forgalmazási időszakán túl is.",
-     "plain": "Az Európai Bizottság (EB) a hét elején kedvezőtlen hírrel szolgált az európai játékosok számára egy, az utóbbiak által indított kezdeményezés ügyében. A politikai szervezet ugyanis egyértelművé tette, hogy egyelőre nem tervez egy törvényi e",
-     "img": "https://pcforum.hu/assets/pcforum.hashed/5/38/4fea7bff4671fcfb97bc0b465465a/game-controller-evaporating-by-chatgpt-1-cropped--dyn--rss.jpeg"
-    },
-    {
-     "t": "Új AI funkciókat vezetett be platformjain a Meta",
-     "l": "https://www.pcwplus.hu/pcwlite/uj-ai-funkciokat-vezetett-be-platformjain-a-met-383783.html",
-     "s": "GameStar",
-     "d": "2026-06-17T04:32:09+00:00",
-     "sum": "Az újítások célja, hogy gyorsabbá tegyék az információk gyűjtését.",
-     "plain": "Az újítások célja, hogy gyorsabbá tegyék az információk gyűjtését.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2510/01/meta_ai_183838_1_original_390x220_cover.jpg"
     }
    ]
   }
