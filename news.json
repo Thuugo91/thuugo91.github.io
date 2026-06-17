@@ -1,9 +1,36 @@
 {
- "updated": "2026-06-17T13:00:03.801245+00:00",
+ "updated": "2026-06-17T14:00:01.951811+00:00",
  "categories": [
   {
    "name": "🎮 Film, játék, tech (HU)",
    "items": [
+    {
+     "t": "Az emberek nem kérnek a Marathonból, a Destiny 2-ből viszont annál inkább",
+     "l": "https://www.pcguru.hu/hirek/destiny-2-marathon-bungie-steam-monument-of-triumph-sony-extraction-shooter-mmo-fps-pc-valve-live-service-halo-leecobo/101752",
+     "s": "PC Guru",
+     "d": "2026-06-17T14:00:00+00:00",
+     "sum": "Az elmúlt napok steames játékosszámai egyértelműen bizonyítják, hogy a nem túl sikeres extraction shooter helyett inkább a Destiny 3-at kellett volna elkészítenie a Bungie-nak.",
+     "plain": "Az elmúlt napok steames játékosszámai egyértelműen bizonyítják, hogy a nem túl sikeres extraction shooter helyett inkább a Destiny 3-at kellett volna elkészítenie a Bungie-nak.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/az_emberek_nem_kernek_a_marathonbol_a_destiny_2-bol_viszont_annal_inkabb_1781689257_ec9e6a4938c27768c36e.jpg"
+    },
+    {
+     "t": "10 percig mozog az Atelier Karia: The Night Kingdom & the Guide of Memories",
+     "l": "https://www.gamekapocs.hu/hir/93803/10_percig_mozog_az_atelier_karia_the_night_kingdom_the_guide_of_memories",
+     "s": "Gamekapocs",
+     "d": "2026-06-17T14:00:00+00:00",
+     "sum": "A Gust alkimista sorozata új epizóddal bővül jövőre, de már most több érdekességet és részletet is megtudhattunk róla, sőt még egy kis gameplayt is kaptunk.",
+     "plain": "A Gust alkimista sorozata új epizóddal bővül jövőre, de már most több érdekességet és részletet is megtudhattunk róla, sőt még egy kis gameplayt is kaptunk.",
+     "img": ""
+    },
+    {
+     "t": "Ha most tényleg kicsapják a Bungie felét, akkor ennyit a Destiny 3-as álmokról",
+     "l": "https://www.gsplus.hu/hir/bungie-playstation-sony-destiny-ha-most-tenyleg-kicsapjak-a-bungie-felet-akkor-ennyit-a-destiny-3as-almokrol-383803.html",
+     "s": "GameStar",
+     "d": "2026-06-17T13:03:19+00:00",
+     "sum": "Egy belsős információ szerint a Sony még a nyáron kirúgja a Bungie fejlesztőinek felét.",
+     "plain": "Egy belsős információ szerint a Sony még a nyáron kirúgja a Bungie fejlesztőinek felét.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2207/15/destiny_2_bungie_213041_1_original_390x220_cover.jpg"
+    },
     {
      "t": "Elárasztották a Steam Next Festet az mesterséges intelligenciával készített játékok",
      "l": "https://www.pcguru.hu/hirek/elarasztottak-a-steam-next-festet-a-mesterseges-intelligenciaval-keszitett-jatekok-szlav/101750",
@@ -12,6 +39,15 @@
      "sum": "A játékosok egyre gyanakvóbbak, ahogy a Steam demófesztiválján az alkotók ötöde ismerte el, hogy AI segítségével készítették a játékukat.",
      "plain": "A játékosok egyre gyanakvóbbak, ahogy a Steam demófesztiválján az alkotók ötöde ismerte el, hogy AI segítségével készítették a játékukat.",
      "img": "https://www.pcguru.hu/images/news/2026-06/elarasztottak_a_steam_next_festet_az_mesterseges_intelligenciaval_keszitett_jatekok_1781687296_74d2be430ce8f71eb727.jpg"
+    },
+    {
+     "t": "Kínában Dwayne Johnson fejével verik át a Teslák kameráit",
+     "l": "https://www.pcwplus.hu/pcwlite/dwayne-johnson-tesla-onvezetes-kamera-figura-383796.html",
+     "s": "GameStar",
+     "d": "2026-06-17T12:36:21+00:00",
+     "sum": "Amikor néha napján a Tesla az utasok és más sofőrök biztonságára is gondol, akkor a tulajok találják meg a rendszer gyenge pontját.",
+     "plain": "Amikor néha napján a Tesla az utasok és más sofőrök biztonságára is gondol, akkor a tulajok találják meg a rendszer gyenge pontját.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2412/06/tesla_model_3_123140_1_original_390x220_cover.jpg"
     },
     {
      "t": "Eastwood beájulna, ebben a filmben dinoszauruszok lepik el a vadnyugatot",
@@ -30,15 +66,6 @@
      "sum": "A fejlesztők elképzelései meglehetősen szilárd alapokon nyugszanak, leszámítva egy dolgot, amit játékmenet bemutató nélkül nehéz igazán értelmezni.",
      "plain": "A fejlesztők elképzelései meglehetősen szilárd alapokon nyugszanak, leszámítva egy dolgot, amit játékmenet bemutató nélkül nehéz igazán értelmezni.",
      "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/17/guild_wars_3_mmorpg_133329_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Mike Myers azt állítja, hogy igen, lesz Austin Powers 4.",
-     "l": "https://hu.ign.com/austin-powers-4/112327/mike-myers-azt-allitja-hogy-igen-lesz-austin-powers-4",
-     "s": "IGN Hungary",
-     "d": "2026-06-17T12:01:46+00:00",
-     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/screenshot/default/blob_gymv.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nA James Bondot parodizáló ügynök utolsó filmjét 2002-ben mutatták be, de még mindig nem halt meg a remény, hogy elkészül a folytatás.",
-     "plain": "A James Bondot parodizáló ügynök utolsó filmjét 2002-ben mutatták be, de még mindig nem halt meg a remény, hogy elkészül a folytatás.",
-     "img": "https://sm.ign.com/ign_hu/screenshot/default/blob_gymv.jpg"
     },
     {
      "t": "Csúszik az iPhone Ultra, nem csúszik az iPhone Ultra, csúszik, nem csúszik...",
@@ -84,15 +111,6 @@
      "sum": "A jelek szerint Craig Mazin egyenként keresi fel a játék karakterei mögött álló hangokat.",
      "plain": "A jelek szerint Craig Mazin egyenként keresi fel a játék karakterei mögött álló hangokat.",
      "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2411/28/baldur_s_gate_3_larian_studios_055328_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "[VIDEÓ] 25 éves Angelina Jolie Tomb Raiderje",
-     "l": "https://hu.ign.com/lara-croft-tomb-raider-1/112323/video-25-eves-angelina-jolie-tomb-raiderje",
-     "s": "IGN Hungary",
-     "d": "2026-06-17T11:00:35+00:00",
-     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/screenshot/default/270a044e-deb0-413b-8bd0-d7afa3086f57_zfd2.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />2001 júniusában mutatták be Angelina Jolie Tomb Raiderjét, ami ugyan egy darabig a legsikeresebb játékadaptáció volt, Jolie kritizálta, a riválisát játszó Daniel Craig pedig egyenesen gyűlölte. Lássuk, hogyan lett ebből ellentmondásos mozisiker!\n2001 júniusában mutatták be a Lara Croft: Tomb Raidert, ami ugyan egy darabig a legsikeresebb játékadaptáció volt, de Angelina Jolie kritizálta, a riválisát játszó Daniel Craig pedig egyenesen gyűlölte. Lássuk, hogyan lett ebből ellentmondásos mozisiker!",
-     "plain": "2001 júniusában mutatták be Angelina Jolie Tomb Raiderjét, ami ugyan egy darabig a legsikeresebb játékadaptáció volt, Jolie kritizálta, a riválisát játszó Daniel Craig pedig egyenesen gyűlölte. Lássuk, hogyan lett ebből ellentmondásos mozis",
-     "img": "https://sm.ign.com/ign_hu/screenshot/default/270a044e-deb0-413b-8bd0-d7afa3086f57_zfd2.jpg"
     },
     {
      "t": "Nem is karriganre pályázott valójában a Falcons CS2 csapata?",
@@ -158,15 +176,6 @@
      "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/17/siri_090113_1_original_390x220_cover.jpg"
     },
     {
-     "t": "Zendülés: Magyar szinkronos előzetest kapott Jason Statham következő akciófilmje, ezúttal egy konténerhajó fedélzetén csinálja ki a rosszfiúkat",
-     "l": "https://hu.ign.com/zendules/112324/zendules-magyar-szinkronos-elozetest-kapott-jason-statham-kovetkezo-akciofilmje-ezuttal-egy-kontener",
-     "s": "IGN Hungary",
-     "d": "2026-06-17T09:06:46+00:00",
-     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/screenshot/default/blob_n3zy.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nA film rendezője láthatóan vonzódik a méretes járművekhez, mert a Gerard Butler főszereplésével készült A gép is az ő műve.",
-     "plain": "A film rendezője láthatóan vonzódik a méretes járművekhez, mert a Gerard Butler főszereplésével készült A gép is az ő műve.",
-     "img": "https://sm.ign.com/ign_hu/screenshot/default/blob_n3zy.jpg"
-    },
-    {
      "t": "Súlyos pénzügyi válságba került a Life is Strange alkotója",
      "l": "https://www.gsplus.hu/uzlet/dont-nod-tencent-penzugyi-gondok-383795.html",
      "s": "GameStar",
@@ -228,15 +237,6 @@
      "sum": "Egy utolsó előtti kalandra indul a U.S.S. Enterprise.",
      "plain": "Egy utolsó előtti kalandra indul a U.S.S. Enterprise.",
      "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/17/star_trek_strange_new_worlds_star_trek_furcsa_uj_vilagok_091821_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Habár a Saros még a Housemarque szerint sem lett nagy siker, a stúdió a FromSoftware-éhez hasonló pályafutást vizionál",
-     "l": "https://hu.ign.com/housemarque/112322/habar-a-saros-meg-a-housemarque-szerint-sem-lett-nagy-siker-a-studio-a-fromsoftware-ehez-hasonlo-pal",
-     "s": "IGN Hungary",
-     "d": "2026-06-17T08:12:06+00:00",
-     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/photo/default/saros-1758748226254_mt1w.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nA finn csapat alapítója elmondta, hogy miben hasonlítanak a Darks Soulst és az Elden Ringet készítő japán stúdióhoz.",
-     "plain": "A finn csapat alapítója elmondta, hogy miben hasonlítanak a Darks Soulst és az Elden Ringet készítő japán stúdióhoz.",
-     "img": "https://sm.ign.com/ign_hu/photo/default/saros-1758748226254_mt1w.jpg"
     },
     {
      "t": "World of Warcraft: Camelot – Ez lenne a várva várt Classic+?",
@@ -311,15 +311,6 @@
      "img": "https://i.cdn29.hu/apix_collect_c/kepernyoid/images_articles_260617_stop-destroying-videogames-eu-digitalis-jatek_090935_390x220_cover.jpg"
     },
     {
-     "t": "A Shrek 5. új előzetesével finoman szólva sincsenek megelégedve a rajongók, és ezzel láthatóan a gyártó stúdió is tisztában van",
-     "l": "https://hu.ign.com/shrek-5/112321/a-shrek-5-uj-elozetesevel-finoman-szolva-sincsenek-megelegedve-a-rajongok-es-ezzel-lathatoan-a-gyart",
-     "s": "IGN Hungary",
-     "d": "2026-06-17T07:07:11+00:00",
-     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/screenshot/default/blob_g3kw.640.jpg\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />\nTöbb mint 15 év után folytatódik a klasszikus meséket parodizáló, animációs filmszéria, viszont sokan kiakadtak az új rész egy bizonyos aspektusa miatt.",
-     "plain": "Több mint 15 év után folytatódik a klasszikus meséket parodizáló, animációs filmszéria, viszont sokan kiakadtak az új rész egy bizonyos aspektusa miatt.",
-     "img": "https://sm.ign.com/ign_hu/screenshot/default/blob_g3kw.jpg"
-    },
-    {
      "t": "Siralmas szezont zárt a League of Legends amerikai profiligája",
      "l": "https://www.gsplus.hu/esport/league-of-legends-lcs-esport-spring-split-2026-nezettseg-moba-riot-games-383745.html",
      "s": "GameStar",
@@ -338,15 +329,6 @@
      "img": ""
     },
     {
-     "t": "[KRITIKA] Anyai ösztön: A Taylor Parker-ügy - Sokkoló film egy nőről, aki azt állítja, most szült az autójában, de a bébi nem az övé...",
-     "l": "https://hu.ign.com/anyai-oszton-a-taylor-parker-ugy/112320/kritika-anyai-oszton-a-taylor-parker-ugy-sokkolo-film-egy-norol-aki-azt-allitja-most-szult-az-autoja",
-     "s": "IGN Hungary",
-     "d": "2026-06-17T06:45:14+00:00",
-     "sum": "<img src=\"https://sm.ign.com/t/ign_hu/screenshot/default/kepernyofoto-2026-06-17-84150_wgg5.640.png\" width=\"120\" hspace=\"5\" alt=\"\" vspace=\"5\" align=\"left\" />Hamis a baba\nA Netflix nézettségi listájára ugrott az a sokkoló dokumentumfilm, amely egy olyan nőről szól, aki azt állítja, hogy most szült egy kocsiban, ám sem a baba, sem az őt beborító vér nem az övé.",
-     "plain": "Hamis a baba A Netflix nézettségi listájára ugrott az a sokkoló dokumentumfilm, amely egy olyan nőről szól, aki azt állítja, hogy most szült egy kocsiban, ám sem a baba, sem az őt beborító vér nem az övé.",
-     "img": "https://sm.ign.com/ign_hu/screenshot/default/kepernyofoto-2026-06-17-84150_wgg5.png"
-    },
-    {
      "t": "Medic: Pacific War próbakör",
      "l": "https://www.gamekapocs.hu/cikk/5173/medic_pacific_war_probakor",
      "s": "Gamekapocs",
@@ -363,6 +345,24 @@
      "sum": "A Microsoft megosztotta, milyen alkotásokra számíthatnak az előfizetők június második felében – gördeszkákon gurulnak be a szolgáltatásba a Vanguard katonái.",
      "plain": "A Microsoft megosztotta, milyen alkotásokra számíthatnak az előfizetők június második felében – gördeszkákon gurulnak be a szolgáltatásba a Vanguard katonái.",
      "img": "https://www.pcguru.hu/images/news/2026-06/egy_kozepes_call_of_duty_lesz_a_game_pass_uj_erkezoinek_csucspontja_1781678018_128e842f67167da632d0.jpg"
+    },
+    {
+     "t": "Két új vállalható árú mechanikus billentyűzettel is előállt a Keychron, mindkettő komoly üzemidőt ígér",
+     "l": "https://www.pcwplus.hu/pcwlite/keychron-mechanikus-billentyuzet-k8-k2-ultra-383750.html",
+     "s": "GameStar",
+     "d": "2026-06-17T06:31:46+00:00",
+     "sum": "A K2 Ultra 8K és a K8 Ultra 8K a gamerek és irodai dolgozók kedvencei lehetnek elegáns kiépítésüknek, és strapabíró akkumulátoraiknak köszönhetően.",
+     "plain": "A K2 Ultra 8K és a K8 Ultra 8K a gamerek és irodai dolgozók kedvencei lehetnek elegáns kiépítésüknek, és strapabíró akkumulátoraiknak köszönhetően.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/16/keychron_billentyuzet_093357_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Ezt a játékot a világ egyik legismertebb animéje se tudja megmenteni",
+     "l": "https://www.gsplus.hu/hir/the-first-descendant-evangelion-collab-frissites-tps-nexon-383743.html",
+     "s": "GameStar",
+     "d": "2026-06-17T06:21:10+00:00",
+     "sum": "Mióta Yoko Taro került az Evangelion élére csak úgy záporoznak a kollaborációs projektek.",
+     "plain": "Mióta Yoko Taro került az Evangelion élére csak úgy záporoznak a kollaborációs projektek.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/16/the_first_descendant_evangelion_074544_1_original_390x220_cover.jpg"
     }
    ]
   }
