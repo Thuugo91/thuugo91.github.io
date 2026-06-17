@@ -1,9 +1,99 @@
 {
- "updated": "2026-06-17T15:00:03.563833+00:00",
+ "updated": "2026-06-17T16:00:03.269230+00:00",
  "categories": [
   {
    "name": "🎮 Film, játék, tech (HU)",
    "items": [
+    {
+     "t": "Eredetileg így nézett volna ki Shrek, és hát elég horrorisztikus volt",
+     "l": "https://www.pcguru.hu/hirek/eredetileg-igy-nezett-volna-ki-shrek-es-hat-eleg-horrorisztikus-volt-marlasinger/101751",
+     "s": "PC Guru",
+     "d": "2026-06-17T16:00:00+00:00",
+     "sum": "Egy több mint harmincéves tesztanimáció mutatja meg, milyen lett volna a DreamWorks ikonikus ogréja, mielőtt teljesen újratervezték.",
+     "plain": "Egy több mint harmincéves tesztanimáció mutatja meg, milyen lett volna a DreamWorks ikonikus ogréja, mielőtt teljesen újratervezték.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/igy_nezett_volna_ki_az_eredeti_shrek_es_hat_eleg_ijeszto__1781687298_35625e98b55bfe179dcf.jpg"
+    },
+    {
+     "t": "Holnaptól ingyenesen lehet PS5 és Xbox Series X/S verzióra váltani a GTA 5-ben",
+     "l": "https://www.gamekapocs.hu/hir/93807/holnaptol_ingyenesen_lehet_ps5_es_xbox_series_x_s_verziora_valtani_a_gta_5_ben",
+     "s": "Gamekapocs",
+     "d": "2026-06-17T15:42:00+00:00",
+     "sum": "A Rockstar Games a mai The Kortz Center Heist felvezetése mellett egy hivatalos bejelentést is tett, úgy tűnik a felhasználók holnaptól ingyen válthatnak a GTA 5 modernebb változataira konzolokon és PC-n egyaránt.",
+     "plain": "A Rockstar Games a mai The Kortz Center Heist felvezetése mellett egy hivatalos bejelentést is tett, úgy tűnik a felhasználók holnaptól ingyen válthatnak a GTA 5 modernebb változataira konzolokon és PC-n egyaránt.",
+     "img": ""
+    },
+    {
+     "t": "Kövezzetek meg, de még a végén jó lesz a wannabe Titanfall 3",
+     "l": "https://www.pcguru.hu/hirek/kovezzetek-meg-de-meg-a-vegen-jo-lesz-a-wannabe-titanfall-3-szlav/101757",
+     "s": "PC Guru",
+     "d": "2026-06-17T15:30:00+00:00",
+     "sum": "Milyen lesz az a játék, ami olyan címekből lopja össze MINDEN elemét, mint a Titanfall, a Halo és a Portal? Sajnálom, hogy ezt kell mondanom, de kifejezetten jó!",
+     "plain": "Milyen lesz az a játék, ami olyan címekből lopja össze MINDEN elemét, mint a Titanfall, a Halo és a Portal? Sajnálom, hogy ezt kell mondanom, de kifejezetten jó!",
+     "img": "https://www.pcguru.hu/images/news/2026-06/kovezzetek_meg_de_meg_a_vegen_jo_lesz_a_wannabe_titanfall_3_1781693027_2dbefea6a734287c9a31.jpg"
+    },
+    {
+     "t": "Pár nap és végleg lelövik a Battlefield: Hardline konzolos szervereit",
+     "l": "https://www.gamekapocs.hu/hir/93806/par_nap_es_vegleg_lelovik_a_battlefield_hardline_konzolos_szervereit",
+     "s": "Gamekapocs",
+     "d": "2026-06-17T15:30:00+00:00",
+     "sum": "Különös egy példánya a Hardline a Battlefield-sorozatnak. A rabló-pandúros rész nem nevezhető éppenséggel tragikusnak, de messze volt attól, amit a rajongók elvártak a frencsájztól.",
+     "plain": "Különös egy példánya a Hardline a Battlefield-sorozatnak. A rabló-pandúros rész nem nevezhető éppenséggel tragikusnak, de messze volt attól, amit a rajongók elvártak a frencsájztól.",
+     "img": ""
+    },
+    {
+     "t": "Tom Holland egy félmondattal tisztázta, hogy elvette-e Zendayát",
+     "l": "https://www.gsplus.hu/masvilag/tom-holland-egy-felmondattal-tisztazta-hogy-elvettee-zendayat-383810.html",
+     "s": "GameStar",
+     "d": "2026-06-17T15:20:33+00:00",
+     "sum": "A színész nem akart többet mondani az esküvőről.",
+     "plain": "A színész nem akart többet mondani az esküvőről.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2501/08/tom_holland_zendaya_081941_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Gothic Remake teszt",
+     "l": "https://www.gamekapocs.hu/cikk/5181/gothic_remake_teszt",
+     "s": "Gamekapocs",
+     "d": "2026-06-17T15:20:08+00:00",
+     "sum": "Néhány RPG az egész műfajra nyomott hagyott, és bár a nagy nevek mellett a Gothic fénye elhalványult az utóbbi évtizedekben, a 2001-es klasszikus világa soha nem hajt fejet a játékosok komfortérzete előtt. Igazi hőssé válni nehéz, a veszélyérzet valós - e szellemiségét a Remake is átvette.",
+     "plain": "Néhány RPG az egész műfajra nyomott hagyott, és bár a nagy nevek mellett a Gothic fénye elhalványult az utóbbi évtizedekben, a 2001-es klasszikus világa soha nem hajt fejet a játékosok komfortérzete előtt. Igazi hőssé válni nehéz, a veszély",
+     "img": ""
+    },
+    {
+     "t": "Ez is hiányzik a Windowsból - ezek a legjobb virtuális adattárolók",
+     "l": "https://www.pcwplus.hu/pcwlite/ez-is-hianyzik-a-windowsbol-ezek-a-legjobb-virtualis-adattarolok-382601.html",
+     "s": "GameStar",
+     "d": "2026-06-17T15:15:28+00:00",
+     "sum": "Számtalan esetben lehet szükség virtuális adattárolóra - megmutatjuk a legjobb segédprogramokat.",
+     "plain": "Számtalan esetben lehet szükség virtuális adattárolóra - megmutatjuk a legjobb segédprogramokat.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2605/27/adattarolas_120024_4_original_390x220_cover.jpg"
+    },
+    {
+     "t": "INGYEN kapod meg a next-gen GTA 5-öt, ha előző generációs verziód van!",
+     "l": "https://www.pcguru.hu/hirek/gta-5-grand-theft-auto-ingyen-free-update-ps4-xone-rockstar-games-los-santos-los-angeles-san-andreas-varos-pc-guru-video-sorozat-britpopper/101768",
+     "s": "PC Guru",
+     "d": "2026-06-17T15:15:00+00:00",
+     "sum": "A Rockstar bejelentette, hogy ha a GTA 5-öt pre-gen konzolra vetted meg, akkor holnaptól ingyen megszerezheted a legfrissebb verziót.",
+     "plain": "A Rockstar bejelentette, hogy ha a GTA 5-öt pre-gen konzolra vetted meg, akkor holnaptól ingyen megszerezheted a legfrissebb verziót.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/ingyen_kapjak_meg_a_gta_5-ot_azok_akiknek_elozo_generacios_verzio_van_meg_1781709136_8721b5ab4ef5a205b02f.jpg"
+    },
+    {
+     "t": "Elindult a GOG nyári vására, több ezer játék kapott kedvezményt",
+     "l": "https://www.gsplus.hu/ingyen-jatekok/elindult-a-gog-nyari-vasara-tobb-ezer-jatek-kapott-kedvezmenyt-383824.html",
+     "s": "GameStar",
+     "d": "2026-06-17T15:10:10+00:00",
+     "sum": "A Kena: Bridge of Spirits is megérkezett a kínálatba.",
+     "plain": "A Kena: Bridge of Spirits is megérkezett a kínálatba.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/17/gog_170233_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Nem marad el az augusztus 20-i tűzijáték, de Nagy Ervin szerint idén kisebb és olcsóbb show jöhet",
+     "l": "https://www.gsplus.hu/elet/nem-marad-el-az-augusztus-20i-tuzijatek-de-nagy-ervin-szerint-iden-kisebb-es-olcsobb-show-johet-383809.html",
+     "s": "GameStar",
+     "d": "2026-06-17T15:02:44+00:00",
+     "sum": "A kultúráért felelős államtitkár az RTL Híradónak beszélt arról, hogy a szervezésnél már nem számolnak azokkal a cégekkel, amelyek szerinte korábban jelentős hasznot tettek rá az állami rendezvényekre.",
+     "plain": "A kultúráért felelős államtitkár az RTL Híradónak beszélt arról, hogy a szervezésnél már nem számolnak azokkal a cégekkel, amelyek szerinte korábban jelentős hasznot tettek rá az állami rendezvényekre.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/17/nagy_ervin_tuzijatek_143710_1_original_390x220_cover.jpg"
+    },
     {
      "t": "5 égető kérdés, amit a Resident Evil Veronica remake-nek kötelező megválaszolnia",
      "l": "https://www.pcguru.hu/hirek/5-egeto-kerdes-amit-a-2027-es-resident-evil-veronica-remake-nek-kotelezo-megvalaszolnia-tzeus/101753",
@@ -21,6 +111,24 @@
      "sum": "A klasszikus stratégiai Final Fantasy játék kibővített remaster kiadása egy nagyszabású kiegészítést kapott az 1.5.0-s frissítéssel, a legfontosabb dolog itt a New Game+ lehetősége lett, de más hasznos dolgokat is kaptunk.",
      "plain": "A klasszikus stratégiai Final Fantasy játék kibővített remaster kiadása egy nagyszabású kiegészítést kapott az 1.5.0-s frissítéssel, a legfontosabb dolog itt a New Game+ lehetősége lett, de más hasznos dolgokat is kaptunk.",
      "img": ""
+    },
+    {
+     "t": "Kontroller nélkül jöhet a következő Xbox, és ez nem vicc",
+     "l": "https://www.gsplus.hu/hardver/kontroller-nelkul-johet-a-kovetkezo-xbox-es-ez-nem-vicc-383808.html",
+     "s": "GameStar",
+     "d": "2026-06-17T14:33:47+00:00",
+     "sum": "Egy bennfentes szerint a Microsoft így faragna az árból.",
+     "plain": "Egy bennfentes szerint a Microsoft így faragna az árból.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2603/11/project_helix_192538_2_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Kudarcba fullad az Euro-Office harca a Microsofttal szemben?",
+     "l": "https://www.pcwplus.hu/pcwlite/kudarcba-fullad-az-eurooffice-harca-a-microsofttal-szemben-383801.html",
+     "s": "GameStar",
+     "d": "2026-06-17T14:30:04+00:00",
+     "sum": "Rengeteg gond van  Európa digitális függetlenedésével - most épp az Euro-Office bukdácsolását láthatjuk.",
+     "plain": "Rengeteg gond van Európa digitális függetlenedésével - most épp az Euro-Office bukdácsolását láthatjuk.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/17/euro_office_irodai_programcsomag_szoftver_123950_1_original_390x220_cover.jpg"
     },
     {
      "t": "Legyen mozis vetítése a Sárkányok háza harmadik évadának? Lesz!",
@@ -255,114 +363,6 @@
      "sum": "Hónapokon belül elfogyhat a Don&#39;t Nod pénze, miután a Tencent sem nyújt további segítséget.",
      "plain": "Hónapokon belül elfogyhat a Don&#39;t Nod pénze, miután a Tencent sem nyújt további segítséget.",
      "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2403/28/life_is_strange_don_t_nod_191001_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "A Bungie üzent a Destiny 2 játékosoknak: használjátok ki az őrült bugot, amíg lehet!",
-     "l": "https://www.pcguru.hu/hirek/a-bungie-uzent-a-destiny-2-jatekosoknak-hasznaljatok-ki-az-orult-bugot-amig-lehet-tzeus/101743",
-     "s": "PC Guru",
-     "d": "2026-06-17T09:00:00+00:00",
-     "sum": "Isteni erőt kaptak a Guardianek, és a fejlesztők az áldásukat adták rá, legalábbis egy hétig.",
-     "plain": "Isteni erőt kaptak a Guardianek, és a fejlesztők az áldásukat adták rá, legalábbis egy hétig.",
-     "img": "https://www.pcguru.hu/images/news/2026-06/a_bungie_uzent_a_destiny_2_jatekosoknak_hasznaljatok_ki_az_orult_bugot_amig_lehet_1781683743_36d8d889c76e2afb96fa.jpg"
-    },
-    {
-     "t": "Kevesebbszer fognak újraindulni a Windows-ok a frissítések telepítéséhez",
-     "l": "https://pcforum.hu/hirek/31152/windows-11-kevesebb-ujraindulas-frissitesek-telepitesehez",
-     "s": "PC Fórum",
-     "d": "2026-06-17T09:00:00+00:00",
-     "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/7/e5/8ab55d5b240d2f6d1fd105349be96/windows-laptop-update-by-chatgpt-2-extended-cropped--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>A Microsoft a napokban egy olyan új előzetest tett közzé a Windows 11-ből insider felhasználói számára, ami egy, sokak által minden bizonnyal nagy örömmel üdvözölt fejlesztést vezet be a rendszer működésébe. Ennek köszönhetően ugyanis kevesebbszer kell majd újraindulniuk a gépeknek az egy hónapon belül kiadott frissítések telepítéséhez",
-     "plain": "A Microsoft a napokban egy olyan új előzetest tett közzé a Windows 11-ből insider felhasználói számára, ami egy, sokak által minden bizonnyal nagy örömmel üdvözölt fejlesztést vezet be a rendszer működésébe. Ennek köszönhetően ugyanis keves",
-     "img": "https://pcforum.hu/assets/pcforum.hashed/7/e5/8ab55d5b240d2f6d1fd105349be96/windows-laptop-update-by-chatgpt-2-extended-cropped--dyn--rss.jpeg"
-    },
-    {
-     "t": "És azt tudtad, hogy a Dragon Age írójától is megkaphattuk volna a Baldur's Gate 3-at?",
-     "l": "https://www.pcguru.hu/hirek/baldurs-gate-3-larian-studios-bioware-beamdog-dragon-age-david-gaider-wizards-of-the-coast-dungeons-and-dragons-crpg-divinity-leecobo/101747",
-     "s": "PC Guru",
-     "d": "2026-06-17T08:45:00+00:00",
-     "sum": "A BioWare társalapítója elárulta, hogy az első két rész felújítását jegyző Beamdog is szeretett volna lecsapni a folytatásra, siker esetén pedig David Gaider vethette volna papírra a forgatókönyvet.",
-     "plain": "A BioWare társalapítója elárulta, hogy az első két rész felújítását jegyző Beamdog is szeretett volna lecsapni a folytatásra, siker esetén pedig David Gaider vethette volna papírra a forgatókönyvet.",
-     "img": "https://www.pcguru.hu/images/news/2026-06/es_azt_tudtad_hogy_a_dragon_age_irojatol_is_megkaphattuk_volna_a_baldurs_gate_3-at_1781685521_6dac8645169f18ad6ba6.jpg"
-    },
-    {
-     "t": "Harry Potter-hangulattal futott be a Hexed első, egészen ígéretes előzetese",
-     "l": "https://www.pcguru.hu/hirek/hexed-elozetes-trailer-hailee-steinfeld-tinilany-boszorkany-harry-potter-hangulatu-marlasinger-/101746",
-     "s": "PC Guru",
-     "d": "2026-06-17T08:41:00+00:00",
-     "sum": "Tökéletes bekuckózós mozinak néz ki az idén ősszel érkező boszorkányos mese.",
-     "plain": "Tökéletes bekuckózós mozinak néz ki az idén ősszel érkező boszorkányos mese.",
-     "img": "https://www.pcguru.hu/images/news/2026-06/harry_potter-hangulatu_kalandra_keszul_a_disney_igeretes_a_hexed_elso_elozetese_1781685369_b0e20e61c685fcd539f4.jpg"
-    },
-    {
-     "t": "Fritz!Box 4690 mesh teszt – ideje komolyan venni a Wi-Fi 7-et?",
-     "l": "https://www.pcwplus.hu/pcwlite/fritzbox-4690-mesh-teszt-ideje-komolyan-venni-a-wifi-7et-383780.html",
-     "s": "GameStar",
-     "d": "2026-06-17T08:30:47+00:00",
-     "sum": "Sok kérdőjel van az új Wi-Fi szabványt használó eszközök körül. Leteszteltünk egy ilyen mesh hálózatot és megmutatjuk, kinek és mikor érdemes rá váltania. Nem minden arany, ami fénylik.",
-     "plain": "Sok kérdőjel van az új Wi-Fi szabványt használó eszközök körül. Leteszteltünk egy ilyen mesh hálózatot és megmutatjuk, kinek és mikor érdemes rá váltania. Nem minden arany, ami fénylik.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/16/avm_fritz_box_4690_router_teszt_fritz_repeater_1700_wi_fi_7_otthoni_halozat_mesh_200551_17_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Klasszikus Star Trek-hangulatot áraszt magából a Strange New Worlds 4. évadának előzetese",
-     "l": "https://www.gsplus.hu/masvilag/star-trek-strange-new-worlds-star-trek-kulonos-uj-vilagok-star-trek-furcsa-uj-vilagok-4-evad-trailer-paramount-skyshowtime-383791.html",
-     "s": "GameStar",
-     "d": "2026-06-17T08:20:15+00:00",
-     "sum": "Egy utolsó előtti kalandra indul a U.S.S. Enterprise.",
-     "plain": "Egy utolsó előtti kalandra indul a U.S.S. Enterprise.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/17/star_trek_strange_new_worlds_star_trek_furcsa_uj_vilagok_091821_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "World of Warcraft: Camelot – Ez lenne a várva várt Classic+?",
-     "l": "https://www.pcguru.hu/hirek/world-of-warcraft-camelot-ez-lenne-a-varva-vart-classic-plus-szlav/101741",
-     "s": "PC Guru",
-     "d": "2026-06-17T08:00:00+00:00",
-     "sum": "A játékfájlokban nemrég felbukkant \"Project Camelot\" végre elhozhatja azt az alternatív Vanilla élményt, amire a közösség évek óta vágyik.",
-     "plain": "A játékfájlokban nemrég felbukkant \"Project Camelot\" végre elhozhatja azt az alternatív Vanilla élményt, amire a közösség évek óta vágyik.",
-     "img": "https://www.pcguru.hu/images/news/2026-06/world_of_warcraft_camelot__ez_lenne_a_varva_vart_classic_1781680714_fb492db6c7d0a54c478e.jpg"
-    },
-    {
-     "t": "Más cégeknél is komoly leépítésekre lehet számítani",
-     "l": "https://www.gamekapocs.hu/hir/93800/mas_cegeknel_is_komoly_leepitesekre_lehet_szamitani",
-     "s": "Gamekapocs",
-     "d": "2026-06-17T08:00:00+00:00",
-     "sum": "Egy francia lapértesülés szerint az, amit most az XBOX-nál látunk, csupán csak a kezdet, és nemcsak a zöld tábor további cégeinél, de más kiadóknál is vérfürdőre számíthatunk.",
-     "plain": "Egy francia lapértesülés szerint az, amit most az XBOX-nál látunk, csupán csak a kezdet, és nemcsak a zöld tábor további cégeinél, de más kiadóknál is vérfürdőre számíthatunk.",
-     "img": ""
-    },
-    {
-     "t": "Megvan az MMORPG legenda visszatérésének dátuma, már el is indultak az előrendelések",
-     "l": "https://www.gsplus.hu/hir/everquest-legends-mmorpg-daybreak-game-company-game-jawn-megjelenesi-datum-elorendeles-383788.html",
-     "s": "GameStar",
-     "d": "2026-06-17T07:48:46+00:00",
-     "sum": "Ha egy igazán klasszikus online élményre vágytok, akkor az EverQuest Legends bizony nektek fog szólni. A megjelenése már csak hetekre van tőlünk.",
-     "plain": "Ha egy igazán klasszikus online élményre vágytok, akkor az EverQuest Legends bizony nektek fog szólni. A megjelenése már csak hetekre van tőlünk.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/17/everqeust_legends_mmorpg_080447_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Épphogy csak megjelent az év egyik legjobb FPS-e, már be is zárt a fejlesztőcsapat",
-     "l": "https://www.pcguru.hu/hirek/kwalee-labs-bezaras-luna-abyss-fps-xbox-game-pass-steam-indie-linkedin-unreal-engine-4-leecobo/101742",
-     "s": "PC Guru",
-     "d": "2026-06-17T07:40:00+00:00",
-     "sum": "LinkedInen jelentette be a Kwalee Labs vezérigazgatója, hogy rajtuk kívül álló dolgok miatt a teljes csapatot szélnek kellett ereszteni, hiába kapott jó értékeléseket a lövölde.",
-     "plain": "LinkedInen jelentette be a Kwalee Labs vezérigazgatója, hogy rajtuk kívül álló dolgok miatt a teljes csapatot szélnek kellett ereszteni, hiába kapott jó értékeléseket a lövölde.",
-     "img": "https://www.pcguru.hu/images/news/2026-06/epphogy_csak_megjelent_az_ev_egyik_legjobb_fps-e_mar_be_is_zart_a_fejlesztocsapat_1781681588_afecfbf20c75469e902a.jpg"
-    },
-    {
-     "t": "A Samsung mobilokon mostantól csak 2 pöccintés a legújabb Android beszerzése",
-     "l": "https://www.pcwplus.hu/pcwlite/samsung-galaxy-beta-oneui9-frissites-ujdonsag-383789.html",
-     "s": "GameStar",
-     "d": "2026-06-17T07:32:01+00:00",
-     "sum": "Ha nem szeretnél várni az új Android rendszer kiadására és Samsung Galaxy mobilod van, már nagyon egyszerűen frissíthetsz a legújabb rendszerre. Sőt, a trükk visszafelé is működik!",
-     "plain": "Ha nem szeretnél várni az új Android rendszer kiadására és Samsung Galaxy mobilod van, már nagyon egyszerűen frissíthetsz a legújabb rendszerre. Sőt, a trükk visszafelé is működik!",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2604/01/samsung_galaxy_a37_a57_teszt_mobil_okostelefon_android_one_ui_140244_11_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Letölthetővé tette az Android 17-et a Google - és ezek a legfőbb újdonságok benne",
-     "l": "https://pcforum.hu/hirek/31151/android-17-letoltes-buborekok-kepernyoreakciok-biztonsag",
-     "s": "PC Fórum",
-     "d": "2026-06-17T07:30:00+00:00",
-     "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/8/bf/9355c9856e8108a7d6f45fcb0e91d/android-17-by-chatgpt-1-alt-2-cropped--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>A Google magyar idő szerint kedd este elérhetővé tette okostelefonos operációs rendszere legújabb verziójának végleges kiadását. Az új Android 17 cég szerint számos fejlesztést hoz a produktivitás, a szórakozás, valamint a biztonság területén is - a cég sajátmárkás készülékeire pedig már le is lehet tölteni azt.",
-     "plain": "A Google magyar idő szerint kedd este elérhetővé tette okostelefonos operációs rendszere legújabb verziójának végleges kiadását. Az új Android 17 cég szerint számos fejlesztést hoz a produktivitás, a szórakozás, valamint a biztonság terület",
-     "img": "https://pcforum.hu/assets/pcforum.hashed/8/bf/9355c9856e8108a7d6f45fcb0e91d/android-17-by-chatgpt-1-alt-2-cropped--dyn--rss.jpeg"
     }
    ]
   }
