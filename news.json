@@ -1,9 +1,72 @@
 {
- "updated": "2026-06-17T19:00:07.306006+00:00",
+ "updated": "2026-06-17T20:00:06.147602+00:00",
  "categories": [
   {
    "name": "🎮 Film, játék, tech (HU)",
    "items": [
+    {
+     "t": "Befektetési bankárok a Redditből számolták ki a GTA 6 első napos eladási rekordját",
+     "l": "https://www.pcguru.hu/hirek/befektetesi-bankarok-a-redditbol-szamoltak-ki-a-gta-6-elso-napos-eladasi-rekordjat-tzeus/101767",
+     "s": "PC Guru",
+     "d": "2026-06-17T20:00:00+00:00",
+     "sum": "Olyan számot jósoltak a GTA 6-nak, amit nehéz elhinni.",
+     "plain": "Olyan számot jósoltak a GTA 6-nak, amit nehéz elhinni.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/befektetesi_bankarok_a_redditbol_szamoltak_ki_a_gta_6_elso_napos_eladasi_rekordjat_1781707355_7eaf120cc8ffe54a155a.jpg"
+    },
+    {
+     "t": "Pár napig ingyen kipróbálható az Assassin's Creed Shadows",
+     "l": "https://www.gsplus.hu/ingyen-jatekok/par-napig-ingyen-kiprobalhato-az-assassins-creed-shadows-383826.html",
+     "s": "GameStar",
+     "d": "2026-06-17T19:31:06+00:00",
+     "sum": "A Ubisoft+ Premium akciója pont a nagy frissítés után indul.",
+     "plain": "A Ubisoft+ Premium akciója pont a nagy frissítés után indul.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/16/assassin_s_creed_shadows_101046_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Érdemes ránézni a Steam Next Fest demóira, párat össze is szedtünk most",
+     "l": "https://www.gamekapocs.hu/hir/93813/erdemes_ranezni_a_steam_next_fest_demoira_parat_ossze_is_szedtunk_most",
+     "s": "Gamekapocs",
+     "d": "2026-06-17T19:26:44+00:00",
+     "sum": "A mostani Steam Next Fest alkalmával ismét ki lehet próbálni egy rakás játékot korlátozott ideig, ezek között pedig olyan nagy címek is helyet kaptak, mint a Mortal Shell II vagy a Valor Mortis.",
+     "plain": "A mostani Steam Next Fest alkalmával ismét ki lehet próbálni egy rakás játékot korlátozott ideig, ezek között pedig olyan nagy címek is helyet kaptak, mint a Mortal Shell II vagy a Valor Mortis.",
+     "img": ""
+    },
+    {
+     "t": "Kiszivárgott, milyen erős lehet a Valve új Steam Machine-je",
+     "l": "https://www.pcwplus.hu/pcwlite/kiszivargott-milyen-eros-lehet-a-valve-uj-steam-machineje-383828.html",
+     "s": "GameStar",
+     "d": "2026-06-17T19:16:58+00:00",
+     "sum": "A nappaliba szánt SteamOS-gép CPU-ban Ryzen 7000-es szintet hozhat.",
+     "plain": "A nappaliba szánt SteamOS-gép CPU-ban Ryzen 7000-es szintet hozhat.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2605/16/steam_machine_063101_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Befutott a Pókember: Vadonatúj nap új előzetese",
+     "l": "https://www.gsplus.hu/masvilag/befutott-a-pokember-vadonatuj-nap-uj-elozetese-383843.html",
+     "s": "GameStar",
+     "d": "2026-06-17T19:09:57+00:00",
+     "sum": "Tom Holland Pókembere július 30-án tér vissza a mozikba.",
+     "plain": "Tom Holland Pókembere július 30-án tér vissza a mozikba.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/17/pokember_vadonatuj_nap_lego_spider_man_brand_new_day_210955_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Miért örül most minden kutya ugyanazzal a hanggal a gazdájának TikTokon és Instán?",
+     "l": "https://kepernyoido.hu/kutyak-vs-macskak-lakatos-laszlo-meme-tiktok-insta-trend-732",
+     "s": "GameStar",
+     "d": "2026-06-17T19:01:50+00:00",
+     "sum": "Ha mostanában feltűnően sok olyan videó jön szembe, amelyben kutyák rohannak a hazaérkező gazdájukhoz, miközben egy ismerős hang túldramatizálja a jelenetet, akkor segítünk megérteni a mémkultúra új gyöngyszemét.",
+     "plain": "Ha mostanában feltűnően sok olyan videó jön szembe, amelyben kutyák rohannak a hazaérkező gazdájukhoz, miközben egy ismerős hang túldramatizálja a jelenetet, akkor segítünk megérteni a mémkultúra új gyöngyszemét.",
+     "img": "https://i.cdn29.hu/apix_collect_c/kepernyoid/images_articles_260617_miert-orul-most-minden-kutya-ugyanazzal-a-hanggal-a-gazdajanak-tiktokon-es-instan_210006_390x220_cover.jpg"
+    },
+    {
+     "t": "A Marvel végre tiszta lappal indítaná újra az X-Ment",
+     "l": "https://www.gsplus.hu/masvilag/a-marvel-vegre-tiszta-lappal-inditana-ujra-az-xment-383822.html",
+     "s": "GameStar",
+     "d": "2026-06-17T19:01:11+00:00",
+     "sum": "Kevin Feige nagy dobást akar, nem a régi filmek folytatását.",
+     "plain": "Kevin Feige nagy dobást akar, nem a régi filmek folytatását.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2503/31/avengers_vs_x_men_095822_1_original_390x220_cover.jpg"
+    },
     {
      "t": "Kagylótelefon helyett rétestelefonban gondolkodik a Huawei",
      "l": "https://www.pcguru.hu/hirek/tech-kagylotelefon-helyett-retestelefonban-gondolkodik-a-huawei-tbr/101766",
@@ -300,69 +363,6 @@
      "sum": "Számtalan esetben lehet szükség virtuális adattárolóra - megmutatjuk a legjobb segédprogramokat.",
      "plain": "Számtalan esetben lehet szükség virtuális adattárolóra - megmutatjuk a legjobb segédprogramokat.",
      "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2605/27/adattarolas_120024_4_original_390x220_cover.jpg"
-    },
-    {
-     "t": "INGYEN kapod meg a next-gen GTA 5-öt, ha előző generációs verziód van!",
-     "l": "https://www.pcguru.hu/hirek/gta-5-grand-theft-auto-ingyen-free-update-ps4-xone-rockstar-games-los-santos-los-angeles-san-andreas-varos-pc-guru-video-sorozat-britpopper/101768",
-     "s": "PC Guru",
-     "d": "2026-06-17T15:15:00+00:00",
-     "sum": "A Rockstar bejelentette, hogy ha a GTA 5-öt pre-gen konzolra vetted meg, akkor holnaptól ingyen megszerezheted a legfrissebb verziót.",
-     "plain": "A Rockstar bejelentette, hogy ha a GTA 5-öt pre-gen konzolra vetted meg, akkor holnaptól ingyen megszerezheted a legfrissebb verziót.",
-     "img": "https://www.pcguru.hu/images/news/2026-06/ingyen_kapjak_meg_a_gta_5-ot_azok_akiknek_elozo_generacios_verzio_van_meg_1781709136_8721b5ab4ef5a205b02f.jpg"
-    },
-    {
-     "t": "Elindult a GOG nyári vására, több ezer játék kapott kedvezményt",
-     "l": "https://www.gsplus.hu/ingyen-jatekok/elindult-a-gog-nyari-vasara-tobb-ezer-jatek-kapott-kedvezmenyt-383824.html",
-     "s": "GameStar",
-     "d": "2026-06-17T15:10:10+00:00",
-     "sum": "A Kena: Bridge of Spirits is megérkezett a kínálatba.",
-     "plain": "A Kena: Bridge of Spirits is megérkezett a kínálatba.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/17/gog_170233_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Nem marad el az augusztus 20-i tűzijáték, de Nagy Ervin szerint idén kisebb és olcsóbb show jöhet",
-     "l": "https://www.gsplus.hu/elet/nem-marad-el-az-augusztus-20i-tuzijatek-de-nagy-ervin-szerint-iden-kisebb-es-olcsobb-show-johet-383809.html",
-     "s": "GameStar",
-     "d": "2026-06-17T15:02:44+00:00",
-     "sum": "A kultúráért felelős államtitkár az RTL Híradónak beszélt arról, hogy a szervezésnél már nem számolnak azokkal a cégekkel, amelyek szerinte korábban jelentős hasznot tettek rá az állami rendezvényekre.",
-     "plain": "A kultúráért felelős államtitkár az RTL Híradónak beszélt arról, hogy a szervezésnél már nem számolnak azokkal a cégekkel, amelyek szerinte korábban jelentős hasznot tettek rá az állami rendezvényekre.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/17/nagy_ervin_tuzijatek_143710_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "5 égető kérdés, amit a Resident Evil Veronica remake-nek kötelező megválaszolnia",
-     "l": "https://www.pcguru.hu/hirek/5-egeto-kerdes-amit-a-2027-es-resident-evil-veronica-remake-nek-kotelezo-megvalaszolnia-tzeus/101753",
-     "s": "PC Guru",
-     "d": "2026-06-17T15:00:00+00:00",
-     "sum": "A Capcom a 2027-es Resident Evil Veronica-val amellett, hogy feltámaszt egy régi klasszikust, teljesen átírhatja a franchise történelmét is.",
-     "plain": "A Capcom a 2027-es Resident Evil Veronica-val amellett, hogy feltámaszt egy régi klasszikust, teljesen átírhatja a franchise történelmét is.",
-     "img": "https://www.pcguru.hu/images/news/2026-06/5_egeto_kerdes_amit_a_2027-es_resident_evil_veronica_remake-nek_kotelezo_megvalaszolnia_1781690090_30405a1001500d946e40.jpg"
-    },
-    {
-     "t": "A Final Fantasy Tactics: The Ivalice Chronicles új frissítése New Game+ opciót is hozott",
-     "l": "https://www.gamekapocs.hu/hir/93805/a_final_fantasy_tactics_the_ivalice_chronicles_uj_frissitese_new_game_opciot_is_hozott",
-     "s": "Gamekapocs",
-     "d": "2026-06-17T15:00:00+00:00",
-     "sum": "A klasszikus stratégiai Final Fantasy játék kibővített remaster kiadása egy nagyszabású kiegészítést kapott az 1.5.0-s frissítéssel, a legfontosabb dolog itt a New Game+ lehetősége lett, de más hasznos dolgokat is kaptunk.",
-     "plain": "A klasszikus stratégiai Final Fantasy játék kibővített remaster kiadása egy nagyszabású kiegészítést kapott az 1.5.0-s frissítéssel, a legfontosabb dolog itt a New Game+ lehetősége lett, de más hasznos dolgokat is kaptunk.",
-     "img": ""
-    },
-    {
-     "t": "Kontroller nélkül jöhet a következő Xbox, és ez nem vicc",
-     "l": "https://www.gsplus.hu/hardver/kontroller-nelkul-johet-a-kovetkezo-xbox-es-ez-nem-vicc-383808.html",
-     "s": "GameStar",
-     "d": "2026-06-17T14:33:47+00:00",
-     "sum": "Egy bennfentes szerint a Microsoft így faragna az árból.",
-     "plain": "Egy bennfentes szerint a Microsoft így faragna az árból.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2603/11/project_helix_192538_2_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Kudarcba fullad az Euro-Office harca a Microsofttal szemben?",
-     "l": "https://www.gsplus.hu",
-     "s": "GameStar",
-     "d": "2026-06-17T14:30:04+00:00",
-     "sum": "Rengeteg gond van  Európa digitális függetlenedésével - most épp az Euro-Office bukdácsolását láthatjuk.",
-     "plain": "Rengeteg gond van Európa digitális függetlenedésével - most épp az Euro-Office bukdácsolását láthatjuk.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/17/euro_office_irodai_programcsomag_szoftver_123950_1_original_390x220_cover.jpg"
     }
    ]
   }
