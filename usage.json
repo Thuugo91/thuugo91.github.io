@@ -1,14 +1,14 @@
 {
- "updated": "2026-06-17T20:00:06.816150+00:00",
+ "updated": "2026-06-18T03:00:10.888686+00:00",
  "claude": {
   "plan": "Max",
   "window_5h": {
-   "turns": 237,
-   "tok": 103651105
+   "turns": 21,
+   "tok": 12578091
   },
   "week": {
-   "turns": 3978,
-   "tok": 1931159079
+   "turns": 4042,
+   "tok": 1968448371
   },
   "daily": [
    {
@@ -59,20 +59,20 @@
    {
     "date": "2026-06-17",
     "wd": "Sze",
-    "turns": 611,
-    "pct": 3.1,
+    "turns": 654,
+    "pct": 3.3,
     "cum_before": 16.9,
-    "cum": 20.0,
+    "cum": 20.2,
     "future": false
    },
    {
     "date": "2026-06-18",
     "wd": "Cs",
-    "turns": 0,
-    "pct": 0.0,
-    "cum_before": 20.0,
-    "cum": 20.0,
-    "future": true
+    "turns": 21,
+    "pct": 0.1,
+    "cum_before": 20.2,
+    "cum": 20.3,
+    "future": false
    }
   ],
   "limit_5h_turns": 2710,
@@ -85,8 +85,8 @@
   "calib": "fotó-kalibrált 2026-06-16 19:34"
  },
  "deepseek": {
-  "topped_up": 9.93,
+  "topped_up": 9.92,
   "granted": 0.0,
-  "remaining": 9.93
+  "remaining": 9.92
  }
 }

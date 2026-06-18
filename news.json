@@ -1,9 +1,27 @@
 {
- "updated": "2026-06-17T20:00:06.147602+00:00",
+ "updated": "2026-06-18T03:00:10.037161+00:00",
  "categories": [
   {
    "name": "🎮 Film, játék, tech (HU)",
    "items": [
+    {
+     "t": "Már az informatikusoknak sem biztos állás a Szilícium-völgy",
+     "l": "https://www.pcwplus.hu/pcwlite/mar-az-informatikusoknak-sem-biztos-allas-a-sziliciumvolgy-383829.html",
+     "s": "GameStar",
+     "d": "2026-06-17T20:20:07+00:00",
+     "sum": "A cégek egyre válogatósabbak, és AI-tudást várnak el.",
+     "plain": "A cégek egyre válogatósabbak, és AI-tudást várnak el.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/17/szilicium_volgy_184152_1_original_390x220_cover.jpg"
+    },
+    {
+     "t": "Új játék bejelentésével kereshettek vevőt a Ninja Theoryra",
+     "l": "https://www.gsplus.hu/hir/uj-jatek-bejelentesevel-kereshettek-vevot-a-ninja-theoryra-383827.html",
+     "s": "GameStar",
+     "d": "2026-06-17T20:05:16+00:00",
+     "sum": "A Senua bemutatója mögött állítólag nem csak rajongói üzenet volt.",
+     "plain": "A Senua bemutatója mögött állítólag nem csak rajongói üzenet volt.",
+     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/16/senua_ninja_theory_073958_1_original_390x220_cover.jpg"
+    },
     {
      "t": "Befektetési bankárok a Redditből számolták ki a GTA 6 első napos eladási rekordját",
      "l": "https://www.pcguru.hu/hirek/befektetesi-bankarok-a-redditbol-szamoltak-ki-a-gta-6-elso-napos-eladasi-rekordjat-tzeus/101767",
@@ -12,6 +30,15 @@
      "sum": "Olyan számot jósoltak a GTA 6-nak, amit nehéz elhinni.",
      "plain": "Olyan számot jósoltak a GTA 6-nak, amit nehéz elhinni.",
      "img": "https://www.pcguru.hu/images/news/2026-06/befektetesi_bankarok_a_redditbol_szamoltak_ki_a_gta_6_elso_napos_eladasi_rekordjat_1781707355_7eaf120cc8ffe54a155a.jpg"
+    },
+    {
+     "t": "Befutott a Spider-Man: Brand New Day új előzetese, a Skorpió, a Punisher és Hulk is beköszönnek benne",
+     "l": "https://www.gamekapocs.hu/hir/93814/befutott_a_spider_man_brand_new_day_uj_elozetese_a_skorpio_a_punisher_es_hulk_is_bekoszonnek_benne",
+     "s": "Gamekapocs",
+     "d": "2026-06-17T19:58:55+00:00",
+     "sum": "A PlayStation hivatalos YouTube csatornájára frissen került fel az idei nyár egyik sikervárományosának legújabb előzetese, a Tom Holland főszereplésével érkező Marveles mozifilm pedig egy izgalmas kalandnak ígérkezik ismerős és új arcokkal.",
+     "plain": "A PlayStation hivatalos YouTube csatornájára frissen került fel az idei nyár egyik sikervárományosának legújabb előzetese, a Tom Holland főszereplésével érkező Marveles mozifilm pedig egy izgalmas kalandnak ígérkezik ismerős és új arcokkal.",
+     "img": ""
     },
     {
      "t": "Pár napig ingyen kipróbálható az Assassin's Creed Shadows",
@@ -114,7 +141,7 @@
     },
     {
      "t": "Kivezetné a kormány a benzinárstopot",
-     "l": "https://www.pcwplus.hu/pcwlite/kivezetne-a-kormany-a-benzinarstopot-383833.html",
+     "l": "https://www.pcwplus.hu/pcwlite/nem-csak-eltunnek-a-budapesti-parkoloorak-a-ii-kerulet-fakat-ultetne-a-helyukre-382825.html",
      "s": "GameStar",
      "d": "2026-06-17T18:23:14+00:00",
      "sum": "A piaci árak már a rögzített szint alá csökkenhetnek.",
@@ -336,33 +363,6 @@
      "sum": "Különös egy példánya a Hardline a Battlefield-sorozatnak. A rabló-pandúros rész nem nevezhető éppenséggel tragikusnak, de messze volt attól, amit a rajongók elvártak a frencsájztól.",
      "plain": "Különös egy példánya a Hardline a Battlefield-sorozatnak. A rabló-pandúros rész nem nevezhető éppenséggel tragikusnak, de messze volt attól, amit a rajongók elvártak a frencsájztól.",
      "img": ""
-    },
-    {
-     "t": "Tom Holland egy félmondattal tisztázta, hogy elvette-e Zendayát",
-     "l": "https://www.gsplus.hu/masvilag/tom-holland-egy-felmondattal-tisztazta-hogy-elvettee-zendayat-383810.html",
-     "s": "GameStar",
-     "d": "2026-06-17T15:20:33+00:00",
-     "sum": "A színész nem akart többet mondani az esküvőről.",
-     "plain": "A színész nem akart többet mondani az esküvőről.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2501/08/tom_holland_zendaya_081941_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Gothic Remake teszt",
-     "l": "https://www.gamekapocs.hu/cikk/5181/gothic_remake_teszt",
-     "s": "Gamekapocs",
-     "d": "2026-06-17T15:20:08+00:00",
-     "sum": "Néhány RPG az egész műfajra nyomott hagyott, és bár a nagy nevek mellett a Gothic fénye elhalványult az utóbbi évtizedekben, a 2001-es klasszikus világa soha nem hajt fejet a játékosok komfortérzete előtt. Igazi hőssé válni nehéz, a veszélyérzet valós - e szellemiségét a Remake is átvette.",
-     "plain": "Néhány RPG az egész műfajra nyomott hagyott, és bár a nagy nevek mellett a Gothic fénye elhalványult az utóbbi évtizedekben, a 2001-es klasszikus világa soha nem hajt fejet a játékosok komfortérzete előtt. Igazi hőssé válni nehéz, a veszély",
-     "img": ""
-    },
-    {
-     "t": "Ez is hiányzik a Windowsból - ezek a legjobb virtuális adattárolók",
-     "l": "https://www.pcwplus.hu/pcwlite/ez-is-hianyzik-a-windowsbol-ezek-a-legjobb-virtualis-adattarolok-382601.html",
-     "s": "GameStar",
-     "d": "2026-06-17T15:15:28+00:00",
-     "sum": "Számtalan esetben lehet szükség virtuális adattárolóra - megmutatjuk a legjobb segédprogramokat.",
-     "plain": "Számtalan esetben lehet szükség virtuális adattárolóra - megmutatjuk a legjobb segédprogramokat.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2605/27/adattarolas_120024_4_original_390x220_cover.jpg"
     }
    ]
   }
