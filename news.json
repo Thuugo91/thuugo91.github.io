@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-18T10:00:07.158598+00:00",
+ "updated": "2026-06-18T11:00:07.223611+00:00",
  "categories": [
   {
    "name": "🎮 Film, játék, tech (HU)",
@@ -60,30 +60,12 @@
     },
     {
      "t": "Kiszivárgott, milyen erős lehet a Valve új Steam Machine-je",
-     "l": "https://www.pcwplus.hu/pcwlite/kiszivargott-milyen-eros-lehet-a-valve-uj-steam-machineje-383828.html",
+     "l": "https://www.gsplus.hu",
      "s": "GameStar",
      "d": "2026-06-17T19:16:58+00:00",
      "sum": "A nappaliba szánt SteamOS-gép CPU-ban Ryzen 7000-es szintet hozhat.",
      "plain": "A nappaliba szánt SteamOS-gép CPU-ban Ryzen 7000-es szintet hozhat.",
      "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2605/16/steam_machine_063101_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Befutott a Pókember: Vadonatúj nap új előzetese",
-     "l": "https://www.gsplus.hu/masvilag/befutott-a-pokember-vadonatuj-nap-uj-elozetese-383843.html",
-     "s": "GameStar",
-     "d": "2026-06-17T19:09:57+00:00",
-     "sum": "Tom Holland Pókembere július 30-án tér vissza a mozikba.",
-     "plain": "Tom Holland Pókembere július 30-án tér vissza a mozikba.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/17/pokember_vadonatuj_nap_lego_spider_man_brand_new_day_210955_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Miért örül most minden kutya ugyanazzal a hanggal a gazdájának TikTokon és Instán?",
-     "l": "https://kepernyoido.hu/kutyak-vs-macskak-lakatos-laszlo-meme-tiktok-insta-trend-732",
-     "s": "GameStar",
-     "d": "2026-06-17T19:01:50+00:00",
-     "sum": "Ha mostanában feltűnően sok olyan videó jön szembe, amelyben kutyák rohannak a hazaérkező gazdájukhoz, miközben egy ismerős hang túldramatizálja a jelenetet, akkor segítünk megérteni a mémkultúra új gyöngyszemét.",
-     "plain": "Ha mostanában feltűnően sok olyan videó jön szembe, amelyben kutyák rohannak a hazaérkező gazdájukhoz, miközben egy ismerős hang túldramatizálja a jelenetet, akkor segítünk megérteni a mémkultúra új gyöngyszemét.",
-     "img": "https://i.cdn29.hu/apix_collect_c/kepernyoid/images_articles_260617_miert-orul-most-minden-kutya-ugyanazzal-a-hanggal-a-gazdajanak-tiktokon-es-instan_210006_390x220_cover.jpg"
     },
     {
      "t": "Kagylótelefon helyett rétestelefonban gondolkodik a Huawei",
@@ -138,15 +120,6 @@
      "sum": "Több mint 2 órás műsorral jelentkezett ma a State of Unreal 2026, így nem csak az Unreal Engine 5.8 funkciói kerültek terítékre, de a nem is olyan rég leleplezett  Unreal Engine 6 se maradt ki.",
      "plain": "Több mint 2 órás műsorral jelentkezett ma a State of Unreal 2026, így nem csak az Unreal Engine 5.8 funkciói kerültek terítékre, de a nem is olyan rég leleplezett Unreal Engine 6 se maradt ki.",
      "img": ""
-    },
-    {
-     "t": "Nincs havidíj, nincs Battle Pass – A Guild Wars 3 szembemegy a modern MMO trendekkel",
-     "l": "https://www.pcguru.hu/hirek/nincs-havidij-nincs-battle-pass-a-guild-wars-3-szembemegy-a-modern-mmo-trendekkel-szlav/101759",
-     "s": "PC Guru",
-     "d": "2026-06-17T17:30:00+00:00",
-     "sum": "Az ArenaNet ígérete szerint a legendás MMORPG új része megőrzi a széria legszimpatikusabb hagyományát, és nem akarja teljesen kifosztani a játékosok pénztárcáját.",
-     "plain": "Az ArenaNet ígérete szerint a legendás MMORPG új része megőrzi a széria legszimpatikusabb hagyományát, és nem akarja teljesen kifosztani a játékosok pénztárcáját.",
-     "img": "https://www.pcguru.hu/images/news/2026-06/nincs_havidij_nincs_battle_pass__a_guild_wars_3_szembemegy_a_modern_mmo_trendekkel_1781695815_a6d4ad40ee586130bc07.jpg"
     },
     {
      "t": "Állítólag a Senua bemutatásával csak lehetséges felvásárlókat célzott az XBOX",
@@ -236,15 +209,6 @@
      "d": "2026-06-17T12:00:00+00:00",
      "sum": "A népszerű co-op mászós játék ugyan messze van már a korábbi csúcstól, azonban így is óriási sikernek számít az elmúlt egy év alatt nyújtott teljesítménye.",
      "plain": "A népszerű co-op mászós játék ugyan messze van már a korábbi csúcstól, azonban így is óriási sikernek számít az elmúlt egy év alatt nyújtott teljesítménye.",
-     "img": ""
-    },
-    {
-     "t": "Demót kapott a The Mound: Omen of Cthulhu",
-     "l": "https://www.gamekapocs.hu/hir/93801/demot_kapott_a_the_mound_omen_of_cthulhu",
-     "s": "Gamekapocs",
-     "d": "2026-06-17T10:00:00+00:00",
-     "sum": "De nem árt sietni, mivel a próbaverzió csak a Steam Next Fest keretein belül érhető el PC-n. Cserébe a játék megjelenése továbbra is július közepén esedékes.",
-     "plain": "De nem árt sietni, mivel a próbaverzió csak a Steam Next Fest keretein belül érhető el PC-n. Cserébe a játék megjelenése továbbra is július közepén esedékes.",
      "img": ""
     },
     {
@@ -363,6 +327,42 @@
      "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/1/3b/8b801a7599c666c2ceb1aff585948/security-shared-by-western-digital-cropped--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>A Western Digital (WD) a napokban egy jelentős fejlesztést jelentett be egyes - elsősorban vállalati felhasználásra szánt - merevlemezei vonatkozásában. Ennek értelmében a cég ezeken az eddig alkalmazott, mondhatni klasszikus titkosítási algoritmusok alkalmazása helyett kvázi-kvantumbiztos kódolási technológiák alkalmazására tér át.",
      "plain": "A Western Digital (WD) a napokban egy jelentős fejlesztést jelentett be egyes - elsősorban vállalati felhasználásra szánt - merevlemezei vonatkozásában. Ennek értelmében a cég ezeken az eddig alkalmazott, mondhatni klasszikus titkosítási al",
      "img": "https://pcforum.hu/assets/pcforum.hashed/1/3b/8b801a7599c666c2ceb1aff585948/security-shared-by-western-digital-cropped--dyn--rss.jpeg"
+    },
+    {
+     "t": "Eltöröl egy komoly korlátozást a Windows 11 MI-s funkcióival kapcsolatban a Microsoft",
+     "l": "https://pcforum.hu/hirek/31134/windows-11-mesterseges-intelligencia-rtx-30-videokartya-npu-copilot-plus",
+     "s": "PC Fórum",
+     "d": "2026-06-12T09:00:00+00:00",
+     "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/9/59/9724d0b26e19fccd2793dca39ecbe/copilot-plus-pc-shared-by-microsoft--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>A Microsoft a héten egy jelentős enyhítést jelentett be egyes, a Windows 11-be épített, helyben futtatott mesterséges intelligenciás funkciók elérhetőségével kapcsolatban. Eddig ugyanis ezeket kizárólag csak a speciális, NPU egységekkel felszerelt Copilot+ PC-ken lehetett futtatni - a jövőben azonban ez nem lesz feltétlenül szükséges hozzájuk.",
+     "plain": "A Microsoft a héten egy jelentős enyhítést jelentett be egyes, a Windows 11-be épített, helyben futtatott mesterséges intelligenciás funkciók elérhetőségével kapcsolatban. Eddig ugyanis ezeket kizárólag csak a speciális, NPU egységekkel fel",
+     "img": "https://pcforum.hu/assets/pcforum.hashed/9/59/9724d0b26e19fccd2793dca39ecbe/copilot-plus-pc-shared-by-microsoft--dyn--rss.jpeg"
+    },
+    {
+     "t": "Az elsők között kapják meg a magyarok a YouTube egy friss fejlesztését",
+     "l": "https://pcforum.hu/hirek/31133/google-youtube-app-video-megosztas-kozvetlen-uzenet-chat",
+     "s": "PC Fórum",
+     "d": "2026-06-12T07:30:00+00:00",
+     "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/c/6e/b7828f036cf7d1a937301147a7cc5/youtube-wp2--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>A Google a héten egy olyan új funkció bevezetését kezdte meg a YouTube-on, ami - legalábbis bizonyos helyzetekben - egyszerűbbé teszi az azon talált érdekes videók megosztását egymással. Ehhez ugyanis eddig valamilyen más kommunikációs csatornát: emailt, üzenőprogramot, esetleg közösségi alkalmazást kellett igénybe venni - mostantól ez azonban magában a YouTube app-ban is lehetséges lesz.",
+     "plain": "A Google a héten egy olyan új funkció bevezetését kezdte meg a YouTube-on, ami - legalábbis bizonyos helyzetekben - egyszerűbbé teszi az azon talált érdekes videók megosztását egymással. Ehhez ugyanis eddig valamilyen más kommunikációs csat",
+     "img": "https://pcforum.hu/assets/pcforum.hashed/c/6e/b7828f036cf7d1a937301147a7cc5/youtube-wp2--dyn--rss.jpeg"
+    },
+    {
+     "t": "Megint feltörték a Windows-ok beépített lemeztitkosítását, a BitLocker-t",
+     "l": "https://pcforum.hu/hirek/31132/greatxml-windows-bitlocker-sebezhetpseg-nightmare-eclipse",
+     "s": "PC Fórum",
+     "d": "2026-06-12T06:00:00+00:00",
+     "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/d/d2/46f2d41cbf5939c19f19639e6ce23/greatxml-bitlocker-crack-by-chatgpt-1-cropped--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>A Microsofttal korábban összetűzésbe kerülő, magát Nightmare Eclipse-nek nevező biztonsági szakértő a héten ismét borsot tört a vállalat orra alá. Az illető ugyanis leleplezett egy újabb módszert, aminek révén pillanatok alatt hozzáférhetővé válhat illetéktelenek számára is a Windows-ok beépített lemeztitkosításával, a BitLocker-rel kódolt lemezkötetek tartalma.",
+     "plain": "A Microsofttal korábban összetűzésbe kerülő, magát Nightmare Eclipse-nek nevező biztonsági szakértő a héten ismét borsot tört a vállalat orra alá. Az illető ugyanis leleplezett egy újabb módszert, aminek révén pillanatok alatt hozzáférhetőv",
+     "img": "https://pcforum.hu/assets/pcforum.hashed/d/d2/46f2d41cbf5939c19f19639e6ce23/greatxml-bitlocker-crack-by-chatgpt-1-cropped--dyn--rss.jpeg"
+    },
+    {
+     "t": "Titkos fejlesztést is leküldött a Windows 11-ekre havi frissítésében a Microsoft",
+     "l": "https://pcforum.hu/hirek/31131/windows-11-low-latency-profile-gyorsabb-magasabb-orajel",
+     "s": "PC Fórum",
+     "d": "2026-06-12T04:45:00+00:00",
+     "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/9/7a/babd9da45eb8dc785c17043bcac40/windows-11-turbo-by-chatgpt-1-cropped--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>A Windows 11-ek a Microsoft által kedden kiadott havi foltcsomag részeként nem csak több, mint 200 sebezhetőség foltját, de egy kvázi titkos fejlesztést is megkaptak. Ez nem más, mint az ún. \"Low Latency Profile\" mód, aminek köszönhetően a rendszer működése bizonyos körülmények között az eddiginél sokkal gyorsabbá válhat.",
+     "plain": "A Windows 11-ek a Microsoft által kedden kiadott havi foltcsomag részeként nem csak több, mint 200 sebezhetőség foltját, de egy kvázi titkos fejlesztést is megkaptak. Ez nem más, mint az ún. \"Low Latency Profile\" mód, aminek köszönhetően a ",
+     "img": "https://pcforum.hu/assets/pcforum.hashed/9/7a/babd9da45eb8dc785c17043bcac40/windows-11-turbo-by-chatgpt-1-cropped--dyn--rss.jpeg"
     }
    ]
   }
