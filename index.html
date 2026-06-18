@@ -117,6 +117,9 @@
   .modal input{width:100%;background:var(--card2);border:1px solid var(--line);color:var(--txt);
     border-radius:10px;padding:9px 11px;font-size:14px}
   .modal .row{display:flex;gap:8px;justify-content:flex-end;margin-top:16px}
+  .dc-in{width:100%;background:var(--card2);border:1px solid var(--line);color:var(--txt);
+    border-radius:9px;padding:8px 10px;font-size:14px;margin:3px 0 9px;box-sizing:border-box}
+  #dc-diff-out b,#dc-add-out b{color:var(--accent)}
   /* status */
   .status{display:flex;flex-wrap:wrap;gap:10px}
   .chip{display:flex;align-items:center;gap:8px;background:var(--card2);border:1px solid var(--line);
@@ -241,6 +244,33 @@
     <div class="card col-4" id="usage-card">
       <h2><span class="ttl">📊 Token / keret</span><span class="nupd" id="usage-upd"></span></h2>
       <div id="usage-body"><div class="news-soon">betöltés…</div></div>
+    </div>
+
+    <div class="card col-12" id="datecalc-card">
+      <h2><span class="ttl">🧮 Dátumkalkulátor</span></h2>
+      <div style="display:flex;gap:28px;flex-wrap:wrap">
+        <div style="flex:1;min-width:270px">
+          <div style="font-weight:600;margin-bottom:6px">Két dátum között eltelt idő</div>
+          <label style="font-size:13px;color:var(--dim)">Kezdő dátum</label>
+          <input type="date" id="dc-d1" class="dc-in">
+          <label style="font-size:13px;color:var(--dim)">Vég dátum</label>
+          <input type="date" id="dc-d2" class="dc-in">
+          <button class="btn" id="dc-d2-today" style="padding:5px 11px">Vég = ma</button>
+          <div id="dc-diff-out" style="margin-top:12px;font-size:14px;line-height:1.6"></div>
+        </div>
+        <div style="flex:1;min-width:270px">
+          <div style="font-weight:600;margin-bottom:6px">Dátum ± időtartam</div>
+          <label style="font-size:13px;color:var(--dim)">Alap dátum</label>
+          <input type="date" id="dc-base" class="dc-in">
+          <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap">
+            <select id="dc-dir" class="dc-in" style="width:auto;margin:3px 0"><option value="1">+ hozzáad</option><option value="-1">− kivon</option></select>
+            <input type="number" id="dc-amt" class="dc-in" value="30" min="0" style="width:90px;margin:3px 0">
+            <select id="dc-unit" class="dc-in" style="width:auto;margin:3px 0"><option value="d">nap</option><option value="w">hét</option><option value="m">hónap</option><option value="y">év</option></select>
+          </div>
+          <div id="dc-add-out" style="margin-top:12px;font-size:14px;line-height:1.6"></div>
+        </div>
+      </div>
+      <div class="hint">A dátumokat a böngésződ kezeli, semmi nem megy szerverre.</div>
     </div>
 
   </div>
@@ -543,7 +573,49 @@ function applyTheme(t){document.documentElement.setAttribute('data-theme',t);
 let theme=localStorage.getItem(THEME_KEY)||'dark';applyTheme(theme);
 document.getElementById('theme-toggle').onclick=()=>{theme=(theme==='dark')?'light':'dark';localStorage.setItem(THEME_KEY,theme);applyTheme(theme);};
 
-document.getElementById('built').textContent='v15 · '+new Date().getFullYear();
+document.getElementById('built').textContent='v16 · '+new Date().getFullYear();
+
+/* ---- Dátumkalkulátor ---- */
+(function(){
+  const HUN=['vasárnap','hétfő','kedd','szerda','csütörtök','péntek','szombat'];
+  const $=id=>document.getElementById(id);
+  function pad2(n){return String(n).padStart(2,'0')}
+  function fmt(d){return d.getFullYear()+'.'+pad2(d.getMonth()+1)+'.'+pad2(d.getDate())+'. ('+HUN[d.getDay()]+')';}
+  function parse(v){if(!v)return null;const p=v.split('-');return new Date(+p[0],+p[1]-1,+p[2]);}
+  function todayStr(){const d=new Date();return d.getFullYear()+'-'+pad2(d.getMonth()+1)+'-'+pad2(d.getDate());}
+  // calendar-accurate Y/M/D diff between two dates (a<=b)
+  function ymd(a,b){let y=b.getFullYear()-a.getFullYear(),m=b.getMonth()-a.getMonth(),d=b.getDate()-a.getDate();
+    if(d<0){m--;const pm=new Date(b.getFullYear(),b.getMonth(),0).getDate();d+=pm;}
+    if(m<0){m+=12;y--;}return{y,m,d};}
+  function diff(){
+    const a=parse($('dc-d1').value),b=parse($('dc-d2').value),out=$('dc-diff-out');
+    if(!a||!b){out.innerHTML='<span style="color:var(--dim)">Adj meg két dátumot.</span>';return;}
+    const days=Math.round((b-a)/86400000), abs=Math.abs(days);
+    const lo=days<0?b:a, hi=days<0?a:b, r=ymd(lo,hi);
+    const w=Math.floor(abs/7), wd=abs%7;
+    let parts=[]; if(r.y)parts.push(r.y+' év'); if(r.m)parts.push(r.m+' hónap'); if(r.d||!parts.length)parts.push(r.d+' nap');
+    out.innerHTML='Összesen: <b>'+abs+' nap</b>'+(days<0?' (a vég korábbi)':'')+
+      '<br>= '+parts.join(', ')+
+      '<br>= <b>'+w+'</b> hét '+wd+' nap'+
+      (abs?'<br><span style="color:var(--dim)">'+(days>0?'a vég később van':'a vég előbb van')+'</span>':'<br><span style="color:var(--dim)">ugyanaz a nap</span>');
+  }
+  function addCalc(){
+    const base=parse($('dc-base').value),out=$('dc-add-out');
+    if(!base){out.innerHTML='<span style="color:var(--dim)">Adj meg egy alap dátumot.</span>';return;}
+    const dir=+$('dc-dir').value, amt=Math.max(0,parseInt($('dc-amt').value||'0',10)), unit=$('dc-unit').value;
+    const r=new Date(base.getTime()); const n=dir*amt;
+    if(unit==='d')r.setDate(r.getDate()+n);
+    else if(unit==='w')r.setDate(r.getDate()+n*7);
+    else if(unit==='m')r.setMonth(r.getMonth()+n);
+    else if(unit==='y')r.setFullYear(r.getFullYear()+n);
+    out.innerHTML='Eredmény: <b>'+fmt(r)+'</b>';
+  }
+  $('dc-d1').value=todayStr(); $('dc-d2').value=todayStr(); $('dc-base').value=todayStr();
+  ['dc-d1','dc-d2'].forEach(id=>$(id).addEventListener('input',diff));
+  ['dc-base','dc-dir','dc-amt','dc-unit'].forEach(id=>$(id).addEventListener('input',addCalc));
+  $('dc-d2-today').addEventListener('click',()=>{$('dc-d2').value=todayStr();diff();});
+  diff(); addCalc();
+})();
 </script>
 </body>
 </html>
