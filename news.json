@@ -1,12 +1,12 @@
 {
- "updated": "2026-06-18T06:00:08.164072+00:00",
+ "updated": "2026-06-18T07:00:07.391765+00:00",
  "categories": [
   {
    "name": "🎮 Film, játék, tech (HU)",
    "items": [
     {
      "t": "Már az informatikusoknak sem biztos állás a Szilícium-völgy",
-     "l": "https://www.pcwplus.hu/pcwlite/mar-az-informatikusoknak-sem-biztos-allas-a-sziliciumvolgy-383829.html",
+     "l": "https://www.gsplus.hu",
      "s": "GameStar",
      "d": "2026-06-17T20:20:07+00:00",
      "sum": "A cégek egyre válogatósabbak, és AI-tudást várnak el.",
@@ -248,15 +248,6 @@
      "img": "https://www.pcguru.hu/images/news/2026-06/ket_napot_kellett_varni_ra_a_commodore_mar_meg_is_csinalta_a_brit_politikusok_kedvenc_telefonjat_1781690579_19b77d528d8c7e50d4c3.jpg"
     },
     {
-     "t": "A Magyar Nemzetet is elérte a Mediaworks leépítési hulláma",
-     "l": "https://www.gsplus.hu/elet/a-magyar-nemzetet-is-elerte-a-mediaworks-leepitesi-hullama-383819.html",
-     "s": "GameStar",
-     "d": "2026-06-17T16:45:02+00:00",
-     "sum": "A napilapból hetilap lehet, újabb munkatársak távoznak.",
-     "plain": "A napilapból hetilap lehet, újabb munkatársak távoznak.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/17/magyar_nemzet_163248_1_original_390x220_cover.jpg"
-    },
-    {
      "t": "Nem hagyja cserben a régebbi kártyák tulajait sem az AMD, de van egy kis bökkenő",
      "l": "https://www.pcguru.hu/hirek/nem-hagyja-cserben-a-regebbi-kartyak-tulajait-sem-az-amd-de-van-egy-kis-bokenyo-tzeus/101756",
      "s": "PC Guru",
@@ -275,15 +266,6 @@
      "img": ""
     },
     {
-     "t": "Megvan, ki rendezi a Dead by Daylight mozifilmet",
-     "l": "https://www.gsplus.hu/jatekvilag/megvan-ki-rendezi-a-dead-by-daylight-mozifilmet-383813.html",
-     "s": "GameStar",
-     "d": "2026-06-17T16:29:49+00:00",
-     "sum": "A horroradaptáció forgatása várhatóan 2027-ben indul.",
-     "plain": "A horroradaptáció forgatása várhatóan 2027-ben indul.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2311/08/dead_by_daylight_chucky_172725_1_original_390x220_cover.jpg"
-    },
-    {
      "t": "Július végén startol el az EverQuest Legends, már élnek az előrendelések",
      "l": "https://www.gamekapocs.hu/hir/93809/julius_vegen_startol_el_az_everquest_legends_mar_elnek_az_elorendelesek",
      "s": "Gamekapocs",
@@ -293,15 +275,6 @@
      "img": ""
     },
     {
-     "t": "Sokkal gyorsabban tölthetnek be a játékok AMD videokártyákon",
-     "l": "https://www.pcwplus.hu/pcwpro/sokkal-gyorsabban-tolthetnek-be-a-jatekok-amd-videokartyakon-383815.html",
-     "s": "GameStar",
-     "d": "2026-06-17T16:16:15+00:00",
-     "sum": "Az Advanced Shader Delivery a teljes RDNA-családra megérkezett.",
-     "plain": "Az Advanced Shader Delivery a teljes RDNA-családra megérkezett.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2507/01/asus_tuf_gaming_radeon_rx_9060_xt_oc_edition_16_gb_gddr6_amd_rdna4_143235_1_original_390x220_cover.jpg"
-    },
-    {
      "t": "Veszélyes vírusok lapulhatnak a Wallpaper Engine egyes háttérképeiben",
      "l": "https://www.pcguru.hu/hirek/wallpaper-engine-virus-malware-szoftver-steam-pc-hatterkep-kaspersky-biztonsag-britpopper/101769",
      "s": "PC Guru",
@@ -309,15 +282,6 @@
      "sum": "A figyelmeztetést a Kaspersky kiberbiztonsági cég adta ki, akik szerint hackerek így próbálkoznak komplett Steam-fiókokat ellopni.",
      "plain": "A figyelmeztetést a Kaspersky kiberbiztonsági cég adta ki, akik szerint hackerek így próbálkoznak komplett Steam-fiókokat ellopni.",
      "img": "https://www.pcguru.hu/images/news/2026-06/veszelyes_virusok_lapulhatnak_a_wallpaper_engine_egyes_hatterkepeiben_1781711461_f8edb073b8995c014b17.jpg"
-    },
-    {
-     "t": "Spielberg sem akarta az Indiana Jones 4 ufós fordulatát",
-     "l": "https://www.gsplus.hu/masvilag/spielberg-sem-akarta-az-indiana-jones-4-ufos-fordulatat-383812.html",
-     "s": "GameStar",
-     "d": "2026-06-17T16:05:55+00:00",
-     "sum": "George Lucas ragaszkodott a film legvitatottabb ötletéhez.",
-     "plain": "George Lucas ragaszkodott a film legvitatottabb ötletéhez.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/17/indiana_jones_es_a_kristalykoponya_kiralysaga_153820_1_original_390x220_cover.jpg"
     },
     {
      "t": "Eredetileg így nézett volna ki Shrek, és hát elég horrorisztikus volt",
@@ -363,6 +327,42 @@
      "sum": "Néhány RPG az egész műfajra nyomott hagyott, és bár a nagy nevek mellett a Gothic fénye elhalványult az utóbbi évtizedekben, a 2001-es klasszikus világa soha nem hajt fejet a játékosok komfortérzete előtt. Igazi hőssé válni nehéz, a veszélyérzet valós - e szellemiségét a Remake is átvette.",
      "plain": "Néhány RPG az egész műfajra nyomott hagyott, és bár a nagy nevek mellett a Gothic fénye elhalványult az utóbbi évtizedekben, a 2001-es klasszikus világa soha nem hajt fejet a játékosok komfortérzete előtt. Igazi hőssé válni nehéz, a veszély",
      "img": ""
+    },
+    {
+     "t": "INGYEN kapod meg a next-gen GTA 5-öt, ha előző generációs verziód van!",
+     "l": "https://www.pcguru.hu/hirek/gta-5-grand-theft-auto-ingyen-free-update-ps4-xone-rockstar-games-los-santos-los-angeles-san-andreas-varos-pc-guru-video-sorozat-britpopper/101768",
+     "s": "PC Guru",
+     "d": "2026-06-17T15:15:00+00:00",
+     "sum": "A Rockstar bejelentette, hogy ha a GTA 5-öt pre-gen konzolra vetted meg, akkor holnaptól ingyen megszerezheted a legfrissebb verziót.",
+     "plain": "A Rockstar bejelentette, hogy ha a GTA 5-öt pre-gen konzolra vetted meg, akkor holnaptól ingyen megszerezheted a legfrissebb verziót.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/ingyen_kapjak_meg_a_gta_5-ot_azok_akiknek_elozo_generacios_verzio_van_meg_1781709136_8721b5ab4ef5a205b02f.jpg"
+    },
+    {
+     "t": "5 égető kérdés, amit a Resident Evil Veronica remake-nek kötelező megválaszolnia",
+     "l": "https://www.pcguru.hu/hirek/5-egeto-kerdes-amit-a-2027-es-resident-evil-veronica-remake-nek-kotelezo-megvalaszolnia-tzeus/101753",
+     "s": "PC Guru",
+     "d": "2026-06-17T15:00:00+00:00",
+     "sum": "A Capcom a 2027-es Resident Evil Veronica-val amellett, hogy feltámaszt egy régi klasszikust, teljesen átírhatja a franchise történelmét is.",
+     "plain": "A Capcom a 2027-es Resident Evil Veronica-val amellett, hogy feltámaszt egy régi klasszikust, teljesen átírhatja a franchise történelmét is.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/5_egeto_kerdes_amit_a_2027-es_resident_evil_veronica_remake-nek_kotelezo_megvalaszolnia_1781690090_30405a1001500d946e40.jpg"
+    },
+    {
+     "t": "A Final Fantasy Tactics: The Ivalice Chronicles új frissítése New Game+ opciót is hozott",
+     "l": "https://www.gamekapocs.hu/hir/93805/a_final_fantasy_tactics_the_ivalice_chronicles_uj_frissitese_new_game_opciot_is_hozott",
+     "s": "Gamekapocs",
+     "d": "2026-06-17T15:00:00+00:00",
+     "sum": "A klasszikus stratégiai Final Fantasy játék kibővített remaster kiadása egy nagyszabású kiegészítést kapott az 1.5.0-s frissítéssel, a legfontosabb dolog itt a New Game+ lehetősége lett, de más hasznos dolgokat is kaptunk.",
+     "plain": "A klasszikus stratégiai Final Fantasy játék kibővített remaster kiadása egy nagyszabású kiegészítést kapott az 1.5.0-s frissítéssel, a legfontosabb dolog itt a New Game+ lehetősége lett, de más hasznos dolgokat is kaptunk.",
+     "img": ""
+    },
+    {
+     "t": "Legyen mozis vetítése a Sárkányok háza harmadik évadának? Lesz!",
+     "l": "https://www.pcguru.hu/hirek/sarkanyok-haza-harmadik-evad-premier-elso-epizod-mozi-kultik-vetites-marlasinger/101760",
+     "s": "PC Guru",
+     "d": "2026-06-17T14:30:00+00:00",
+     "sum": "Bár a Stranger Things záró epizódját még petícióval sem sikerült eljuttatni a hazai mozikba, a Sárkányok háza új évadának legelső epizódját a nagyvásznon is meg tudjuk majd nézni, ha szeretnénk.",
+     "plain": "Bár a Stranger Things záró epizódját még petícióval sem sikerült eljuttatni a hazai mozikba, a Sárkányok háza új évadának legelső epizódját a nagyvásznon is meg tudjuk majd nézni, ha szeretnénk.",
+     "img": "https://www.pcguru.hu/images/news/2026-06/legyen_mozis_vetitese_a_sarkanyok_haza_harmadik_evadanak_lesz__1781699997_e0fe42fcae3e932a88c6.jpg"
     }
    ]
   }
