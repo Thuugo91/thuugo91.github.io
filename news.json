@@ -1,12 +1,12 @@
 {
- "updated": "2026-06-18T07:00:07.391765+00:00",
+ "updated": "2026-06-18T08:00:08.854632+00:00",
  "categories": [
   {
    "name": "🎮 Film, játék, tech (HU)",
    "items": [
     {
      "t": "Már az informatikusoknak sem biztos állás a Szilícium-völgy",
-     "l": "https://www.gsplus.hu",
+     "l": "https://www.pcwplus.hu/pcwlite/mar-az-informatikusoknak-sem-biztos-allas-a-sziliciumvolgy-383829.html",
      "s": "GameStar",
      "d": "2026-06-17T20:20:07+00:00",
      "sum": "A cégek egyre válogatósabbak, és AI-tudást várnak el.",
@@ -194,15 +194,6 @@
      "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/17/samara_194250_1_original_390x220_cover.jpg"
     },
     {
-     "t": "A BioWare társalapítója egy évtizeden át kampányolt Baldur's Gate 3-ért, aztán egyszer csak a Larian kapta a projektet",
-     "l": "https://www.gsplus.hu/hir/baldurs-gate-3-larian-studios-bioware-trent-oster-rpg-383806.html",
-     "s": "GameStar",
-     "d": "2026-06-17T17:32:51+00:00",
-     "sum": "Nem azért, mintha féltékeny lenne, de megjegyezte, hogy azért több ötlet is viselte a Baldur&#39;s Gate 3 nevet.",
-     "plain": "Nem azért, mintha féltékeny lenne, de megjegyezte, hogy azért több ötlet is viselte a Baldur&#39;s Gate 3 nevet.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2404/14/baldur_s_gate_3_113647_1_original_390x220_cover.jpg"
-    },
-    {
      "t": "Nincs havidíj, nincs Battle Pass – A Guild Wars 3 szembemegy a modern MMO trendekkel",
      "l": "https://www.pcguru.hu/hirek/nincs-havidij-nincs-battle-pass-a-guild-wars-3-szembemegy-a-modern-mmo-trendekkel-szlav/101759",
      "s": "PC Guru",
@@ -219,24 +210,6 @@
      "sum": "Nagyon úgy tűnik, hogy az XBOX esetében megjelent lelkesedés és lendület alább fog hagyni a közeljövőben. Az eddig kedvező változások után sorra érkeznek a csalódást keltő döntések.",
      "plain": "Nagyon úgy tűnik, hogy az XBOX esetében megjelent lelkesedés és lendület alább fog hagyni a közeljövőben. Az eddig kedvező változások után sorra érkeznek a csalódást keltő döntések.",
      "img": ""
-    },
-    {
-     "t": "33 ezer drónból rajzolt óriáspandát az égre Kína",
-     "l": "https://www.pcwplus.hu/pcwlite/33-ezer-dronbol-rajzolt-oriaspandat-az-egre-kina-383816.html",
-     "s": "GameStar",
-     "d": "2026-06-17T17:14:10+00:00",
-     "sum": "A hatalmas fényshow három Guinness-rekordot is megdöntött.",
-     "plain": "A hatalmas fényshow három Guinness-rekordot is megdöntött.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2606/17/kina_160450_1_original_390x220_cover.jpg"
-    },
-    {
-     "t": "Túl durva lett az Alien: Föld egyik xenomorfos jelenete",
-     "l": "https://www.gsplus.hu/masvilag/tul-durva-lett-az-alien-fold-egyik-xenomorfos-jelenete-383814.html",
-     "s": "GameStar",
-     "d": "2026-06-17T17:01:33+00:00",
-     "sum": "Noah Hawley végül visszavágatta a sorozat egyik támadását.",
-     "plain": "Noah Hawley végül visszavágatta a sorozat egyik támadását.",
-     "img": "https://i.cdn29.hu/apix_collect_c/ngg_images/2509/14/alien_earth_alien_fold_084113_1_original_390x220_cover.jpg"
     },
     {
      "t": "Két napot kellett várni rá, a Commodore már meg is csinálta a brit politikusok kedvenc telefonját",
@@ -338,15 +311,6 @@
      "img": "https://www.pcguru.hu/images/news/2026-06/ingyen_kapjak_meg_a_gta_5-ot_azok_akiknek_elozo_generacios_verzio_van_meg_1781709136_8721b5ab4ef5a205b02f.jpg"
     },
     {
-     "t": "5 égető kérdés, amit a Resident Evil Veronica remake-nek kötelező megválaszolnia",
-     "l": "https://www.pcguru.hu/hirek/5-egeto-kerdes-amit-a-2027-es-resident-evil-veronica-remake-nek-kotelezo-megvalaszolnia-tzeus/101753",
-     "s": "PC Guru",
-     "d": "2026-06-17T15:00:00+00:00",
-     "sum": "A Capcom a 2027-es Resident Evil Veronica-val amellett, hogy feltámaszt egy régi klasszikust, teljesen átírhatja a franchise történelmét is.",
-     "plain": "A Capcom a 2027-es Resident Evil Veronica-val amellett, hogy feltámaszt egy régi klasszikust, teljesen átírhatja a franchise történelmét is.",
-     "img": "https://www.pcguru.hu/images/news/2026-06/5_egeto_kerdes_amit_a_2027-es_resident_evil_veronica_remake-nek_kotelezo_megvalaszolnia_1781690090_30405a1001500d946e40.jpg"
-    },
-    {
      "t": "A Final Fantasy Tactics: The Ivalice Chronicles új frissítése New Game+ opciót is hozott",
      "l": "https://www.gamekapocs.hu/hir/93805/a_final_fantasy_tactics_the_ivalice_chronicles_uj_frissitese_new_game_opciot_is_hozott",
      "s": "Gamekapocs",
@@ -356,13 +320,49 @@
      "img": ""
     },
     {
-     "t": "Legyen mozis vetítése a Sárkányok háza harmadik évadának? Lesz!",
-     "l": "https://www.pcguru.hu/hirek/sarkanyok-haza-harmadik-evad-premier-elso-epizod-mozi-kultik-vetites-marlasinger/101760",
-     "s": "PC Guru",
+     "t": "A Saros és a Returnal fejlesztői a hosszútávú sikerben bíznak",
+     "l": "https://www.gamekapocs.hu/hir/93804/a_saros_es_a_returnal_fejlesztoi_a_hosszutavu_sikerben_biznak",
+     "s": "Gamekapocs",
      "d": "2026-06-17T14:30:00+00:00",
-     "sum": "Bár a Stranger Things záró epizódját még petícióval sem sikerült eljuttatni a hazai mozikba, a Sárkányok háza új évadának legelső epizódját a nagyvásznon is meg tudjuk majd nézni, ha szeretnénk.",
-     "plain": "Bár a Stranger Things záró epizódját még petícióval sem sikerült eljuttatni a hazai mozikba, a Sárkányok háza új évadának legelső epizódját a nagyvásznon is meg tudjuk majd nézni, ha szeretnénk.",
-     "img": "https://www.pcguru.hu/images/news/2026-06/legyen_mozis_vetitese_a_sarkanyok_haza_harmadik_evadanak_lesz__1781699997_e0fe42fcae3e932a88c6.jpg"
+     "sum": "Egy játékfejlesztő stúdió is keresheti a maga útját hosszú ideig. Habár ez nehéz az iparágban, de ha sikerül megtalálni a maguk stílusát, akkor az a játékosoknak és a fejlesztőknek is ugyanolyan jó.",
+     "plain": "Egy játékfejlesztő stúdió is keresheti a maga útját hosszú ideig. Habár ez nehéz az iparágban, de ha sikerül megtalálni a maguk stílusát, akkor az a játékosoknak és a fejlesztőknek is ugyanolyan jó.",
+     "img": ""
+    },
+    {
+     "t": "10 percig mozog az Atelier Karia: The Night Kingdom & the Guide of Memories",
+     "l": "https://www.gamekapocs.hu/hir/93803/10_percig_mozog_az_atelier_karia_the_night_kingdom_the_guide_of_memories",
+     "s": "Gamekapocs",
+     "d": "2026-06-17T14:00:00+00:00",
+     "sum": "A Gust alkimista sorozata új epizóddal bővül jövőre, de már most több érdekességet és részletet is megtudhattunk róla, sőt még egy kis gameplayt is kaptunk.",
+     "plain": "A Gust alkimista sorozata új epizóddal bővül jövőre, de már most több érdekességet és részletet is megtudhattunk róla, sőt még egy kis gameplayt is kaptunk.",
+     "img": ""
+    },
+    {
+     "t": "Egy év alatt 20 millióan játszottak a PEAK-kel",
+     "l": "https://www.gamekapocs.hu/hir/93802/egy_ev_alatt_20_millioan_jatszottak_a_peak_kel",
+     "s": "Gamekapocs",
+     "d": "2026-06-17T12:00:00+00:00",
+     "sum": "A népszerű co-op mászós játék ugyan messze van már a korábbi csúcstól, azonban így is óriási sikernek számít az elmúlt egy év alatt nyújtott teljesítménye.",
+     "plain": "A népszerű co-op mászós játék ugyan messze van már a korábbi csúcstól, azonban így is óriási sikernek számít az elmúlt egy év alatt nyújtott teljesítménye.",
+     "img": ""
+    },
+    {
+     "t": "Demót kapott a The Mound: Omen of Cthulhu",
+     "l": "https://www.gamekapocs.hu/hir/93801/demot_kapott_a_the_mound_omen_of_cthulhu",
+     "s": "Gamekapocs",
+     "d": "2026-06-17T10:00:00+00:00",
+     "sum": "De nem árt sietni, mivel a próbaverzió csak a Steam Next Fest keretein belül érhető el PC-n. Cserébe a játék megjelenése továbbra is július közepén esedékes.",
+     "plain": "De nem árt sietni, mivel a próbaverzió csak a Steam Next Fest keretein belül érhető el PC-n. Cserébe a játék megjelenése továbbra is július közepén esedékes.",
+     "img": ""
+    },
+    {
+     "t": "Kevesebbszer fognak újraindulni a Windows-ok a frissítések telepítéséhez",
+     "l": "https://pcforum.hu/hirek/31152/windows-11-kevesebb-ujraindulas-frissitesek-telepitesehez",
+     "s": "PC Fórum",
+     "d": "2026-06-17T09:00:00+00:00",
+     "sum": "<div><img src=\"https://pcforum.hu/assets/pcforum.hashed/7/e5/8ab55d5b240d2f6d1fd105349be96/windows-laptop-update-by-chatgpt-2-extended-cropped--dyn--rss.jpeg\" style=\"border: 1px solid #e0e0e0; margin-bottom: 0.5em\" class=\"type:primaryImage\"/></div>A Microsoft a napokban egy olyan új előzetest tett közzé a Windows 11-ből insider felhasználói számára, ami egy, sokak által minden bizonnyal nagy örömmel üdvözölt fejlesztést vezet be a rendszer működésébe. Ennek köszönhetően ugyanis kevesebbszer kell majd újraindulniuk a gépeknek az egy hónapon belül kiadott frissítések telepítéséhez",
+     "plain": "A Microsoft a napokban egy olyan új előzetest tett közzé a Windows 11-ből insider felhasználói számára, ami egy, sokak által minden bizonnyal nagy örömmel üdvözölt fejlesztést vezet be a rendszer működésébe. Ennek köszönhetően ugyanis keves",
+     "img": "https://pcforum.hu/assets/pcforum.hashed/7/e5/8ab55d5b240d2f6d1fd105349be96/windows-laptop-update-by-chatgpt-2-extended-cropped--dyn--rss.jpeg"
     }
    ]
   }
