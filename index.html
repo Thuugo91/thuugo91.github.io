@@ -174,6 +174,20 @@
   .nav a:hover{border-color:var(--accent)}
   .nav a.on{border-color:var(--accent);color:var(--accent);background:rgba(74,168,255,.14)}
   [data-theme="light"] .nav a{background:rgba(255,255,255,.64);border-color:rgba(0,0,0,.07)}
+  .searchbar{display:flex;gap:8px;margin-bottom:16px}
+  .searchbar input{flex:1;background:rgba(18,22,29,.58);border:1px solid rgba(255,255,255,.07);color:var(--txt);
+    border-radius:14px;padding:12px 16px;font-size:15px;backdrop-filter:blur(9px) saturate(.92);-webkit-backdrop-filter:blur(9px) saturate(.92)}
+  [data-theme="light"] .searchbar input{background:rgba(255,255,255,.64);border-color:rgba(0,0,0,.07)}
+  .searchbar input:focus{outline:none;border-color:var(--accent)}
+  .searchbar select{background:var(--card2);border:1px solid var(--line);color:var(--txt);border-radius:12px;padding:0 10px;font-size:13px;cursor:pointer}
+  .wlist{display:flex;flex-direction:column;gap:7px;font-size:13px}
+  .wrow{display:flex;align-items:center;gap:8px}
+  .dot{width:9px;height:9px;border-radius:50%;flex:0 0 auto}
+  .dot.g{background:var(--good)}.dot.r{background:var(--bad)}
+  .prio{width:8px;height:8px;border-radius:2px;flex:0 0 auto}
+  .pri-urgent{background:#f85149}.pri-high{background:#ffb454}.pri-normal{background:#4aa8ff}.pri-low{background:#8b97a7}
+  .wval{font-size:22px;font-weight:700}.wsub{color:var(--dim);font-size:12px}
+  .wupd{color:var(--dim);font-size:11px;font-weight:500}
   .err{color:var(--bad);font-size:13px}
 </style>
 </head>
@@ -194,6 +208,11 @@
     <a href="index.html" class="on">🏠 Kezdőlap</a>
     <a href="eszkozok.html">🧮 Eszközök</a>
   </nav>
+
+  <form class="searchbar" id="searchbar" autocomplete="off">
+    <select id="se-engine" title="Keresőmotor"><option value="g">Google</option><option value="d">DuckDuckGo</option></select>
+    <input id="se-q" placeholder="Keresés a weben…  (nyomd meg a / billentyűt)">
+  </form>
 
   <div class="grid">
 
@@ -255,6 +274,26 @@
     <div class="card col-4" id="usage-card">
       <h2><span class="ttl">📊 Token / keret</span><span class="nupd" id="usage-upd"></span></h2>
       <div id="usage-body"><div class="news-soon">betöltés…</div></div>
+    </div>
+
+    <div class="card col-4" id="todo-card">
+      <h2><span class="ttl">✅ Teendők</span><span class="wupd" id="todo-upd"></span></h2>
+      <div id="todo-body" class="wlist"><div class="wsub">betöltés…</div></div>
+    </div>
+
+    <div class="card col-4" id="status-card">
+      <h2><span class="ttl">🟢 Szolgáltatások</span><span class="wupd" id="status-upd"></span></h2>
+      <div id="status-body" class="wlist"><div class="wsub">betöltés…</div></div>
+    </div>
+
+    <div class="card col-4" id="home-card">
+      <h2><span class="ttl">🏠 Otthon</span><span class="wupd" id="home-upd"></span></h2>
+      <div id="home-body" class="wlist"><div class="wsub">betöltés…</div></div>
+    </div>
+
+    <div class="card col-4" id="rates-card">
+      <h2><span class="ttl">💱 Árfolyam</span><span class="wupd" id="rates-upd"></span></h2>
+      <div id="rates-body"><div class="wsub">betöltés…</div></div>
     </div>
 
   </div>
@@ -557,7 +596,53 @@ function applyTheme(t){document.documentElement.setAttribute('data-theme',t);
 let theme=localStorage.getItem(THEME_KEY)||'dark';applyTheme(theme);
 document.getElementById('theme-toggle').onclick=()=>{theme=(theme==='dark')?'light':'dark';localStorage.setItem(THEME_KEY,theme);applyTheme(theme);};
 
-document.getElementById('built').textContent='v17 · '+new Date().getFullYear();
+document.getElementById('built').textContent='v18 · '+new Date().getFullYear();
+
+/* ---- kereső ---- */
+(function(){
+  const eng=document.getElementById('se-engine'), q=document.getElementById('se-q'), f=document.getElementById('searchbar');
+  const SK='kezdolap_search_engine'; eng.value=localStorage.getItem(SK)||'g';
+  eng.addEventListener('change',()=>localStorage.setItem(SK,eng.value));
+  f.addEventListener('submit',e=>{e.preventDefault();const t=q.value.trim();if(!t)return;
+    const u=eng.value==='d'?'https://duckduckgo.com/?q=':'https://www.google.com/search?q=';
+    window.open(u+encodeURIComponent(t),'_blank','noopener');q.value='';});
+  document.addEventListener('keydown',e=>{if(e.key==='/'&&!/INPUT|TEXTAREA|SELECT/.test(document.activeElement.tagName)){e.preventDefault();q.focus();}});
+})();
+
+/* ---- widget adatok (pusholt JSON) ---- */
+(function(){
+  const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const ago=ts=>{if(!ts)return'';const m=Math.round((Date.now()/1000-ts)/60);return m<1?'most':m<60?m+' perce':Math.round(m/60)+' órája';};
+  const get=async n=>{const r=await fetch(n+'?t='+Date.now());if(!r.ok)throw 0;return r.json();};
+  const set=(id,h)=>{const el=document.getElementById(id);if(el)el.innerHTML=h;};
+  // Teendők
+  get('kanban.json').then(d=>{
+    set('todo-upd',ago(d.ts));
+    if(!d.cards||!d.cards.length){set('todo-body','<div class="wsub">Nincs nyitott feladat.</div>');return;}
+    set('todo-body',d.cards.slice(0,8).map(c=>`<div class="wrow"><span class="prio pri-${esc(c.p)}" title="${esc(c.p)}"></span><span style="flex:1">${esc(c.t)}</span><span class="wsub">${c.s==='in_progress'?'folyamatban':c.s==='waiting'?'vár':'tervezett'}</span></div>`).join(''));
+  }).catch(()=>set('todo-body','<div class="wsub">A teendők hamarosan frissülnek.</div>'));
+  // Szolgáltatások
+  get('status.json').then(d=>{
+    set('status-upd',ago(d.ts));
+    set('status-body',(d.services||[]).map(s=>`<div class="wrow"><span class="dot ${s.up?'g':'r'}"></span><span style="flex:1">${esc(s.name)}</span><span class="wsub">${s.up?'elérhető':'nem elérhető'}</span></div>`).join(''));
+  }).catch(()=>set('status-body','<div class="wsub">Állapot hamarosan.</div>'));
+  // Otthon (HA)
+  get('ha.json').then(d=>{
+    set('home-upd',ago(d.ts));
+    let h=(d.temps||[]).map(t=>`<div class="wrow"><span style="flex:1">🌡️ ${esc(t.n)}</span><b>${esc(t.v)} ${esc(t.u)}</b></div>`).join('');
+    if(d.lights)h+=`<div class="wrow"><span style="flex:1">💡 Lámpák</span><b>${d.lights.on}/${d.lights.total} be</b></div>`;
+    set('home-body',h||'<div class="wsub">Nincs adat.</div>');
+  }).catch(()=>set('home-body','<div class="wsub">Otthon-adat hamarosan.</div>'));
+  // Árfolyam
+  get('rates.json').then(d=>{
+    set('rates-upd',ago(d.ts));
+    let h='';
+    if(d.eurhuf)h+=`<div class="wrow"><span style="flex:1">🇪🇺 EUR/HUF</span><span class="wval">${d.eurhuf}</span></div>`;
+    if(d.usdhuf)h+=`<div class="wrow"><span style="flex:1">🇺🇸 USD/HUF</span><span class="wval" style="font-size:18px">${d.usdhuf}</span></div>`;
+    if(d.fuel&&d.fuel.petrol)h+=`<div class="wsub" style="margin-top:6px">⛽ 95: ${d.fuel.petrol} · Diesel: ${d.fuel.diesel} Ft/l</div>`;
+    set('rates-body',h||'<div class="wsub">Árfolyam hamarosan.</div>');
+  }).catch(()=>set('rates-body','<div class="wsub">Árfolyam hamarosan.</div>'));
+})();
 </script>
 </body>
 </html>
